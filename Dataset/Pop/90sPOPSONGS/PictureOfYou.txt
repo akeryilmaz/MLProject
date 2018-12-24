@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1998-01-01
+danceability:0.766
+energy:0.909
+loudness:-5.858
+mode:1
+speechiness:0.0355
+acousticness:0.0832
+instrumentalness:1.55e-06
+liveness:0.343
+valence:0.86
+tempo:116.638

@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1983
+danceability:0.506
+energy:0.952
+loudness:-5.373
+mode:1
+speechiness:0.0799
+acousticness:0.0177
+instrumentalness:5.51e-05
+liveness:0.067
+valence:0.455
+tempo:94.6

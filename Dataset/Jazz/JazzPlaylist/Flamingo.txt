@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1969
+danceability:0.399
+energy:0.228
+loudness:-19.521
+mode:1
+speechiness:0.036
+acousticness:0.713
+instrumentalness:0.000446
+liveness:0.354
+valence:0.333
+tempo:99.77

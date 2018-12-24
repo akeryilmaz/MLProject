@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1958
+danceability:0.615
+energy:0.204
+loudness:-16.075
+mode:1
+speechiness:0.0439
+acousticness:0.872
+instrumentalness:0.382
+liveness:0.071
+valence:0.496
+tempo:96.47

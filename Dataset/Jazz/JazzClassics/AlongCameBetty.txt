@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1999-01-01
+danceability:0.665
+energy:0.359
+loudness:-8.887
+mode:1
+speechiness:0.0326
+acousticness:0.801
+instrumentalness:0.106
+liveness:0.145
+valence:0.4
+tempo:111.639

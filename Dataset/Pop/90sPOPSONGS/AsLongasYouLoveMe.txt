@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1997-10-09
+danceability:0.804
+energy:0.801
+loudness:-4.892
+mode:1
+speechiness:0.0305
+acousticness:0.275
+instrumentalness:3.29e-05
+liveness:0.215
+valence:0.826
+tempo:98.12

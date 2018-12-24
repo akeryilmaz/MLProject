@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1990-11-06
+danceability:0.245
+energy:0.321
+loudness:-14.278
+mode:1
+speechiness:0.0379
+acousticness:0.865
+instrumentalness:0.855
+liveness:0.156
+valence:0.142
+tempo:116.931

@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1984
+danceability:0.309
+energy:0.976
+loudness:-6.151
+mode:0
+speechiness:0.104
+acousticness:0.000446
+instrumentalness:0.0776
+liveness:0.536
+valence:0.251
+tempo:137.44

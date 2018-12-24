@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1951
+danceability:0.664
+energy:0.188
+loudness:-16.44
+mode:1
+speechiness:0.0663
+acousticness:0.958
+instrumentalness:0.901
+liveness:0.0926
+valence:0.425
+tempo:79.936

@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1979
+danceability:0.358
+energy:0.476
+loudness:-11.819
+mode:1
+speechiness:0.0369
+acousticness:0.533
+instrumentalness:0.48
+liveness:0.111
+valence:0.509
+tempo:85.001

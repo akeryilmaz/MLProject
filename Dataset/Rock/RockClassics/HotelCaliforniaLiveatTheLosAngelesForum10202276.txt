@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1976
+danceability:0.427
+energy:0.665
+loudness:-8.515
+mode:1
+speechiness:0.0405
+acousticness:0.0145
+instrumentalness:0.00242
+liveness:0.699
+valence:0.442
+tempo:142.702

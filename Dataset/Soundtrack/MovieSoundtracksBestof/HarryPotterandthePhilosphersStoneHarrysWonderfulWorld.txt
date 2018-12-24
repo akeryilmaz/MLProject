@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:2013-03-11
+danceability:0.264
+energy:0.303
+loudness:-12.487
+mode:1
+speechiness:0.0314
+acousticness:0.958
+instrumentalness:0.905
+liveness:0.226
+valence:0.162
+tempo:103.209

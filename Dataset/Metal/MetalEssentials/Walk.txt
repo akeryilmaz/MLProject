@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1992-02-21
+danceability:0.43
+energy:0.704
+loudness:-8.008
+mode:0
+speechiness:0.0804
+acousticness:0.000155
+instrumentalness:0.00221
+liveness:0.0933
+valence:0.703
+tempo:118.242

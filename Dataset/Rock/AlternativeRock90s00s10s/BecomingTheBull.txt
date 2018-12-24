@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:2007-07-23
+danceability:0.477
+energy:0.935
+loudness:-3.461
+mode:1
+speechiness:0.0671
+acousticness:0.000378
+instrumentalness:5.42e-06
+liveness:0.128
+valence:0.466
+tempo:94.998

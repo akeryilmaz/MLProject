@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:2016-07-31
+danceability:0.322
+energy:0.0231
+loudness:-24.111
+mode:0
+speechiness:0.0411
+acousticness:0.987
+instrumentalness:0.924
+liveness:0.108
+valence:0.0844
+tempo:69.031

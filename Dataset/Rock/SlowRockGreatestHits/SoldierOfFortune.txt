@@ -1,0 +1,12 @@
+release_date_precision:month
+release_date:1974-11
+danceability:0.546
+energy:0.274
+loudness:-15.07
+mode:0
+speechiness:0.027
+acousticness:0.417
+instrumentalness:2.99e-05
+liveness:0.109
+valence:0.228
+tempo:66.809

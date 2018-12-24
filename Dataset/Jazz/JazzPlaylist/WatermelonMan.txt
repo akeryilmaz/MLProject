@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1973-10-26
+danceability:0.724
+energy:0.414
+loudness:-11.19
+mode:1
+speechiness:0.0588
+acousticness:0.262
+instrumentalness:0.111
+liveness:0.0785
+valence:0.719
+tempo:146.939

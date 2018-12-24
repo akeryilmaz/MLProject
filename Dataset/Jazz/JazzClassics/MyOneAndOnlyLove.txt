@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1963
+danceability:0.466
+energy:0.0718
+loudness:-17.999
+mode:1
+speechiness:0.0374
+acousticness:0.984
+instrumentalness:0.000931
+liveness:0.107
+valence:0.196
+tempo:121.885

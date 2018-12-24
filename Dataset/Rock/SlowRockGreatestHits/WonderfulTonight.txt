@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1977-11-01
+danceability:0.572
+energy:0.214
+loudness:-15.625
+mode:1
+speechiness:0.0293
+acousticness:0.649
+instrumentalness:0.129
+liveness:0.125
+valence:0.485
+tempo:95.542

@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1982-04-08
+danceability:0.671
+energy:0.373
+loudness:-18.064
+mode:1
+speechiness:0.0323
+acousticness:0.257
+instrumentalness:7.95e-05
+liveness:0.0481
+valence:0.732
+tempo:92.717

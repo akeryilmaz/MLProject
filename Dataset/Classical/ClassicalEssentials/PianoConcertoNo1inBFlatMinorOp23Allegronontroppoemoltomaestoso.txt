@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1987
+danceability:0.265
+energy:0.169
+loudness:-16.814
+mode:0
+speechiness:0.036
+acousticness:0.976
+instrumentalness:0.871
+liveness:0.0903
+valence:0.0399
+tempo:81.013

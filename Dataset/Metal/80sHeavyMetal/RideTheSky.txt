@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1991
+danceability:0.163
+energy:0.966
+loudness:-7.078
+mode:0
+speechiness:0.0762
+acousticness:2.28e-05
+instrumentalness:0.0244
+liveness:0.299
+valence:0.0382
+tempo:153.82

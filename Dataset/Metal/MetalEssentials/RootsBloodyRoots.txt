@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1996-02-20
+danceability:0.428
+energy:0.874
+loudness:-6.664
+mode:0
+speechiness:0.128
+acousticness:0.000337
+instrumentalness:0.0419
+liveness:0.311
+valence:0.261
+tempo:119.708

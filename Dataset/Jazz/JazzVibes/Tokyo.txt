@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:2018-11-01
+danceability:0.638
+energy:0.482
+loudness:-14.656
+mode:0
+speechiness:0.0975
+acousticness:0.63
+instrumentalness:0.778
+liveness:0.273
+valence:0.229
+tempo:120.099

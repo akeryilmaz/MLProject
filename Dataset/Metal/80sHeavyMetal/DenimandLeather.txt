@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1981-10-05
+danceability:0.363
+energy:0.713
+loudness:-7.418
+mode:1
+speechiness:0.0387
+acousticness:0.00533
+instrumentalness:6.2e-06
+liveness:0.12
+valence:0.716
+tempo:171.885

@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1980-05-20
+danceability:0.533
+energy:0.783
+loudness:-6.503
+mode:1
+speechiness:0.0276
+acousticness:0.0758
+instrumentalness:1.2e-06
+liveness:0.0496
+valence:0.856
+tempo:103.315

@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1995-01-01
+danceability:0.442
+energy:0.256
+loudness:-14.718
+mode:1
+speechiness:0.0469
+acousticness:0.885
+instrumentalness:0.0618
+liveness:0.146
+valence:0.274
+tempo:139.599

@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1975
+danceability:0.38
+energy:0.76
+loudness:-10.961
+mode:1
+speechiness:0.0378
+acousticness:0.00298
+instrumentalness:0.0294
+liveness:0.104
+valence:0.491
+tempo:99.437

@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:2008
+danceability:0.386
+energy:0.409
+loudness:-6.044
+mode:1
+speechiness:0.0313
+acousticness:0.271
+instrumentalness:0.0184
+liveness:0.106
+valence:0.283
+tempo:132.986

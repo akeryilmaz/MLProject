@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1971-08-14
+danceability:0.489
+energy:0.724
+loudness:-8.367
+mode:1
+speechiness:0.0352
+acousticness:0.313
+instrumentalness:0.185
+liveness:0.287
+valence:0.15
+tempo:117.292

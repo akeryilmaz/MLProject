@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1970-11-23
+danceability:0.483
+energy:0.503
+loudness:-9.396
+mode:1
+speechiness:0.0341
+acousticness:0.354
+instrumentalness:0.000284
+liveness:0.116
+valence:0.598
+tempo:151.862

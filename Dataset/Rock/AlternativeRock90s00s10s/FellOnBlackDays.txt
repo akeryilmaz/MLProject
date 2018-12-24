@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1994-03-09
+danceability:0.389
+energy:0.641
+loudness:-9.623
+mode:0
+speechiness:0.0328
+acousticness:0.00126
+instrumentalness:0.000943
+liveness:0.18
+valence:0.546
+tempo:203.015

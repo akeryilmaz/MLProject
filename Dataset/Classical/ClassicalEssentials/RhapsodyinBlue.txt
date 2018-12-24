@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1985-06-23
+danceability:0.341
+energy:0.247
+loudness:-16.986
+mode:1
+speechiness:0.0457
+acousticness:0.963
+instrumentalness:0.763
+liveness:0.232
+valence:0.0994
+tempo:77.208

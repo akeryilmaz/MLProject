@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:2009-06-29
+danceability:0.308
+energy:0.18
+loudness:-12.982
+mode:1
+speechiness:0.0356
+acousticness:0.881
+instrumentalness:0.788
+liveness:0.271
+valence:0.36
+tempo:88.248

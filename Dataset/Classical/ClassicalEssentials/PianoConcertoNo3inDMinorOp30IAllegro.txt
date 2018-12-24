@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1966-05-01
+danceability:0.233
+energy:0.168
+loudness:-21.091
+mode:1
+speechiness:0.0341
+acousticness:0.976
+instrumentalness:0.9
+liveness:0.105
+valence:0.0635
+tempo:69.013

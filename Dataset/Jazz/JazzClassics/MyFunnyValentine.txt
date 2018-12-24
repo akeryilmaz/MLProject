@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1957
+danceability:0.549
+energy:0.124
+loudness:-13.793
+mode:0
+speechiness:0.0397
+acousticness:0.938
+instrumentalness:0.00175
+liveness:0.126
+valence:0.32
+tempo:66.184

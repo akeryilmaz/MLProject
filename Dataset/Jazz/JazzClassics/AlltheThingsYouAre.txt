@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:2002-03-01
+danceability:0.594
+energy:0.115
+loudness:-14.916
+mode:1
+speechiness:0.044
+acousticness:0.99
+instrumentalness:0.853
+liveness:0.107
+valence:0.456
+tempo:126.902

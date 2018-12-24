@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1965-07-30
+danceability:0.725
+energy:0.853
+loudness:-7.842
+mode:1
+speechiness:0.0353
+acousticness:0.0348
+instrumentalness:0.127
+liveness:0.196
+valence:0.904
+tempo:136.282

@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:2004-01-01
+danceability:0.453
+energy:0.253
+loudness:-14.44
+mode:1
+speechiness:0.0313
+acousticness:0.705
+instrumentalness:0.000308
+liveness:0.0892
+valence:0.344
+tempo:120.415

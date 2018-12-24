@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:1978-06-09
+danceability:0.786
+energy:0.87
+loudness:-3.875
+mode:0
+speechiness:0.0316
+acousticness:0.413
+instrumentalness:0.000494
+liveness:0.0389
+valence:0.864
+tempo:100.66

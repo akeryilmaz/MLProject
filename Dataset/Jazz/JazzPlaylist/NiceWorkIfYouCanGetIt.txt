@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1959
+danceability:0.429
+energy:0.258
+loudness:-12.42
+mode:1
+speechiness:0.0458
+acousticness:0.804
+instrumentalness:0
+liveness:0.136
+valence:0.427
+tempo:115.935

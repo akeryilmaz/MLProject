@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1942
+danceability:0.251
+energy:0.304
+loudness:-16.228
+mode:0
+speechiness:0.0352
+acousticness:0.967
+instrumentalness:0.896
+liveness:0.105
+valence:0.439
+tempo:166.953

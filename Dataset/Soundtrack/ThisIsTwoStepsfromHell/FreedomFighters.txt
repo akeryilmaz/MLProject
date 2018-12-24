@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:2010-05-03
+danceability:0.315
+energy:0.422
+loudness:-12.209
+mode:0
+speechiness:0.0389
+acousticness:0.00573
+instrumentalness:0.94
+liveness:0.11
+valence:0.0386
+tempo:119.877

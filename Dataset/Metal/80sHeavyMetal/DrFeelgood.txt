@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1989
+danceability:0.535
+energy:0.968
+loudness:-3.952
+mode:1
+speechiness:0.0658
+acousticness:0.000894
+instrumentalness:0.0127
+liveness:0.236
+valence:0.384
+tempo:110.964

@@ -1,0 +1,12 @@
+release_date_precision:day
+release_date:2014-09-12
+danceability:0.194
+energy:0.144
+loudness:-21.586
+mode:1
+speechiness:0.0501
+acousticness:0.971
+instrumentalness:0.922
+liveness:0.0967
+valence:0.043
+tempo:172.819

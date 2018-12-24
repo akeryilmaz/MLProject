@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1988
+danceability:0.192
+energy:0.943
+loudness:-7.758
+mode:0
+speechiness:0.128
+acousticness:0.119
+instrumentalness:0
+liveness:0.175
+valence:0.315
+tempo:172.309

@@ -1,0 +1,12 @@
+release_date_precision:year
+release_date:1972
+danceability:0.654
+energy:0.506
+loudness:-17.18
+mode:0
+speechiness:0.0535
+acousticness:0.686
+instrumentalness:0.0155
+liveness:0.155
+valence:0.831
+tempo:123.179
