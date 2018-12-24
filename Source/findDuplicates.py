@@ -80,11 +80,18 @@ def check_for_duplicates(paths, hash=hashlib.sha1):
                 print("Duplicate found: %s and %s" % (filename, duplicate))
             else:
                 hashes_full[full_hash] = filename
+    # Writing to the file.
     mfile = open('/home/kenjataimu/Desktop/CENG/CENG-9th_Semester/CEng499/Project/MLProject/Docs/duplicates.txt',
                   mode='w')
     for row in duplicates:
         mfile.write("Duplicate found: %s and %s \n" % (row[0], row[1]))
     mfile.close()
+    # Deleting duplicates.
+    for row in duplicates:
+        if os.path.isfile(row[1]):
+            os.remove(row[1])
+        else:
+            os.remove(row[0])
 
 
 if sys.argv[1:]:
