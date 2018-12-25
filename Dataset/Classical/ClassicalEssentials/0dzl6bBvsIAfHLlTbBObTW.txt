@@ -1,0 +1,12 @@
+name:An der schnen blauen Donau, Op.314
+release_year:1982
+danceability:0.233
+energy:0.0252
+loudness:-24.824
+mode:1
+speechiness:0.0346
+acousticness:0.975
+instrumentalness:0.604
+liveness:0.143
+valence:0.0936
+tempo:94.736

@@ -1,0 +1,12 @@
+name:Still Lovin You
+release_year:2008
+danceability:0.126
+energy:0.589
+loudness:-5.928
+mode:0
+speechiness:0.0362
+acousticness:0.00147
+instrumentalness:0.00326
+liveness:0.0824
+valence:0.128
+tempo:95.995

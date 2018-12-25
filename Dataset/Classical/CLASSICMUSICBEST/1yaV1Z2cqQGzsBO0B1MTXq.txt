@@ -1,0 +1,12 @@
+name:Die Zauberflte (The Magic Flute), K. 620, Act IIie: "Der Hlle Rache kocht in meinem Herzen" (Knigin der Nacht)
+release_year:2009
+danceability:0.511
+energy:0.148
+loudness:-13.499
+mode:1
+speechiness:0.0469
+acousticness:0.973
+instrumentalness:0.277
+liveness:0.104
+valence:0.374
+tempo:137.822

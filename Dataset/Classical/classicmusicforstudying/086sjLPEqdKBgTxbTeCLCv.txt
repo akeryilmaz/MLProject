@@ -1,0 +1,12 @@
+name:Rverie
+release_year:2007
+danceability:0.251
+energy:0.00904
+loudness:-31.599
+mode:1
+speechiness:0.0406
+acousticness:0.995
+instrumentalness:0.922
+liveness:0.0779
+valence:0.0819
+tempo:62.225

@@ -1,0 +1,12 @@
+name:Libert
+release_year:2018
+danceability:0.484
+energy:0.948
+loudness:-4.542
+mode:1
+speechiness:0.0698
+acousticness:7.11e-05
+instrumentalness:0.000365
+liveness:0.348
+valence:0.154
+tempo:139.95

@@ -1,0 +1,12 @@
+name:Comptine d'un autre t, l'aprs-midi
+release_year:2001
+danceability:0.484
+energy:0.192
+loudness:-15.378
+mode:1
+speechiness:0.0465
+acousticness:0.991
+instrumentalness:0.908
+liveness:0.106
+valence:0.0559
+tempo:100.084

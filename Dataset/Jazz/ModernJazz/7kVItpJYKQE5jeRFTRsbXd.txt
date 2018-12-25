@@ -1,0 +1,12 @@
+name:Azul  O Mar
+release_year:1996
+danceability:0.633
+energy:0.347
+loudness:-17.01
+mode:0
+speechiness:0.0448
+acousticness:0.723
+instrumentalness:0.741
+liveness:0.137
+valence:0.543
+tempo:81.157

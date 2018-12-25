@@ -1,0 +1,12 @@
+name:Turangalla Symphonie: 6. Jardin du sommeil d'amour
+release_year:1991
+danceability:0.142
+energy:0.00336
+loudness:-42.32
+mode:1
+speechiness:0.0435
+acousticness:0.949
+instrumentalness:0.318
+liveness:0.0652
+valence:0.0332
+tempo:100.298

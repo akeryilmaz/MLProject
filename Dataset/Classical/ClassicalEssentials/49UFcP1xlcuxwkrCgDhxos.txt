@@ -1,0 +1,12 @@
+name:3 Gymnopdies: No.1
+release_year:1984
+danceability:0.425
+energy:0.00472
+loudness:-37.89
+mode:1
+speechiness:0.0479
+acousticness:0.996
+instrumentalness:0.953
+liveness:0.0985
+valence:0.484
+tempo:81.93

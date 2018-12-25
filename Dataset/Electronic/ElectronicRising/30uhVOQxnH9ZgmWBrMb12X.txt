@@ -1,0 +1,12 @@
+name:618 - Klsch Mix
+release_year:2018
+danceability:0.672
+energy:0.672
+loudness:-10.966
+mode:1
+speechiness:0.0431
+acousticness:0.00403
+instrumentalness:0.871
+liveness:0.106
+valence:0.0556
+tempo:125.986

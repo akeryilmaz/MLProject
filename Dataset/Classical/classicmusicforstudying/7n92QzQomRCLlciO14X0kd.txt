@@ -1,0 +1,12 @@
+name:Nocturne en mi bmol majeur opus 9 n2: Ballade en Sol Mineur No.1
+release_year:2010
+danceability:0.387
+energy:0.0451
+loudness:-24.698
+mode:1
+speechiness:0.0364
+acousticness:0.99
+instrumentalness:0.913
+liveness:0.112
+valence:0.071
+tempo:61.494

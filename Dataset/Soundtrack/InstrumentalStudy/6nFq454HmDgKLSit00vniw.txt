@@ -1,0 +1,12 @@
+name:Valse Glace
+release_year:2018
+danceability:0.337
+energy:0.00907
+loudness:-29.19
+mode:0
+speechiness:0.0439
+acousticness:0.995
+instrumentalness:0.924
+liveness:0.13
+valence:0.0852
+tempo:62.833

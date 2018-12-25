@@ -1,0 +1,12 @@
+name:Comptine d'un autre t: l'aprs-midi
+release_year:2015
+danceability:0.361
+energy:0.062
+loudness:-27.905
+mode:1
+speechiness:0.0439
+acousticness:0.987
+instrumentalness:0.931
+liveness:0.102
+valence:0.363
+tempo:109.682

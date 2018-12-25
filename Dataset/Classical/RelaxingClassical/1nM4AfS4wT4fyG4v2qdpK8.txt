@@ -1,0 +1,12 @@
+name:Balro
+release_year:2010
+danceability:0.102
+energy:0.152
+loudness:-20.804
+mode:1
+speechiness:0.0389
+acousticness:0.969
+instrumentalness:0.856
+liveness:0.0955
+valence:0.0395
+tempo:89.262

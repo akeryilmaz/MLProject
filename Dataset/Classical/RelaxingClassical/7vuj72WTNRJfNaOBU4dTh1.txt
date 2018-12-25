@@ -1,0 +1,12 @@
+name:Gymnopdie No. 1: Lent et douloureux
+release_year:2016
+danceability:0.43
+energy:0.00236
+loudness:-35.495
+mode:1
+speechiness:0.0794
+acousticness:0.995
+instrumentalness:0.932
+liveness:0.0926
+valence:0.371
+tempo:173.332

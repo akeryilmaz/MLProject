@@ -1,0 +1,12 @@
+name:You Keep Comin
+release_year:2018
+danceability:0.746
+energy:0.869
+loudness:-7.437
+mode:1
+speechiness:0.0573
+acousticness:0.000831
+instrumentalness:0.704
+liveness:0.0725
+valence:0.587
+tempo:126.028

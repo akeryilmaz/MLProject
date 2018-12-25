@@ -1,0 +1,12 @@
+name:Rverie, L. 68: Rverie
+release_year:2012
+danceability:0.242
+energy:0.00898
+loudness:-31.811
+mode:0
+speechiness:0.0424
+acousticness:0.994
+instrumentalness:0.909
+liveness:0.0814
+valence:0.0549
+tempo:68.88

@@ -1,0 +1,12 @@
+name:Tears for Esbjrn
+release_year:2011
+danceability:0.291
+energy:0.0233
+loudness:-25.166
+mode:0
+speechiness:0.0434
+acousticness:0.993
+instrumentalness:0.924
+liveness:0.0918
+valence:0.119
+tempo:182.562

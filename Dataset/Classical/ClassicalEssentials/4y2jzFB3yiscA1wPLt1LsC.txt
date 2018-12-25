@@ -1,0 +1,12 @@
+name:Symphony No.4 In E Minor, Op.98: 4. Allegro energico e passionato - Pi allegro
+release_year:1981
+danceability:0.245
+energy:0.137
+loudness:-17.533
+mode:0
+speechiness:0.0379
+acousticness:0.966
+instrumentalness:0.813
+liveness:0.0998
+valence:0.066
+tempo:139.998

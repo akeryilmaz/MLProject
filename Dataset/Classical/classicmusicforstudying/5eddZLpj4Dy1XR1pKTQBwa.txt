@@ -1,0 +1,12 @@
+name:Salut damour, Op. 12
+release_year:2012
+danceability:0.239
+energy:0.205
+loudness:-15.867
+mode:1
+speechiness:0.0358
+acousticness:0.909
+instrumentalness:0.924
+liveness:0.11
+valence:0.0558
+tempo:84.911

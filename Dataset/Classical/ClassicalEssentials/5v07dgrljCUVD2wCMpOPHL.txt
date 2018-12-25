@@ -1,0 +1,12 @@
+name:Suite espaola, Op.47: Sevilla (Sevillanas)
+release_year:1988
+danceability:0.376
+energy:0.0726
+loudness:-27.63
+mode:1
+speechiness:0.0425
+acousticness:0.984
+instrumentalness:0.907
+liveness:0.115
+valence:0.228
+tempo:115.503

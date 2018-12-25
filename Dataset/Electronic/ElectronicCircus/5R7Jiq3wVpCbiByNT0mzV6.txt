@@ -1,0 +1,12 @@
+name:Frbindelse - Original Mix
+release_year:2018
+danceability:0.759
+energy:0.783
+loudness:-8.701
+mode:0
+speechiness:0.0403
+acousticness:0.000116
+instrumentalness:0.907
+liveness:0.0931
+valence:0.603
+tempo:124.005

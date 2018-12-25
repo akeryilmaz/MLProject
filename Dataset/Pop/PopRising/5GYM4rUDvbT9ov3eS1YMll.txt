@@ -1,0 +1,12 @@
+name:TELFONO - Remix
+release_year:2018
+danceability:0.672
+energy:0.886
+loudness:-3.234
+mode:1
+speechiness:0.0684
+acousticness:0.201
+instrumentalness:4.79e-05
+liveness:0.104
+valence:0.667
+tempo:171.995

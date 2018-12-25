@@ -1,0 +1,12 @@
+name:Une barque sur l'ocan from Miroirs
+release_year:2017
+danceability:0.292
+energy:0.113
+loudness:-21.698
+mode:1
+speechiness:0.0403
+acousticness:0.981
+instrumentalness:0.887
+liveness:0.0871
+valence:0.0308
+tempo:68.081

@@ -1,0 +1,12 @@
+name:Lieutenant Kij, Op. 60: II. Romance
+release_year:1990
+danceability:0.187
+energy:0.0169
+loudness:-30.742
+mode:1
+speechiness:0.0359
+acousticness:0.943
+instrumentalness:0.891
+liveness:0.101
+valence:0.0843
+tempo:103.833

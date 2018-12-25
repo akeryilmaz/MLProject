@@ -1,0 +1,12 @@
+name:Serse: Aria "Ombra mai f" (Atto I, scena 1)
+release_year:1999
+danceability:0.193
+energy:0.095
+loudness:-23.482
+mode:1
+speechiness:0.0468
+acousticness:0.935
+instrumentalness:0.277
+liveness:0.109
+valence:0.0419
+tempo:107.44

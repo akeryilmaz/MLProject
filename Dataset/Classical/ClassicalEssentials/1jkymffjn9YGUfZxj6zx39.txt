@@ -1,0 +1,12 @@
+name:Requiem in D Minor, Op. 48: IV. Pie Jesu (Ed. Marc Rigaudire)
+release_year:2014
+danceability:0.183
+energy:0.0303
+loudness:-27.999
+mode:1
+speechiness:0.0448
+acousticness:0.964
+instrumentalness:0.925
+liveness:0.108
+valence:0.0422
+tempo:69.003

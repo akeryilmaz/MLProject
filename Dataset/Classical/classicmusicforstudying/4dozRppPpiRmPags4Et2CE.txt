@@ -1,0 +1,12 @@
+name:Valse No. 1 en La bmol majeur, Op. 69
+release_year:2010
+danceability:0.212
+energy:0.0351
+loudness:-28.526
+mode:1
+speechiness:0.0419
+acousticness:0.995
+instrumentalness:0.91
+liveness:0.107
+valence:0.0664
+tempo:75.949

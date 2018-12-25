@@ -1,0 +1,12 @@
+name:Nocturne . 9 No. 3 in E flat major
+release_year:2006
+danceability:0.524
+energy:0.00148
+loudness:-30.121
+mode:1
+speechiness:0.0599
+acousticness:0.992
+instrumentalness:0.00624
+liveness:0.073
+valence:0.162
+tempo:102.687

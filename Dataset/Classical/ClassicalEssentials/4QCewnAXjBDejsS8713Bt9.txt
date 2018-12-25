@@ -1,0 +1,12 @@
+name:Annes de plerinage, 1re anne "Suisse", S. 160: No. 2. Au lac de Wallenstadt (At the Lake of Wallenstadt)
+release_year:1992
+danceability:0.222
+energy:0.0119
+loudness:-32.855
+mode:1
+speechiness:0.0357
+acousticness:0.994
+instrumentalness:0.925
+liveness:0.102
+valence:0.14
+tempo:72.774

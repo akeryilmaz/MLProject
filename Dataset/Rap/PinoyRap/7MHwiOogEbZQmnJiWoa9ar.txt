@@ -1,0 +1,12 @@
+name:Dvoea
+release_year:2018
+danceability:0.746
+energy:0.686
+loudness:-6.463
+mode:1
+speechiness:0.0332
+acousticness:0.448
+instrumentalness:0.000174
+liveness:0.108
+valence:0.184
+tempo:144.963

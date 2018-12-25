@@ -1,0 +1,12 @@
+name:Kinderszenen, Op. 15: VII. Trumerei
+release_year:2002
+danceability:0.453
+energy:0.00715
+loudness:-33.859
+mode:1
+speechiness:0.0709
+acousticness:0.995
+instrumentalness:0.931
+liveness:0.0647
+valence:0.257
+tempo:135.407

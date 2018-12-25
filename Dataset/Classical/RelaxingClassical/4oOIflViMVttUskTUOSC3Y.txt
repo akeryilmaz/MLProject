@@ -1,0 +1,12 @@
+name:Trois Gymnopdies: Lent et grave
+release_year:1996
+danceability:0.567
+energy:0.00775
+loudness:-39.695
+mode:0
+speechiness:0.129
+acousticness:0.996
+instrumentalness:0.944
+liveness:0.0654
+valence:0.381
+tempo:77.566
