@@ -1,0 +1,12 @@
+name:Speling
+release_year:2018
+danceability:0.868
+energy:0.568
+loudness:-4.434
+mode:0
+speechiness:0.0822
+acousticness:0.0267
+instrumentalness:0
+liveness:0.0741
+valence:0.682
+tempo:97.931

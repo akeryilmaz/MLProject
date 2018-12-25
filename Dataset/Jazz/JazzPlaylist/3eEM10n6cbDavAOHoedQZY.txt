@@ -1,0 +1,12 @@
+name:Isn't She Lovely
+release_year:2017
+danceability:0.69
+energy:0.532
+loudness:-11.487
+mode:0
+speechiness:0.0317
+acousticness:0.307
+instrumentalness:0.727
+liveness:0.0577
+valence:0.677
+tempo:120.016

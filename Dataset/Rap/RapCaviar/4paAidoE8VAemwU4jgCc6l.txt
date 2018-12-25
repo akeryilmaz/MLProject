@@ -1,0 +1,12 @@
+name:all my friends
+release_year:2018
+danceability:0.713
+energy:0.62
+loudness:-4.513
+mode:1
+speechiness:0.0422
+acousticness:0.171
+instrumentalness:1.16e-06
+liveness:0.118
+valence:0.206
+tempo:130.09

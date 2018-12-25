@@ -1,0 +1,12 @@
+name:Rhapsody In Blue - Andante
+release_year:2009
+danceability:0.436
+energy:0.132
+loudness:-22.233
+mode:0
+speechiness:0.0524
+acousticness:0.993
+instrumentalness:0.885
+liveness:0.115
+valence:0.0783
+tempo:147.611

@@ -1,0 +1,12 @@
+name:Bring You Out
+release_year:2018
+danceability:0.752
+energy:0.69
+loudness:-7.691
+mode:1
+speechiness:0.0497
+acousticness:0.00867
+instrumentalness:0.151
+liveness:0.071
+valence:0.713
+tempo:123.993

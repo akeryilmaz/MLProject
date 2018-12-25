@@ -1,0 +1,12 @@
+name:Tennessee
+release_year:2005
+danceability:0.0753
+energy:0.163
+loudness:-17.328
+mode:1
+speechiness:0.0402
+acousticness:0.89
+instrumentalness:0.936
+liveness:0.115
+valence:0.0395
+tempo:76.405

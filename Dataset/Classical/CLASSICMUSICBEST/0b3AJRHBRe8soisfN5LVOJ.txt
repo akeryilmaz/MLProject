@@ -1,0 +1,12 @@
+name:Songs without Words Book 4, Opus 53 n.2 - Folk Song
+release_year:2010
+danceability:0.619
+energy:0.187
+loudness:-25.501
+mode:0
+speechiness:0.0788
+acousticness:0.996
+instrumentalness:0.966
+liveness:0.0784
+valence:0.646
+tempo:199.946

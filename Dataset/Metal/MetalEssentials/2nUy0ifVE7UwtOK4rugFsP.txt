@@ -1,0 +1,12 @@
+name:The End of Heartache
+release_year:2004
+danceability:0.469
+energy:0.976
+loudness:-3.569
+mode:0
+speechiness:0.111
+acousticness:0.000287
+instrumentalness:0.217
+liveness:0.0636
+valence:0.222
+tempo:124.001

@@ -1,0 +1,12 @@
+name:Pig Latin
+release_year:2002
+danceability:0.55
+energy:0.965
+loudness:-4.6
+mode:0
+speechiness:0.079
+acousticness:0.0504
+instrumentalness:0.0142
+liveness:0.0654
+valence:0.203
+tempo:119.96

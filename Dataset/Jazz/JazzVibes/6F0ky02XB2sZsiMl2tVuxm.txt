@@ -1,0 +1,12 @@
+name:Rosewood
+release_year:2018
+danceability:0.561
+energy:0.364
+loudness:-10.767
+mode:1
+speechiness:0.245
+acousticness:0.782
+instrumentalness:0.847
+liveness:0.141
+valence:0.141
+tempo:129.759

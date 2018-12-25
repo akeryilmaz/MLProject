@@ -1,0 +1,12 @@
+name:Kill Me
+release_year:2018
+danceability:0.365
+energy:0.924
+loudness:-5.103
+mode:0
+speechiness:0.0575
+acousticness:5.3e-05
+instrumentalness:0.0399
+liveness:0.111
+valence:0.393
+tempo:174.879

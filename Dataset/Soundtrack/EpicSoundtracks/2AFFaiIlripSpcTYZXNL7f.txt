@@ -1,0 +1,12 @@
+name:Statues
+release_year:2011
+danceability:0.349
+energy:0.229
+loudness:-20.614
+mode:1
+speechiness:0.0356
+acousticness:0.537
+instrumentalness:0.889
+liveness:0.107
+valence:0.0656
+tempo:129.046

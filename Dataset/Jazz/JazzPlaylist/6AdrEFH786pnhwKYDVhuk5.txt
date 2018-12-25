@@ -1,0 +1,12 @@
+name:Straight, No Chaser
+release_year:1962
+danceability:0.478
+energy:0.344
+loudness:-13.006
+mode:1
+speechiness:0.0402
+acousticness:0.426
+instrumentalness:0.306
+liveness:0.208
+valence:0.612
+tempo:96.743

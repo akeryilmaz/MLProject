@@ -1,0 +1,12 @@
+name:1901
+release_year:2009
+danceability:0.592
+energy:0.84
+loudness:-5.394
+mode:1
+speechiness:0.0429
+acousticness:0.0558
+instrumentalness:2.3e-05
+liveness:0.194
+valence:0.696
+tempo:144.081

@@ -1,0 +1,12 @@
+name:If I Killed Someone For You
+release_year:2018
+danceability:0.514
+energy:0.605
+loudness:-5.363
+mode:1
+speechiness:0.0337
+acousticness:0.774
+instrumentalness:2.91e-06
+liveness:0.121
+valence:0.409
+tempo:120.894

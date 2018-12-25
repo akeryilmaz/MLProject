@@ -1,0 +1,12 @@
+name:Without Me
+release_year:2018
+danceability:0.752
+energy:0.488
+loudness:-7.05
+mode:1
+speechiness:0.0705
+acousticness:0.297
+instrumentalness:9.11e-06
+liveness:0.0936
+valence:0.533
+tempo:136.041

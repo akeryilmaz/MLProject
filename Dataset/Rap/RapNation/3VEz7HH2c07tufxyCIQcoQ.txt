@@ -1,0 +1,12 @@
+name:Vibe
+release_year:2018
+danceability:0.76
+energy:0.49
+loudness:-8.922
+mode:1
+speechiness:0.176
+acousticness:0.454
+instrumentalness:2.63e-06
+liveness:0.0851
+valence:0.478
+tempo:80.047

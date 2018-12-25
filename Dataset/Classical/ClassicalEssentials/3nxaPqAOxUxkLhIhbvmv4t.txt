@@ -1,0 +1,12 @@
+name:Violin Concerto BWV 1042 in E Major: Violin Concerto BWV 1042 in E Major: I. Allegro
+release_year:2013
+danceability:0.441
+energy:0.319
+loudness:-13.99
+mode:1
+speechiness:0.0392
+acousticness:0.829
+instrumentalness:0
+liveness:0.0765
+valence:0.671
+tempo:99.419

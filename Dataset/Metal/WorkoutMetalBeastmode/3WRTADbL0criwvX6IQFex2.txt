@@ -1,0 +1,12 @@
+name:Six
+release_year:2006
+danceability:0.238
+energy:0.963
+loudness:-3.41
+mode:0
+speechiness:0.0838
+acousticness:0.000139
+instrumentalness:0.0057
+liveness:0.104
+valence:0.204
+tempo:95.85

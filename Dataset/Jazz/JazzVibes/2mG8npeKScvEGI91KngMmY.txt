@@ -1,0 +1,12 @@
+name:Him vs Her - Instrumental
+release_year:2018
+danceability:0.818
+energy:0.658
+loudness:-7.241
+mode:0
+speechiness:0.0729
+acousticness:0.0322
+instrumentalness:0.904
+liveness:0.085
+valence:0.198
+tempo:90.999

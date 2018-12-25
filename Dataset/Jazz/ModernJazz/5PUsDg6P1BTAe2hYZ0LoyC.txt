@@ -1,0 +1,12 @@
+name:Afilia Mi
+release_year:2011
+danceability:0.513
+energy:0.619
+loudness:-11.169
+mode:1
+speechiness:0.0411
+acousticness:0.0876
+instrumentalness:0.963
+liveness:0.117
+valence:0.469
+tempo:95.071

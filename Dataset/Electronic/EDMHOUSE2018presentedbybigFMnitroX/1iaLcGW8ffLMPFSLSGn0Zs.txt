@@ -1,0 +1,12 @@
+name:Symphony
+release_year:2018
+danceability:0.612
+energy:0.888
+loudness:-3.796
+mode:1
+speechiness:0.0603
+acousticness:0.0374
+instrumentalness:6.95e-05
+liveness:0.123
+valence:0.189
+tempo:127.92

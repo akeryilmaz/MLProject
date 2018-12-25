@@ -1,0 +1,12 @@
+name:Symphony No. 5 in D Minor, Op. 47: I. Moderato
+release_year:2017
+danceability:0.155
+energy:0.176
+loudness:-15.716
+mode:0
+speechiness:0.0374
+acousticness:0.849
+instrumentalness:0.818
+liveness:0.123
+valence:0.0372
+tempo:84.962

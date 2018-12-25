@@ -1,0 +1,12 @@
+name:Baby, It's Cold Outside (Glee Cast Version)
+release_year:2010
+danceability:0.52
+energy:0.271
+loudness:-9.806
+mode:1
+speechiness:0.0299
+acousticness:0.618
+instrumentalness:0
+liveness:0.109
+valence:0.509
+tempo:110.789

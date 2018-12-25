@@ -1,0 +1,12 @@
+name:The Avengers
+release_year:2012
+danceability:0.421
+energy:0.566
+loudness:-8.154
+mode:1
+speechiness:0.039
+acousticness:0.563
+instrumentalness:0.932
+liveness:0.178
+valence:0.233
+tempo:119.152

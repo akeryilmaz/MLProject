@@ -1,0 +1,12 @@
+name:Purple Dreams
+release_year:2018
+danceability:0.599
+energy:0.254
+loudness:-23.687
+mode:0
+speechiness:0.0421
+acousticness:0.989
+instrumentalness:0.915
+liveness:0.0928
+valence:0.34
+tempo:113.971

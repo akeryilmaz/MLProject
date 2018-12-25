@@ -1,0 +1,12 @@
+name:High C's
+release_year:2016
+danceability:0.252
+energy:0.668
+loudness:-5.906
+mode:0
+speechiness:0.0344
+acousticness:0.647
+instrumentalness:0.964
+liveness:0.132
+valence:0.323
+tempo:127.038

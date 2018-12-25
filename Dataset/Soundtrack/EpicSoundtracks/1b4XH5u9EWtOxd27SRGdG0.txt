@@ -1,0 +1,12 @@
+name:Pyramid Of The Moon
+release_year:2010
+danceability:0.623
+energy:0.894
+loudness:-8.293
+mode:0
+speechiness:0.0331
+acousticness:0.011
+instrumentalness:0.877
+liveness:0.06
+valence:0.766
+tempo:105.01

@@ -1,0 +1,12 @@
+name:Got the Feeling
+release_year:2017
+danceability:0.677
+energy:0.819
+loudness:-3.654
+mode:0
+speechiness:0.0304
+acousticness:0.0776
+instrumentalness:5.61e-05
+liveness:0.0756
+valence:0.529
+tempo:124.01

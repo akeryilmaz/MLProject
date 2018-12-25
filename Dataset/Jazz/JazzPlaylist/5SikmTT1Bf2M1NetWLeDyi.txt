@@ -1,0 +1,12 @@
+name:Seven Come Eleven (feat. Benny Goodman & Charlie Christian)
+release_year:1940
+danceability:0.703
+energy:0.72
+loudness:-6.975
+mode:1
+speechiness:0.0292
+acousticness:0.727
+instrumentalness:0.016
+liveness:0.185
+valence:0.823
+tempo:115.688

@@ -1,0 +1,12 @@
+name:Dusty
+release_year:2018
+danceability:0.807
+energy:0.734
+loudness:-7.571
+mode:0
+speechiness:0.0601
+acousticness:2.94e-05
+instrumentalness:0.905
+liveness:0.0645
+valence:0.557
+tempo:125.022

@@ -1,0 +1,12 @@
+name:So What
+release_year:1959
+danceability:0.517
+energy:0.151
+loudness:-17.266
+mode:1
+speechiness:0.0373
+acousticness:0.705
+instrumentalness:0.00136
+liveness:0.116
+valence:0.21
+tempo:136.356

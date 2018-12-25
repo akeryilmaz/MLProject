@@ -1,0 +1,12 @@
+name:Don't Tell The Kids
+release_year:1996
+danceability:0.287
+energy:0.95
+loudness:-6.643
+mode:0
+speechiness:0.0829
+acousticness:0.00373
+instrumentalness:0.000212
+liveness:0.374
+valence:0.357
+tempo:154.224

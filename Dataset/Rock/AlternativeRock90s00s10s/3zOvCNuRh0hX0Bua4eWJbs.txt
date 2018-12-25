@@ -1,0 +1,12 @@
+name:Low
+release_year:2006
+danceability:0.437
+energy:0.676
+loudness:-5.607
+mode:1
+speechiness:0.0253
+acousticness:0.0104
+instrumentalness:0.00456
+liveness:0.145
+valence:0.444
+tempo:86.832

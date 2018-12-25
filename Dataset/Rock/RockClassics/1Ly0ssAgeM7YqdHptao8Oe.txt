@@ -1,0 +1,12 @@
+name:Paranoid
+release_year:2014
+danceability:0.426
+energy:0.619
+loudness:-11.501
+mode:0
+speechiness:0.0722
+acousticness:8.44e-05
+instrumentalness:0.00239
+liveness:0.17
+valence:0.382
+tempo:162.721

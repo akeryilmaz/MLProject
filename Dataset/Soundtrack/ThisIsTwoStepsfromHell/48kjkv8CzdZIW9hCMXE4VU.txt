@@ -1,0 +1,12 @@
+name:The Last Stand
+release_year:2011
+danceability:0.193
+energy:0.876
+loudness:-6.616
+mode:1
+speechiness:0.0674
+acousticness:0.207
+instrumentalness:0.0706
+liveness:0.124
+valence:0.212
+tempo:88.712

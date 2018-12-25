@@ -1,0 +1,12 @@
+name:Black Hill Creek
+release_year:2018
+danceability:0.382
+energy:0.833
+loudness:-5.879
+mode:0
+speechiness:0.0628
+acousticness:0.0478
+instrumentalness:0.000848
+liveness:0.478
+valence:0.228
+tempo:94.983

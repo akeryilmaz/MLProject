@@ -1,0 +1,12 @@
+name:GTFO
+release_year:2018
+danceability:0.841
+energy:0.692
+loudness:-6.727
+mode:1
+speechiness:0.161
+acousticness:0.556
+instrumentalness:4.08e-06
+liveness:0.1
+valence:0.459
+tempo:122.975

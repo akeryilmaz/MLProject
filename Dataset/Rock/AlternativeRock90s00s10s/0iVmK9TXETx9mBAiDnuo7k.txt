@@ -1,0 +1,12 @@
+name:Fell On Black Days
+release_year:1994
+danceability:0.389
+energy:0.641
+loudness:-9.623
+mode:0
+speechiness:0.0328
+acousticness:0.00126
+instrumentalness:0.000943
+liveness:0.18
+valence:0.546
+tempo:203.015

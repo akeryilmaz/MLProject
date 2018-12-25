@@ -1,0 +1,12 @@
+name:Como va - Original Mix
+release_year:2018
+danceability:0.808
+energy:0.785
+loudness:-5.864
+mode:0
+speechiness:0.0453
+acousticness:0.000218
+instrumentalness:0.727
+liveness:0.0679
+valence:0.844
+tempo:125.0

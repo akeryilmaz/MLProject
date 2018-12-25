@@ -1,0 +1,12 @@
+name:Canon & Gigue
+release_year:2007
+danceability:0.332
+energy:0.218
+loudness:-15.772
+mode:1
+speechiness:0.0392
+acousticness:0.527
+instrumentalness:0.238
+liveness:0.223
+valence:0.538
+tempo:124.63

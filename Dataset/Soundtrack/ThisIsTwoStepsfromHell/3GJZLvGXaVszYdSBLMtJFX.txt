@@ -1,0 +1,12 @@
+name:Strength of a Thousand Men
+release_year:2011
+danceability:0.478
+energy:0.906
+loudness:-6.781
+mode:0
+speechiness:0.0419
+acousticness:0.0962
+instrumentalness:0.919
+liveness:0.115
+valence:0.59
+tempo:140.021

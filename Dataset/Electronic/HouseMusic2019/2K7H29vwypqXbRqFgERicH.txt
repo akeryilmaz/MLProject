@@ -1,0 +1,12 @@
+name:Losing It (Radio Edit)
+release_year:2018
+danceability:0.729
+energy:0.965
+loudness:-5.711
+mode:1
+speechiness:0.0624
+acousticness:0.00176
+instrumentalness:0.66
+liveness:0.0973
+valence:0.744
+tempo:125.021

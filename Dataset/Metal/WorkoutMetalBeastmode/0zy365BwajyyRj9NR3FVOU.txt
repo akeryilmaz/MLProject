@@ -1,0 +1,12 @@
+name:No Life
+release_year:2009
+danceability:0.28
+energy:0.983
+loudness:-4.574
+mode:1
+speechiness:0.142
+acousticness:0.000233
+instrumentalness:5.96e-05
+liveness:0.305
+valence:0.5
+tempo:153.677

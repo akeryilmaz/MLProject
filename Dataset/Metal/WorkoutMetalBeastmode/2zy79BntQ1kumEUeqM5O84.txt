@@ -1,0 +1,12 @@
+name:Nothing Left
+release_year:2007
+danceability:0.388
+energy:0.979
+loudness:-4.389
+mode:1
+speechiness:0.176
+acousticness:6.34e-05
+instrumentalness:0.0567
+liveness:0.663
+valence:0.0547
+tempo:183.905

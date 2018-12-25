@@ -1,0 +1,12 @@
+name:Dragon Rider
+release_year:2011
+danceability:0.404
+energy:0.872
+loudness:-8.72
+mode:0
+speechiness:0.0386
+acousticness:0.000389
+instrumentalness:0.839
+liveness:0.132
+valence:0.86
+tempo:159.953

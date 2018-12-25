@@ -1,0 +1,12 @@
+name:Down On The Corner
+release_year:1969
+danceability:0.831
+energy:0.544
+loudness:-9.288
+mode:1
+speechiness:0.0837
+acousticness:0.594
+instrumentalness:0.00389
+liveness:0.0736
+valence:0.856
+tempo:108.177

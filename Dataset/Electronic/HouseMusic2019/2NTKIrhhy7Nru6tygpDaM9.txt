@@ -1,0 +1,12 @@
+name:Sounds Good To Me - Paul Woolford Remix
+release_year:2018
+danceability:0.66
+energy:0.649
+loudness:-7.916
+mode:1
+speechiness:0.0294
+acousticness:0.0074
+instrumentalness:0.0168
+liveness:0.114
+valence:0.537
+tempo:121.986

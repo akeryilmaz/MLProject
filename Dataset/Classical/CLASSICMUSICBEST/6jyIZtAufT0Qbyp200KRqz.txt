@@ -1,0 +1,12 @@
+name:The Four Seasons - Spring (Violin Concerto in E Major), RV 269: I. Allegro
+release_year:2009
+danceability:0.504
+energy:0.209
+loudness:-11.783
+mode:1
+speechiness:0.0351
+acousticness:0.768
+instrumentalness:0.159
+liveness:0.274
+valence:0.258
+tempo:106.739

@@ -1,0 +1,12 @@
+name:Vice Grip
+release_year:2016
+danceability:0.48
+energy:0.988
+loudness:-3.229
+mode:0
+speechiness:0.0838
+acousticness:3.17e-05
+instrumentalness:0.00432
+liveness:0.389
+valence:0.252
+tempo:124.041

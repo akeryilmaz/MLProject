@@ -1,0 +1,12 @@
+name:Second Chance
+release_year:2008
+danceability:0.46
+energy:0.796
+loudness:-4.501
+mode:0
+speechiness:0.0333
+acousticness:0.00107
+instrumentalness:0
+liveness:0.106
+valence:0.182
+tempo:100.011

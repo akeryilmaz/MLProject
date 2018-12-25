@@ -1,0 +1,12 @@
+name:Mind Your Manners (feat. Myles Kennedy & The Conspirators)
+release_year:2018
+danceability:0.52
+energy:0.983
+loudness:-2.412
+mode:1
+speechiness:0.366
+acousticness:1.69e-05
+instrumentalness:0.00123
+liveness:0.271
+valence:0.493
+tempo:109.999

@@ -1,0 +1,12 @@
+name:Rainbow In The Dark
+release_year:2007
+danceability:0.511
+energy:0.917
+loudness:-8.052
+mode:0
+speechiness:0.0378
+acousticness:8.57e-05
+instrumentalness:0.5
+liveness:0.0418
+valence:0.652
+tempo:117.564

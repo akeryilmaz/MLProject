@@ -1,0 +1,12 @@
+name:Stella By Starlight
+release_year:2004
+danceability:0.581
+energy:0.163
+loudness:-16.612
+mode:0
+speechiness:0.0547
+acousticness:0.926
+instrumentalness:0.861
+liveness:0.116
+valence:0.448
+tempo:88.101

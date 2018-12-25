@@ -1,0 +1,12 @@
+name:White Christmas (Duet With Shania Twain)
+release_year:2012
+danceability:0.628
+energy:0.484
+loudness:-7.588
+mode:1
+speechiness:0.0319
+acousticness:0.469
+instrumentalness:1.23e-05
+liveness:0.126
+valence:0.642
+tempo:63.476

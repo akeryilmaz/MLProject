@@ -1,0 +1,12 @@
+name:The Fellowship (From "The Lord of the Rings: The Fellowship of the Ring")
+release_year:2007
+danceability:0.0703
+energy:0.23
+loudness:-15.329
+mode:0
+speechiness:0.0407
+acousticness:0.843
+instrumentalness:0.955
+liveness:0.275
+valence:0.0543
+tempo:68.915

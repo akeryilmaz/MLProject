@@ -1,0 +1,12 @@
+name:Gravitation
+release_year:2017
+danceability:0.389
+energy:0.728
+loudness:-10.034
+mode:1
+speechiness:0.0593
+acousticness:0.00598
+instrumentalness:0.923
+liveness:0.121
+valence:0.114
+tempo:149.987

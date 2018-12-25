@@ -1,0 +1,12 @@
+name:Same Old Brand New You
+release_year:2000
+danceability:0.809
+energy:0.918
+loudness:-4.347
+mode:0
+speechiness:0.0348
+acousticness:0.0951
+instrumentalness:0.000225
+liveness:0.0672
+valence:0.645
+tempo:107.011

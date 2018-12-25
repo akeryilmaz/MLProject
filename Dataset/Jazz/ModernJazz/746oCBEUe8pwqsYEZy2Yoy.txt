@@ -1,0 +1,12 @@
+name:Big Time
+release_year:2007
+danceability:0.459
+energy:0.464
+loudness:-12.098
+mode:0
+speechiness:0.0358
+acousticness:0.569
+instrumentalness:0.907
+liveness:0.096
+valence:0.754
+tempo:122.274

@@ -1,0 +1,12 @@
+name:Love / Lust
+release_year:2018
+danceability:0.774
+energy:0.448
+loudness:-9.761
+mode:1
+speechiness:0.196
+acousticness:0.211
+instrumentalness:0.00162
+liveness:0.101
+valence:0.379
+tempo:166.981

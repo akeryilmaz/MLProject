@@ -1,0 +1,12 @@
+name:Caliente (feat. Pabllo Vittar)
+release_year:2018
+danceability:0.736
+energy:0.747
+loudness:-6.275
+mode:1
+speechiness:0.171
+acousticness:0.00447
+instrumentalness:7.29e-05
+liveness:0.137
+valence:0.483
+tempo:106.994

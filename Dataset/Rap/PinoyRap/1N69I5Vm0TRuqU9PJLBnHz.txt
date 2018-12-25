@@ -1,0 +1,12 @@
+name:ATBP.
+release_year:2018
+danceability:0.786
+energy:0.54
+loudness:-10.748
+mode:1
+speechiness:0.074
+acousticness:0.201
+instrumentalness:2.12e-05
+liveness:0.109
+valence:0.148
+tempo:126.046

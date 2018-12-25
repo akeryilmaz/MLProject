@@ -1,0 +1,12 @@
+name:By the Numbers
+release_year:2018
+danceability:0.608
+energy:0.988
+loudness:-3.125
+mode:1
+speechiness:0.0579
+acousticness:7.78e-05
+instrumentalness:0.00725
+liveness:0.06
+valence:0.723
+tempo:100.176

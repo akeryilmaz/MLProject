@@ -1,0 +1,12 @@
+name:Candy
+release_year:2018
+danceability:0.792
+energy:0.508
+loudness:-10.702
+mode:1
+speechiness:0.0697
+acousticness:0.0068
+instrumentalness:0.00649
+liveness:0.284
+valence:0.274
+tempo:90.972

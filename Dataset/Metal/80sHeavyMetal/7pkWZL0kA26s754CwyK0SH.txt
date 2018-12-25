@@ -1,0 +1,12 @@
+name:Once Bitten Twice Shy
+release_year:1989
+danceability:0.723
+energy:0.541
+loudness:-14.021
+mode:1
+speechiness:0.0303
+acousticness:0.028
+instrumentalness:0.00339
+liveness:0.133
+valence:0.607
+tempo:131.675

@@ -1,0 +1,12 @@
+name:Ritual Supernatural
+release_year:2018
+danceability:0.186
+energy:0.942
+loudness:-4.826
+mode:1
+speechiness:0.0951
+acousticness:0.000213
+instrumentalness:0.00857
+liveness:0.11
+valence:0.325
+tempo:161.95

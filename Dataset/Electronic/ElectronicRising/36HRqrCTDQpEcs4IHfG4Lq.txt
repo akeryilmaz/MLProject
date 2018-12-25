@@ -1,0 +1,12 @@
+name:Morning Voodoo
+release_year:2018
+danceability:0.702
+energy:0.711
+loudness:-10.891
+mode:1
+speechiness:0.0681
+acousticness:0.183
+instrumentalness:0.861
+liveness:0.671
+valence:0.13
+tempo:129.007

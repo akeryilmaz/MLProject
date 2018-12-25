@@ -1,0 +1,12 @@
+name:Your Mind - Danielle Diaz Remix
+release_year:2018
+danceability:0.759
+energy:0.793
+loudness:-7.186
+mode:0
+speechiness:0.0431
+acousticness:0.0955
+instrumentalness:0.439
+liveness:0.107
+valence:0.0945
+tempo:122.995

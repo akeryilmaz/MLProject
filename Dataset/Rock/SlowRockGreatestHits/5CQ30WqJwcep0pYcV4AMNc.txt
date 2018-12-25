@@ -1,0 +1,12 @@
+name:Stairway To Heaven
+release_year:1971
+danceability:0.338
+energy:0.34
+loudness:-12.049
+mode:0
+speechiness:0.0339
+acousticness:0.58
+instrumentalness:0.0032
+liveness:0.116
+valence:0.197
+tempo:82.433

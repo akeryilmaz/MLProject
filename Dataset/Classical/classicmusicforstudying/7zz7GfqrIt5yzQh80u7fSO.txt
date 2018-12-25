@@ -1,0 +1,12 @@
+name:Andante spianato et Grande Polonaise brillante in E flat, Op.22: Andante spianato. Tranquillo -
+release_year:2009
+danceability:0.214
+energy:0.0181
+loudness:-31.971
+mode:1
+speechiness:0.0404
+acousticness:0.987
+instrumentalness:0.918
+liveness:0.0672
+valence:0.0731
+tempo:82.601

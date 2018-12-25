@@ -1,0 +1,12 @@
+name:Kaktus
+release_year:2017
+danceability:0.819
+energy:0.231
+loudness:-12.812
+mode:1
+speechiness:0.0765
+acousticness:0.707
+instrumentalness:0.767
+liveness:0.111
+valence:0.51
+tempo:81.975

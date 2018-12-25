@@ -1,0 +1,12 @@
+name:Exploding Suns
+release_year:2011
+danceability:0.457
+energy:0.82
+loudness:-6.056
+mode:1
+speechiness:0.0452
+acousticness:0.000129
+instrumentalness:0.061
+liveness:0.475
+valence:0.154
+tempo:90.0

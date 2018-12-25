@@ -1,0 +1,12 @@
+name:Perfect Life - Jenia Tarsol & Jinga Remix
+release_year:2018
+danceability:0.806
+energy:0.51
+loudness:-10.84
+mode:1
+speechiness:0.0519
+acousticness:0.0529
+instrumentalness:0.918
+liveness:0.0925
+valence:0.0256
+tempo:122.0

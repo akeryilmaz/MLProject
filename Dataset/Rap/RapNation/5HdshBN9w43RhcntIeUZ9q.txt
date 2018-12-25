@@ -1,0 +1,12 @@
+name:Tan Lines
+release_year:2018
+danceability:0.674
+energy:0.584
+loudness:-8.84
+mode:1
+speechiness:0.108
+acousticness:0.108
+instrumentalness:1.09e-06
+liveness:0.238
+valence:0.523
+tempo:82.761

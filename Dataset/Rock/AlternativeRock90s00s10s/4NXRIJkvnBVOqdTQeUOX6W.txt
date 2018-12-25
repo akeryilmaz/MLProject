@@ -1,0 +1,12 @@
+name:Yeah Yeah Yeah
+release_year:2010
+danceability:0.564
+energy:0.992
+loudness:-1.735
+mode:1
+speechiness:0.26
+acousticness:0.00188
+instrumentalness:0
+liveness:0.0423
+valence:0.358
+tempo:130.082

@@ -1,0 +1,12 @@
+name:You Need To Stop - Original Mix
+release_year:2018
+danceability:0.73
+energy:0.912
+loudness:-6.253
+mode:0
+speechiness:0.0505
+acousticness:0.00161
+instrumentalness:0.874
+liveness:0.103
+valence:0.673
+tempo:127.987

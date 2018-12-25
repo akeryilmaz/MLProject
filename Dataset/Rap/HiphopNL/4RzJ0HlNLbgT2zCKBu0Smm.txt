@@ -1,0 +1,12 @@
+name:Arme Zielen
+release_year:2018
+danceability:0.458
+energy:0.77
+loudness:-6.305
+mode:0
+speechiness:0.328
+acousticness:0.0519
+instrumentalness:0
+liveness:0.361
+valence:0.44
+tempo:79.684

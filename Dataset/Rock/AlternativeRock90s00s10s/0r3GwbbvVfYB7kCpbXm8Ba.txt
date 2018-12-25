@@ -1,0 +1,12 @@
+name:Regret
+release_year:1994
+danceability:0.504
+energy:0.966
+loudness:-3.116
+mode:1
+speechiness:0.0329
+acousticness:0.000819
+instrumentalness:0.0747
+liveness:0.226
+valence:0.742
+tempo:129.595

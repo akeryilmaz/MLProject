@@ -1,0 +1,12 @@
+name:Bohemian Rhapsody - Remastered 2011
+release_year:1975
+danceability:0.414
+energy:0.404
+loudness:-9.928
+mode:0
+speechiness:0.0499
+acousticness:0.271
+instrumentalness:0
+liveness:0.3
+valence:0.224
+tempo:71.105

@@ -1,0 +1,12 @@
+name:Run Free
+release_year:2017
+danceability:0.483
+energy:0.804
+loudness:-9.184
+mode:0
+speechiness:0.0808
+acousticness:0.259
+instrumentalness:0.888
+liveness:0.127
+valence:0.173
+tempo:89.969

@@ -1,0 +1,12 @@
+name:Pull Up (feat. Key!)
+release_year:2018
+danceability:0.777
+energy:0.595
+loudness:-4.534
+mode:1
+speechiness:0.0606
+acousticness:0.112
+instrumentalness:1.14e-06
+liveness:0.147
+valence:0.445
+tempo:86.029

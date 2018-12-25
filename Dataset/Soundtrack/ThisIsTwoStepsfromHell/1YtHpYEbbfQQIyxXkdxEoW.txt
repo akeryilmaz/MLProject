@@ -1,0 +1,12 @@
+name:Protectors of the Earth
+release_year:2010
+danceability:0.441
+energy:0.934
+loudness:-6.766
+mode:0
+speechiness:0.0482
+acousticness:0.0395
+instrumentalness:0.96
+liveness:0.15
+valence:0.374
+tempo:109.98

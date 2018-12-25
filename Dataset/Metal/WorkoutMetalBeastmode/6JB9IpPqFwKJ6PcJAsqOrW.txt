@@ -1,0 +1,12 @@
+name:Persist // Perceive (feat. Mason Bunt)
+release_year:2014
+danceability:0.369
+energy:0.956
+loudness:-3.324
+mode:0
+speechiness:0.173
+acousticness:4.53e-06
+instrumentalness:0.0189
+liveness:0.21
+valence:0.367
+tempo:180.13

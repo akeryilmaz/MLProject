@@ -1,0 +1,12 @@
+name:Long Cool Woman (In A Black Dress) - 1999 Remastered Version
+release_year:1971
+danceability:0.757
+energy:0.868
+loudness:-9.326
+mode:1
+speechiness:0.062
+acousticness:0.411
+instrumentalness:0.00221
+liveness:0.355
+valence:0.815
+tempo:138.923

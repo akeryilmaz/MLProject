@@ -1,0 +1,12 @@
+name:The All Spark
+release_year:2007
+danceability:0.35
+energy:0.307
+loudness:-17.469
+mode:0
+speechiness:0.039
+acousticness:0.633
+instrumentalness:0.613
+liveness:0.102
+valence:0.296
+tempo:150.223

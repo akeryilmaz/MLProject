@@ -1,0 +1,12 @@
+name:Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition
+release_year:2007
+danceability:0.505
+energy:0.159
+loudness:-11.235
+mode:0
+speechiness:0.0336
+acousticness:0.946
+instrumentalness:0.0127
+liveness:0.212
+valence:0.196
+tempo:59.385

@@ -1,0 +1,12 @@
+name:We Are The Asteroid!
+release_year:2018
+danceability:0.459
+energy:0.662
+loudness:-10.214
+mode:1
+speechiness:0.0499
+acousticness:0.00087
+instrumentalness:0.777
+liveness:0.106
+valence:0.42
+tempo:131.658

@@ -1,0 +1,12 @@
+name:TOT DE DOOD
+release_year:2018
+danceability:0.783
+energy:0.688
+loudness:-7.674
+mode:0
+speechiness:0.264
+acousticness:0.0377
+instrumentalness:2.86e-05
+liveness:0.245
+valence:0.382
+tempo:124.029

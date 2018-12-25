@@ -1,0 +1,12 @@
+name:one time
+release_year:2018
+danceability:0.823
+energy:0.28
+loudness:-11.917
+mode:1
+speechiness:0.242
+acousticness:0.0243
+instrumentalness:0.826
+liveness:0.109
+valence:0.282
+tempo:170.068

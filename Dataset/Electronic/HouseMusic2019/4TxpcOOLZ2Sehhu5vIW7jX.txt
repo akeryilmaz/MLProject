@@ -1,0 +1,12 @@
+name:Give It Up
+release_year:2018
+danceability:0.643
+energy:0.899
+loudness:-7.474
+mode:1
+speechiness:0.0388
+acousticness:0.000206
+instrumentalness:0.684
+liveness:0.0515
+valence:0.649
+tempo:125.013

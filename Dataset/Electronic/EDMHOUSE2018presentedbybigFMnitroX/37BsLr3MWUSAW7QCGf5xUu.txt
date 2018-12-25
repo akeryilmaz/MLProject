@@ -1,0 +1,12 @@
+name:Guilty
+release_year:2017
+danceability:0.653
+energy:0.702
+loudness:-6.708
+mode:0
+speechiness:0.044
+acousticness:0.0492
+instrumentalness:3.34e-05
+liveness:0.127
+valence:0.49
+tempo:98.934

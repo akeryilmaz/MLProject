@@ -1,0 +1,12 @@
+name:Stupify - Amended Version
+release_year:2000
+danceability:0.659
+energy:0.964
+loudness:-2.474
+mode:1
+speechiness:0.046
+acousticness:0.0033
+instrumentalness:1.21e-05
+liveness:0.0861
+valence:0.724
+tempo:98.056

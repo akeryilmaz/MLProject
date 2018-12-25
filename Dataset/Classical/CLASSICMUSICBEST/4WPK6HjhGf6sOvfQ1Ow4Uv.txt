@@ -1,0 +1,12 @@
+name:Can-Can
+release_year:2010
+danceability:0.457
+energy:0.535
+loudness:-12.835
+mode:1
+speechiness:0.0359
+acousticness:0.758
+instrumentalness:0.889
+liveness:0.113
+valence:0.823
+tempo:85.613

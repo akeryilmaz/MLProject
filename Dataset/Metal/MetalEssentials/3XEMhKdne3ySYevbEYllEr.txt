@@ -1,0 +1,12 @@
+name:The Beautiful People
+release_year:1996
+danceability:0.621
+energy:0.834
+loudness:-10.068
+mode:0
+speechiness:0.0557
+acousticness:0.000779
+instrumentalness:0.456
+liveness:0.0611
+valence:0.937
+tempo:143.973

@@ -1,0 +1,12 @@
+name:Forgive Me Friend
+release_year:2018
+danceability:0.589
+energy:0.782
+loudness:-6.067
+mode:1
+speechiness:0.0314
+acousticness:0.000891
+instrumentalness:1.15e-06
+liveness:0.187
+valence:0.6
+tempo:127.917

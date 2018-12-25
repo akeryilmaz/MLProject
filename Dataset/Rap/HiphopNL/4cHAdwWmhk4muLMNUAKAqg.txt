@@ -1,0 +1,12 @@
+name:Nightvision
+release_year:2018
+danceability:0.869
+energy:0.6
+loudness:-7.755
+mode:1
+speechiness:0.14
+acousticness:0.0214
+instrumentalness:9.18e-05
+liveness:0.256
+valence:0.528
+tempo:100.01

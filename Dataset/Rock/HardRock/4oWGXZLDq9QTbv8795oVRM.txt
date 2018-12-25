@@ -1,0 +1,12 @@
+name:Reflections
+release_year:2018
+danceability:0.296
+energy:0.887
+loudness:-6.082
+mode:0
+speechiness:0.0666
+acousticness:7.57e-05
+instrumentalness:0.665
+liveness:0.234
+valence:0.478
+tempo:108.291

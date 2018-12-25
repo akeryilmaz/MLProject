@@ -1,0 +1,12 @@
+name:For the Win
+release_year:2012
+danceability:0.453
+energy:0.928
+loudness:-7.773
+mode:1
+speechiness:0.062
+acousticness:0.0627
+instrumentalness:0.907
+liveness:0.0605
+valence:0.304
+tempo:116.97

@@ -1,0 +1,12 @@
+name:Baby (feat. Marina & Luis Fonsi)
+release_year:2018
+danceability:0.755
+energy:0.74
+loudness:-5.354
+mode:0
+speechiness:0.04
+acousticness:0.356
+instrumentalness:1.05e-05
+liveness:0.0994
+valence:0.33
+tempo:116.946

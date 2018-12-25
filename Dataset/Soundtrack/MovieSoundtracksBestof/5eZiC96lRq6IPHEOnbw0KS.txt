@@ -1,0 +1,12 @@
+name:Up Is Down
+release_year:2007
+danceability:0.276
+energy:0.434
+loudness:-14.679
+mode:1
+speechiness:0.0574
+acousticness:0.251
+instrumentalness:0.923
+liveness:0.0946
+valence:0.114
+tempo:96.647

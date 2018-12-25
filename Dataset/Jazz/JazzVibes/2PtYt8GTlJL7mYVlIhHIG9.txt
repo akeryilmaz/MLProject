@@ -1,0 +1,12 @@
+name:Kautzro
+release_year:2018
+danceability:0.804
+energy:0.0727
+loudness:-20.617
+mode:0
+speechiness:0.189
+acousticness:0.475
+instrumentalness:0.0017
+liveness:0.177
+valence:0.434
+tempo:80.066

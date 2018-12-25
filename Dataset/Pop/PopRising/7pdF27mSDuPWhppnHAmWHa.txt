@@ -1,0 +1,12 @@
+name:whoa (mind in awe)
+release_year:2018
+danceability:0.735
+energy:0.525
+loudness:-2.939
+mode:0
+speechiness:0.0441
+acousticness:0.653
+instrumentalness:0.918
+liveness:0.101
+valence:0.369
+tempo:160.147

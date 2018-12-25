@@ -1,0 +1,12 @@
+name:Cantina Band
+release_year:1997
+danceability:0.688
+energy:0.582
+loudness:-10.536
+mode:1
+speechiness:0.149
+acousticness:0.161
+instrumentalness:0.00147
+liveness:0.0532
+valence:0.754
+tempo:131.501

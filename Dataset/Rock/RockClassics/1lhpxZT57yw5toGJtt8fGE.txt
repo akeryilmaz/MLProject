@@ -1,0 +1,12 @@
+name:Old Time Rock & Roll
+release_year:1978
+danceability:0.713
+energy:0.931
+loudness:-2.965
+mode:1
+speechiness:0.0394
+acousticness:0.219
+instrumentalness:0
+liveness:0.0694
+valence:0.963
+tempo:124.127

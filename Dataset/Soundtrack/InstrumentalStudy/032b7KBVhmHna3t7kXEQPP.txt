@@ -1,0 +1,12 @@
+name:Colourized
+release_year:2016
+danceability:0.675
+energy:0.203
+loudness:-19.789
+mode:1
+speechiness:0.062
+acousticness:0.995
+instrumentalness:0.924
+liveness:0.0958
+valence:0.523
+tempo:148.048

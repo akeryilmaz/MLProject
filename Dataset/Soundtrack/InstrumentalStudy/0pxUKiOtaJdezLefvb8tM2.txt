@@ -1,0 +1,12 @@
+name:Storm Trooper
+release_year:2018
+danceability:0.301
+energy:0.151
+loudness:-19.589
+mode:0
+speechiness:0.038
+acousticness:0.976
+instrumentalness:0.866
+liveness:0.109
+valence:0.114
+tempo:143.107

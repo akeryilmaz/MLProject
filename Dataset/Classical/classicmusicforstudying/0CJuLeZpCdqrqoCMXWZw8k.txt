@@ -1,0 +1,12 @@
+name:The Nutcracker - Ballet, Op.71, Act II: No. 13 - Waltz of the Flowers
+release_year:2010
+danceability:0.249
+energy:0.124
+loudness:-20.496
+mode:1
+speechiness:0.0425
+acousticness:0.946
+instrumentalness:0.941
+liveness:0.0501
+valence:0.0993
+tempo:111.333

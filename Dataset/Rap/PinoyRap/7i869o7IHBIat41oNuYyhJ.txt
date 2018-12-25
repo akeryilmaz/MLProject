@@ -1,0 +1,12 @@
+name:Suicide Doors (feat. Bami)
+release_year:2018
+danceability:0.674
+energy:0.534
+loudness:-7.057
+mode:1
+speechiness:0.04
+acousticness:0.0539
+instrumentalness:7.03e-06
+liveness:0.0582
+valence:0.121
+tempo:80.002

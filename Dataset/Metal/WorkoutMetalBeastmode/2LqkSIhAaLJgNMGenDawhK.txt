@@ -1,0 +1,12 @@
+name:Woven in Gold
+release_year:2017
+danceability:0.468
+energy:0.986
+loudness:-3.385
+mode:1
+speechiness:0.162
+acousticness:0.000249
+instrumentalness:0
+liveness:0.685
+valence:0.279
+tempo:90.043

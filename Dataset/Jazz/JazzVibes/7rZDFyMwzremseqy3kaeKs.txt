@@ -1,0 +1,12 @@
+name:Clearwater
+release_year:2018
+danceability:0.457
+energy:0.245
+loudness:-11.878
+mode:0
+speechiness:0.0662
+acousticness:0.804
+instrumentalness:0.0255
+liveness:0.0719
+valence:0.391
+tempo:86.973

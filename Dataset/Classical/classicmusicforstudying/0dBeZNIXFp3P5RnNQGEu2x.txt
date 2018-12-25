@@ -1,0 +1,12 @@
+name:Fantasia on Greensleeves
+release_year:1964
+danceability:0.136
+energy:0.0868
+loudness:-24.806
+mode:0
+speechiness:0.0393
+acousticness:0.837
+instrumentalness:0.506
+liveness:0.0935
+valence:0.0962
+tempo:99.648

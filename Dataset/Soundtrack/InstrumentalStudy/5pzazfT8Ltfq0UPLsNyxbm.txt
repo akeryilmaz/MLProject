@@ -1,0 +1,12 @@
+name:Short Stories
+release_year:2016
+danceability:0.254
+energy:0.00115
+loudness:-28.629
+mode:0
+speechiness:0.05
+acousticness:0.993
+instrumentalness:0.938
+liveness:0.147
+valence:0.212
+tempo:69.253

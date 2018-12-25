@@ -1,0 +1,12 @@
+name:Love is Gonna Get You Killed
+release_year:2018
+danceability:0.531
+energy:0.936
+loudness:-5.883
+mode:1
+speechiness:0.0427
+acousticness:0.00361
+instrumentalness:0.00114
+liveness:0.681
+valence:0.366
+tempo:130.012

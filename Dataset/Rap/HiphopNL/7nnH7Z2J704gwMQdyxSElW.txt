@@ -1,0 +1,12 @@
+name:Knalplanga
+release_year:2018
+danceability:0.642
+energy:0.537
+loudness:-12.433
+mode:1
+speechiness:0.228
+acousticness:0.0876
+instrumentalness:0.000108
+liveness:0.398
+valence:0.648
+tempo:199.953

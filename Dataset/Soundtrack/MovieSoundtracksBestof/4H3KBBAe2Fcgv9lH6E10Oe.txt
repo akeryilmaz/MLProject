@@ -1,0 +1,12 @@
+name:Harry In Winter
+release_year:2005
+danceability:0.175
+energy:0.248
+loudness:-16.707
+mode:0
+speechiness:0.0423
+acousticness:0.559
+instrumentalness:0.966
+liveness:0.189
+valence:0.0396
+tempo:110.447

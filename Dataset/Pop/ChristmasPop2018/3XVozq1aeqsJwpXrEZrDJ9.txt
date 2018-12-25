@@ -1,0 +1,12 @@
+name:Ice Ice Baby
+release_year:2008
+danceability:0.978
+energy:0.787
+loudness:-2.79
+mode:1
+speechiness:0.0394
+acousticness:0.0023
+instrumentalness:4.6e-06
+liveness:0.102
+valence:0.597
+tempo:116.006

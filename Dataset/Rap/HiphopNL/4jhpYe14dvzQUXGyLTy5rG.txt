@@ -1,0 +1,12 @@
+name:Werk Hard
+release_year:2018
+danceability:0.705
+energy:0.542
+loudness:-9.468
+mode:1
+speechiness:0.254
+acousticness:0.276
+instrumentalness:4.26e-05
+liveness:0.0988
+valence:0.271
+tempo:140.078

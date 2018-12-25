@@ -1,0 +1,12 @@
+name:All the Things You've Said and Done
+release_year:2018
+danceability:0.405
+energy:0.989
+loudness:-4.043
+mode:1
+speechiness:0.0912
+acousticness:9.9e-06
+instrumentalness:0.00166
+liveness:0.334
+valence:0.569
+tempo:146.01

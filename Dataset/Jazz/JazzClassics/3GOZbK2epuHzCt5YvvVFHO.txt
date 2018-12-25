@@ -1,0 +1,12 @@
+name:Alone Together
+release_year:1992
+danceability:0.336
+energy:0.0619
+loudness:-20.494
+mode:0
+speechiness:0.0363
+acousticness:0.985
+instrumentalness:0.891
+liveness:0.11
+valence:0.197
+tempo:60.705

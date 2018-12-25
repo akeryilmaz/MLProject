@@ -1,0 +1,12 @@
+name:Jekyll and Hyde
+release_year:2015
+danceability:0.537
+energy:0.964
+loudness:-4.157
+mode:1
+speechiness:0.113
+acousticness:0.000599
+instrumentalness:1.14e-05
+liveness:0.0564
+valence:0.712
+tempo:155.017

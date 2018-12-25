@@ -1,0 +1,12 @@
+name:Last Betrayal
+release_year:2018
+danceability:0.46
+energy:0.988
+loudness:-4.285
+mode:1
+speechiness:0.109
+acousticness:5.52e-05
+instrumentalness:0.037
+liveness:0.421
+valence:0.237
+tempo:130.911

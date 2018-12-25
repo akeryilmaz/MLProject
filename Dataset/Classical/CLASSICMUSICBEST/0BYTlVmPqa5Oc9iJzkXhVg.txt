@@ -1,0 +1,12 @@
+name:Caprice No. 5
+release_year:2005
+danceability:0.348
+energy:0.299
+loudness:-19.892
+mode:0
+speechiness:0.0499
+acousticness:0.964
+instrumentalness:0.662
+liveness:0.0628
+valence:0.841
+tempo:172.285

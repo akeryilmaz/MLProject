@@ -1,0 +1,12 @@
+name:Antiphon, O quam mirabilis est
+release_year:2005
+danceability:0.24
+energy:0.0309
+loudness:-27.569
+mode:1
+speechiness:0.0578
+acousticness:0.991
+instrumentalness:0.00052
+liveness:0.0691
+valence:0.0395
+tempo:83.457

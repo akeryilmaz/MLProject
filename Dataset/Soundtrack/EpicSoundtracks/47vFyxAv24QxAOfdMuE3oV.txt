@@ -1,0 +1,12 @@
+name:Nara (Theme to Cold Case)
+release_year:2001
+danceability:0.563
+energy:0.413
+loudness:-12.589
+mode:0
+speechiness:0.0268
+acousticness:0.0534
+instrumentalness:0.717
+liveness:0.141
+valence:0.225
+tempo:149.997

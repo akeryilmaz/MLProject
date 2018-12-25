@@ -1,0 +1,12 @@
+name:Man the Machine
+release_year:2018
+danceability:0.433
+energy:0.943
+loudness:-4.483
+mode:1
+speechiness:0.0673
+acousticness:1.46e-05
+instrumentalness:0.0314
+liveness:0.222
+valence:0.262
+tempo:96.006

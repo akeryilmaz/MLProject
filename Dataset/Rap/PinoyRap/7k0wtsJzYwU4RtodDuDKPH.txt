@@ -1,0 +1,12 @@
+name:Simpleng Tao - original
+release_year:2005
+danceability:0.696
+energy:0.669
+loudness:-6.593
+mode:1
+speechiness:0.0486
+acousticness:0.183
+instrumentalness:0.00991
+liveness:0.0368
+valence:0.962
+tempo:176.082

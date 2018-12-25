@@ -1,0 +1,12 @@
+name:Lazy Lion
+release_year:2012
+danceability:0.473
+energy:0.427
+loudness:-10.914
+mode:0
+speechiness:0.0314
+acousticness:0.782
+instrumentalness:0.0393
+liveness:0.13
+valence:0.178
+tempo:124.94

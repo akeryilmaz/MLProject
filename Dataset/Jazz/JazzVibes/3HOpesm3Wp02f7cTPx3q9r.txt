@@ -1,0 +1,12 @@
+name:Warm
+release_year:2018
+danceability:0.719
+energy:0.263
+loudness:-14.562
+mode:0
+speechiness:0.654
+acousticness:0.666
+instrumentalness:0.679
+liveness:0.215
+valence:0.42
+tempo:80.036

@@ -1,0 +1,12 @@
+name:I Hate Everything About You
+release_year:2007
+danceability:0.498
+energy:0.83
+loudness:-5.157
+mode:0
+speechiness:0.0421
+acousticness:0.00461
+instrumentalness:0
+liveness:0.139
+valence:0.453
+tempo:89.342

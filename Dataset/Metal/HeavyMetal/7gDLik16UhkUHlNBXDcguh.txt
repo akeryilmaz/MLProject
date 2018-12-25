@@ -1,0 +1,12 @@
+name:Purgatorio
+release_year:2018
+danceability:0.465
+energy:0.971
+loudness:-5.336
+mode:1
+speechiness:0.0663
+acousticness:1.12e-05
+instrumentalness:0.0261
+liveness:0.307
+valence:0.284
+tempo:144.971

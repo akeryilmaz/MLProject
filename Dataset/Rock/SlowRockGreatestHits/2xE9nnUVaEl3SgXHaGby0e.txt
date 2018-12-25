@@ -1,0 +1,12 @@
+name:November Rain
+release_year:2004
+danceability:0.274
+energy:0.679
+loudness:-8.3
+mode:1
+speechiness:0.0316
+acousticness:0.0184
+instrumentalness:0.223
+liveness:0.0946
+valence:0.225
+tempo:77.641

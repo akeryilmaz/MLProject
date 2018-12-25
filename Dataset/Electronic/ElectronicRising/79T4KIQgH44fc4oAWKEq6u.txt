@@ -1,0 +1,12 @@
+name:Phase
+release_year:2018
+danceability:0.799
+energy:0.855
+loudness:-6.732
+mode:1
+speechiness:0.0429
+acousticness:0.0412
+instrumentalness:0.824
+liveness:0.0853
+valence:0.0893
+tempo:126.021

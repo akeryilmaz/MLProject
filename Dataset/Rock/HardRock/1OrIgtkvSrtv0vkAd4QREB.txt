@@ -1,0 +1,12 @@
+name:Witch Trials
+release_year:2018
+danceability:0.563
+energy:0.939
+loudness:-2.709
+mode:1
+speechiness:0.143
+acousticness:0.0627
+instrumentalness:0
+liveness:0.0782
+valence:0.535
+tempo:127.93

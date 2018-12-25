@@ -1,0 +1,12 @@
+name:Back & Forth
+release_year:2018
+danceability:0.684
+energy:0.816
+loudness:-5.211
+mode:0
+speechiness:0.0322
+acousticness:0.0181
+instrumentalness:0
+liveness:0.0222
+valence:0.702
+tempo:121.993

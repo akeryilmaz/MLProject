@@ -1,0 +1,12 @@
+name:(Don't Fear) The Reaper
+release_year:1976
+danceability:0.333
+energy:0.927
+loudness:-8.55
+mode:0
+speechiness:0.0733
+acousticness:0.0029
+instrumentalness:0.000211
+liveness:0.297
+valence:0.382
+tempo:141.47

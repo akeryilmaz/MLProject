@@ -1,0 +1,12 @@
+name:The Remedy
+release_year:2017
+danceability:0.356
+energy:0.995
+loudness:-3.366
+mode:0
+speechiness:0.173
+acousticness:3.26e-06
+instrumentalness:0.000196
+liveness:0.403
+valence:0.167
+tempo:183.979

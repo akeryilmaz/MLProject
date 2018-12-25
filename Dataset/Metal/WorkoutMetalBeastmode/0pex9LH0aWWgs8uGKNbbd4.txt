@@ -1,0 +1,12 @@
+name:A Dance With Aera Cura
+release_year:2009
+danceability:0.549
+energy:0.988
+loudness:-2.866
+mode:0
+speechiness:0.186
+acousticness:8.46e-05
+instrumentalness:6.21e-06
+liveness:0.359
+valence:0.191
+tempo:115.012

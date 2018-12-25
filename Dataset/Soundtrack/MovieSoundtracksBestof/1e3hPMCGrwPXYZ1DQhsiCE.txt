@@ -1,0 +1,12 @@
+name:Fairytale
+release_year:2001
+danceability:0.0984
+energy:0.182
+loudness:-18.739
+mode:1
+speechiness:0.0349
+acousticness:0.648
+instrumentalness:0.197
+liveness:0.513
+valence:0.103
+tempo:86.706

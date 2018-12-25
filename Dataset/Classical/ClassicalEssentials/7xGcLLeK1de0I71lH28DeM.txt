@@ -1,0 +1,12 @@
+name:Symphony No.5 in E flat, Op.82: 3. Allegro molto
+release_year:1995
+danceability:0.144
+energy:0.0868
+loudness:-23.338
+mode:1
+speechiness:0.0387
+acousticness:0.891
+instrumentalness:0.904
+liveness:0.177
+valence:0.0737
+tempo:94.463

@@ -1,0 +1,12 @@
+name:MAMA (feat. Nicki Minaj, Kanye West)
+release_year:2018
+danceability:0.761
+energy:0.672
+loudness:-5.887
+mode:1
+speechiness:0.212
+acousticness:0.0893
+instrumentalness:9.77e-06
+liveness:0.14
+valence:0.437
+tempo:160.077

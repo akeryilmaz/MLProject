@@ -1,0 +1,12 @@
+name:Hide It in the Night
+release_year:2018
+danceability:0.21
+energy:0.691
+loudness:-7.217
+mode:0
+speechiness:0.0426
+acousticness:0.00136
+instrumentalness:5.9e-06
+liveness:0.706
+valence:0.475
+tempo:165.286

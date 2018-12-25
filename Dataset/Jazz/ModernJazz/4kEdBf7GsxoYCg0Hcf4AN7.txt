@@ -1,0 +1,12 @@
+name:Gollum's Song (arr. for chamber ensemble)
+release_year:2010
+danceability:0.46
+energy:0.0781
+loudness:-24.42
+mode:1
+speechiness:0.0444
+acousticness:0.969
+instrumentalness:0.908
+liveness:0.102
+valence:0.11
+tempo:111.368

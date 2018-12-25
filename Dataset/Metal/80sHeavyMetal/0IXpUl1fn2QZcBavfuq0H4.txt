@@ -1,0 +1,12 @@
+name:Living After Midnight
+release_year:1980
+danceability:0.61
+energy:0.824
+loudness:-6.046
+mode:1
+speechiness:0.0534
+acousticness:0.0136
+instrumentalness:1.75e-06
+liveness:0.0606
+valence:0.819
+tempo:134.992

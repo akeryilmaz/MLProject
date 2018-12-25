@@ -1,0 +1,12 @@
+name:Lost in the Grey
+release_year:2017
+danceability:0.436
+energy:0.941
+loudness:-5.181
+mode:1
+speechiness:0.0868
+acousticness:3.22e-06
+instrumentalness:0.000716
+liveness:0.259
+valence:0.272
+tempo:165.055

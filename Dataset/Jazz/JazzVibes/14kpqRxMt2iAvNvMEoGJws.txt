@@ -1,0 +1,12 @@
+name:City Samba
+release_year:2018
+danceability:0.409
+energy:0.412
+loudness:-12.822
+mode:1
+speechiness:0.0372
+acousticness:0.285
+instrumentalness:0.699
+liveness:0.127
+valence:0.41
+tempo:88.009

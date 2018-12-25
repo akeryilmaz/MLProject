@@ -1,0 +1,12 @@
+name:At The Hotel (feat. Lil Uzi Vert & Young Jordan)
+release_year:2018
+danceability:0.903
+energy:0.626
+loudness:-7.031
+mode:1
+speechiness:0.246
+acousticness:0.0362
+instrumentalness:0
+liveness:0.0794
+valence:0.393
+tempo:142.013

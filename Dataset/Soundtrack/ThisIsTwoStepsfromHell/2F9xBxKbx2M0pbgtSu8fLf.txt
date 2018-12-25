@@ -1,0 +1,12 @@
+name:Victory
+release_year:2015
+danceability:0.503
+energy:0.917
+loudness:-6.112
+mode:1
+speechiness:0.0638
+acousticness:0.00904
+instrumentalness:0.323
+liveness:0.163
+valence:0.27
+tempo:120.003

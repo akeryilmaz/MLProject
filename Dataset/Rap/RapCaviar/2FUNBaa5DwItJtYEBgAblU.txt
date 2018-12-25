@@ -1,0 +1,12 @@
+name:monster
+release_year:2018
+danceability:0.89
+energy:0.607
+loudness:-6.916
+mode:0
+speechiness:0.124
+acousticness:0.158
+instrumentalness:0.000228
+liveness:0.118
+valence:0.224
+tempo:134.022

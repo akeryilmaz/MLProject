@@ -1,0 +1,12 @@
+name:You'll Be In My Heart
+release_year:1999
+danceability:0.412
+energy:0.141
+loudness:-16.999
+mode:1
+speechiness:0.0373
+acousticness:0.884
+instrumentalness:0
+liveness:0.169
+valence:0.29
+tempo:103.103

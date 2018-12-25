@@ -28,17 +28,17 @@ for line in playlistFile:
         for i in range(len(songs)):
             print i
             try:
-                track = sp.track(str(songs[i]["track"]["id"]))
-                features = sp.audio_features(str(songs[i]["track"]["id"]))
-                name = songs[i]["track"]["name"].translate(deletePuncs)
-                name = name.replace(" ", "")
-                path = "../Dataset/"+genres[currentGenre]+"/"+ playlistName + "/" +  name +".txt"
+                id = str(songs[i]["track"]["id"])
+                track = sp.track(id)
+                features = sp.audio_features(id)
+                name = songs[i]["track"]["name"]
+                path = "../Dataset/"+genres[currentGenre]+"/"+ playlistName + "/" +  id +".txt"
                 directory = os.path.dirname(path)
                 if not os.path.exists(directory):
                     os.makedirs(directory)
                 outputFile = open(path , "w")
-                outputFile.write("release_date_precision:" + str(track["album"]["release_date_precision"])+ "\n")
-                outputFile.write("release_date:" + str(track["album"]["release_date"] + "\n"))
+                outputFile.write("name:" + name + "\n")
+                outputFile.write("release_year:" + str(track["album"]["release_date"]).split("-")[0] + "\n")
                 outputFile.write("danceability:" + str(features[0]["danceability"])+ "\n")
                 outputFile.write("energy:" + str(features[0]["energy"])+ "\n")
                 outputFile.write("loudness:" + str(features[0]["loudness"])+ "\n")

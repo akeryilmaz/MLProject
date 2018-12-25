@@ -1,0 +1,12 @@
+name:Happy Xmas (War Is Over) [feat. Hunter Hayes]
+release_year:2017
+danceability:0.547
+energy:0.707
+loudness:-5.817
+mode:1
+speechiness:0.0289
+acousticness:0.00937
+instrumentalness:2.48e-06
+liveness:0.0768
+valence:0.524
+tempo:81.009

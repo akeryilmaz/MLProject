@@ -1,0 +1,12 @@
+name:For the Love of a Princess (From "Braveheart")
+release_year:2018
+danceability:0.155
+energy:0.192
+loudness:-17.664
+mode:0
+speechiness:0.0398
+acousticness:0.946
+instrumentalness:0.883
+liveness:0.101
+valence:0.0565
+tempo:104.978

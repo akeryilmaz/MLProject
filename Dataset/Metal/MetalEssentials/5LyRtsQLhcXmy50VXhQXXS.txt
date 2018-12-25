@@ -1,0 +1,12 @@
+name:Holy Wars...The Punishment Due - Remastered 2004
+release_year:1990
+danceability:0.325
+energy:0.985
+loudness:-3.941
+mode:1
+speechiness:0.151
+acousticness:0.00177
+instrumentalness:0.107
+liveness:0.351
+valence:0.221
+tempo:125.307

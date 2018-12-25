@@ -1,0 +1,12 @@
+name:One
+release_year:1991
+danceability:0.392
+energy:0.534
+loudness:-8.793
+mode:1
+speechiness:0.0369
+acousticness:0.245
+instrumentalness:0.00104
+liveness:0.155
+valence:0.325
+tempo:181.305

@@ -1,0 +1,12 @@
+name:Planet 9
+release_year:2018
+danceability:0.7
+energy:0.52
+loudness:-12.175
+mode:1
+speechiness:0.0664
+acousticness:0.153
+instrumentalness:0.916
+liveness:0.0414
+valence:0.37
+tempo:122.007

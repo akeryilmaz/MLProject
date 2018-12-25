@@ -1,0 +1,12 @@
+name:Christmas Lights
+release_year:2010
+danceability:0.312
+energy:0.418
+loudness:-9.146
+mode:1
+speechiness:0.0296
+acousticness:0.131
+instrumentalness:0.000679
+liveness:0.0836
+valence:0.237
+tempo:130.795

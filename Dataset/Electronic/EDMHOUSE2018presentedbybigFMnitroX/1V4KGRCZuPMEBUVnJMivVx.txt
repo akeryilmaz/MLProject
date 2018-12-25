@@ -1,0 +1,12 @@
+name:Fuego
+release_year:2018
+danceability:0.639
+energy:0.748
+loudness:-6.918
+mode:0
+speechiness:0.133
+acousticness:0.0998
+instrumentalness:0.000864
+liveness:0.407
+valence:0.538
+tempo:128.056

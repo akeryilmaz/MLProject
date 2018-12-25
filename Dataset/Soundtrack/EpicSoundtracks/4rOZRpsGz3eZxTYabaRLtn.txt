@@ -1,0 +1,12 @@
+name:Lily's Theme
+release_year:2011
+danceability:0.126
+energy:0.0386
+loudness:-28.821
+mode:1
+speechiness:0.0501
+acousticness:0.873
+instrumentalness:0.975
+liveness:0.0759
+valence:0.0274
+tempo:73.378

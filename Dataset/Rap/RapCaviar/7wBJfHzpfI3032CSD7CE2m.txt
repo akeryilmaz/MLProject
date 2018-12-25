@@ -1,0 +1,12 @@
+name:STARGAZING
+release_year:2018
+danceability:0.487
+energy:0.789
+loudness:-3.69
+mode:1
+speechiness:0.044
+acousticness:0.00947
+instrumentalness:4.05e-06
+liveness:0.189
+valence:0.0564
+tempo:150.007

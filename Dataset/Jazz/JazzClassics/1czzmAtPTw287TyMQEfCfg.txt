@@ -1,0 +1,12 @@
+name:Ruby My Dear
+release_year:1994
+danceability:0.412
+energy:0.195
+loudness:-10.288
+mode:1
+speechiness:0.0331
+acousticness:0.9
+instrumentalness:0.709
+liveness:0.106
+valence:0.0778
+tempo:133.918

@@ -1,0 +1,12 @@
+name:Terug Naar Toen (feat. Lijpe)
+release_year:2018
+danceability:0.76
+energy:0.711
+loudness:-6.721
+mode:0
+speechiness:0.418
+acousticness:0.237
+instrumentalness:0
+liveness:0.21
+valence:0.504
+tempo:96.759

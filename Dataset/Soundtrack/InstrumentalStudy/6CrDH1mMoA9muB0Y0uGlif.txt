@@ -1,0 +1,12 @@
+name:Labyrinths
+release_year:2018
+danceability:0.67
+energy:0.169
+loudness:-16.08
+mode:0
+speechiness:0.0408
+acousticness:0.981
+instrumentalness:0.932
+liveness:0.109
+valence:0.143
+tempo:110.013

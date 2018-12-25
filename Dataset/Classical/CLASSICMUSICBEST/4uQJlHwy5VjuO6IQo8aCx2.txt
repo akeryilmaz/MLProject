@@ -1,0 +1,12 @@
+name:Pergolesi : Stabat Mater : I Stabat mater dolorosa
+release_year:1994
+danceability:0.188
+energy:0.0488
+loudness:-24.704
+mode:0
+speechiness:0.0387
+acousticness:0.964
+instrumentalness:0.00651
+liveness:0.119
+valence:0.038
+tempo:78.272

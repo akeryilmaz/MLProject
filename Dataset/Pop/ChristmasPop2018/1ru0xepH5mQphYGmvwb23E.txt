@@ -1,0 +1,12 @@
+name:Christmas Time
+release_year:2016
+danceability:0.662
+energy:0.844
+loudness:-4.897
+mode:0
+speechiness:0.0728
+acousticness:0.121
+instrumentalness:2.04e-06
+liveness:0.539
+valence:0.485
+tempo:99.639

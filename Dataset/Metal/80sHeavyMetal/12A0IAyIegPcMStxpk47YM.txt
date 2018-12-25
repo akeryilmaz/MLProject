@@ -1,0 +1,12 @@
+name:Heaven's On Fire
+release_year:1984
+danceability:0.679
+energy:0.866
+loudness:-6.053
+mode:1
+speechiness:0.0634
+acousticness:0.00376
+instrumentalness:3.1e-05
+liveness:0.312
+valence:0.785
+tempo:124.325

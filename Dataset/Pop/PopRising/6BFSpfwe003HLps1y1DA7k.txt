@@ -1,0 +1,12 @@
+name:GET OFF MY D!CK
+release_year:2018
+danceability:0.709
+energy:0.673
+loudness:-5.291
+mode:1
+speechiness:0.0452
+acousticness:0.0138
+instrumentalness:2.5e-05
+liveness:0.0961
+valence:0.561
+tempo:109.981

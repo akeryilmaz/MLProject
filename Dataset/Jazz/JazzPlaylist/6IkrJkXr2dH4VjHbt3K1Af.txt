@@ -1,0 +1,12 @@
+name:I Loves You Porgy (From "Porgy and Bess") (Live) [Remastered]
+release_year:1967
+danceability:0.337
+energy:0.0684
+loudness:-23.002
+mode:1
+speechiness:0.0405
+acousticness:0.948
+instrumentalness:1.87e-05
+liveness:0.846
+valence:0.173
+tempo:99.393

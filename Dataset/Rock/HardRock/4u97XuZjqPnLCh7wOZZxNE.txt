@@ -1,0 +1,12 @@
+name:Bitter Harvest
+release_year:2018
+danceability:0.444
+energy:0.892
+loudness:-4.596
+mode:1
+speechiness:0.0508
+acousticness:8.49e-05
+instrumentalness:0.00802
+liveness:0.172
+valence:0.508
+tempo:150.003

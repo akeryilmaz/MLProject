@@ -1,0 +1,12 @@
+name:Boa Menina
+release_year:2018
+danceability:0.819
+energy:0.565
+loudness:-5.87
+mode:1
+speechiness:0.0537
+acousticness:0.033
+instrumentalness:6.71e-06
+liveness:0.0874
+valence:0.58
+tempo:89.965

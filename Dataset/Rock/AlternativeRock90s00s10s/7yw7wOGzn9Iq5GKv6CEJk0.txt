@@ -1,0 +1,12 @@
+name:Long Forgotten Sons
+release_year:2008
+danceability:0.475
+energy:0.984
+loudness:-3.258
+mode:0
+speechiness:0.0661
+acousticness:8.76e-05
+instrumentalness:0.00333
+liveness:0.074
+valence:0.454
+tempo:134.967

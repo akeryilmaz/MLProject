@@ -1,0 +1,12 @@
+name:White Washed
+release_year:2009
+danceability:0.214
+energy:0.964
+loudness:-5.248
+mode:0
+speechiness:0.0733
+acousticness:7.07e-06
+instrumentalness:0.114
+liveness:0.453
+valence:0.328
+tempo:106.536

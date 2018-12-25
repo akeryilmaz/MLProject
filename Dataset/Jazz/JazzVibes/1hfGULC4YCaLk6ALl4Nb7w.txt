@@ -1,0 +1,12 @@
+name:Peridot
+release_year:2018
+danceability:0.755
+energy:0.319
+loudness:-12.981
+mode:1
+speechiness:0.0294
+acousticness:0.836
+instrumentalness:0.799
+liveness:0.078
+valence:0.649
+tempo:93.999

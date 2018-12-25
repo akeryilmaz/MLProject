@@ -1,0 +1,12 @@
+name:Help Is On The Way
+release_year:2011
+danceability:0.345
+energy:0.951
+loudness:-3.521
+mode:0
+speechiness:0.07
+acousticness:0.000149
+instrumentalness:0.00106
+liveness:0.0357
+valence:0.623
+tempo:108.017

@@ -1,0 +1,12 @@
+name:Bickering
+release_year:2009
+danceability:0.717
+energy:0.424
+loudness:-10.395
+mode:1
+speechiness:0.048
+acousticness:0.621
+instrumentalness:0.0238
+liveness:0.173
+valence:0.534
+tempo:103.516

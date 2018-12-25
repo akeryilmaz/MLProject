@@ -1,0 +1,12 @@
+name:Captain America
+release_year:2011
+danceability:0.276
+energy:0.457
+loudness:-10.052
+mode:1
+speechiness:0.0347
+acousticness:0.81
+instrumentalness:0.693
+liveness:0.117
+valence:0.315
+tempo:94.893

@@ -1,0 +1,12 @@
+name:Autumn
+release_year:2018
+danceability:0.606
+energy:0.103
+loudness:-11.737
+mode:0
+speechiness:0.332
+acousticness:0.0561
+instrumentalness:0.874
+liveness:0.103
+valence:0.744
+tempo:180.615

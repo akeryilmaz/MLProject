@@ -1,0 +1,12 @@
+name:15th of April
+release_year:2018
+danceability:0.715
+energy:0.638
+loudness:-6.915
+mode:0
+speechiness:0.042
+acousticness:0.131
+instrumentalness:0.55
+liveness:0.114
+valence:0.726
+tempo:82.995

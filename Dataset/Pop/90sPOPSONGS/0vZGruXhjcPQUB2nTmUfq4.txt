@@ -1,0 +1,12 @@
+name:When You Say Nothing At All
+release_year:2004
+danceability:0.525
+energy:0.581
+loudness:-8.068
+mode:1
+speechiness:0.0237
+acousticness:0.141
+instrumentalness:1.16e-06
+liveness:0.0985
+valence:0.394
+tempo:87.008

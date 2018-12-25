@@ -1,0 +1,12 @@
+name:Training Montage
+release_year:1985
+danceability:0.578
+energy:0.748
+loudness:-8.702
+mode:1
+speechiness:0.0546
+acousticness:0.0145
+instrumentalness:0.723
+liveness:0.11
+valence:0.345
+tempo:81.107

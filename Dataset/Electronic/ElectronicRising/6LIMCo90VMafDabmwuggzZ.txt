@@ -1,0 +1,12 @@
+name:Your Mind - Original Mix
+release_year:2018
+danceability:0.84
+energy:0.695
+loudness:-6.59
+mode:1
+speechiness:0.0436
+acousticness:0.000203
+instrumentalness:0.806
+liveness:0.0403
+valence:0.365
+tempo:124.993

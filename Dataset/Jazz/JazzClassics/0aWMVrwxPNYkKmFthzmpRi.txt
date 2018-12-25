@@ -1,0 +1,12 @@
+name:Blue in Green
+release_year:1959
+danceability:0.421
+energy:0.0161
+loudness:-25.358
+mode:0
+speechiness:0.0374
+acousticness:0.81
+instrumentalness:0.0021
+liveness:0.0978
+valence:0.16
+tempo:110.926

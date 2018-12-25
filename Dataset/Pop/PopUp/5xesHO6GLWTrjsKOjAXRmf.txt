@@ -1,0 +1,12 @@
+name:Checklist (with Calvin Harris) (feat. WizKid)
+release_year:2018
+danceability:0.89
+energy:0.624
+loudness:-3.966
+mode:1
+speechiness:0.103
+acousticness:0.0944
+instrumentalness:5.16e-06
+liveness:0.0903
+valence:0.762
+tempo:116.046

@@ -1,0 +1,12 @@
+name:Collecting Stories
+release_year:2018
+danceability:0.67
+energy:0.762
+loudness:-11.474
+mode:1
+speechiness:0.0389
+acousticness:0.000722
+instrumentalness:0.882
+liveness:0.147
+valence:0.0391
+tempo:118.995

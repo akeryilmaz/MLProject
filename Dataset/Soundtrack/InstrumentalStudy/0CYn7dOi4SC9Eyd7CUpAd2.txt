@@ -1,0 +1,12 @@
+name:Holding on to Forever
+release_year:2018
+danceability:0.404
+energy:0.0661
+loudness:-22.196
+mode:1
+speechiness:0.0502
+acousticness:0.993
+instrumentalness:0.965
+liveness:0.113
+valence:0.248
+tempo:120.707

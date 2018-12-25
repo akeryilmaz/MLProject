@@ -1,0 +1,12 @@
+name:You Never Know
+release_year:2013
+danceability:0.54
+energy:0.479
+loudness:-15.013
+mode:1
+speechiness:0.0291
+acousticness:0.757
+instrumentalness:0.892
+liveness:0.0863
+valence:0.752
+tempo:110.516

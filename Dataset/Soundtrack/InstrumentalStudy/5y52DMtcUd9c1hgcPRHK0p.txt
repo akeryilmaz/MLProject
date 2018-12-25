@@ -1,0 +1,12 @@
+name:In This Moment
+release_year:2018
+danceability:0.236
+energy:0.0131
+loudness:-25.88
+mode:0
+speechiness:0.0352
+acousticness:0.974
+instrumentalness:0.868
+liveness:0.119
+valence:0.125
+tempo:65.492

@@ -1,0 +1,12 @@
+name:You Shook Me All Night Long
+release_year:1980
+danceability:0.532
+energy:0.767
+loudness:-5.509
+mode:1
+speechiness:0.0574
+acousticness:0.00287
+instrumentalness:0.000513
+liveness:0.39
+valence:0.755
+tempo:127.361

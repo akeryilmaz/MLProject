@@ -1,0 +1,12 @@
+name:The Temple Of The King
+release_year:1975
+danceability:0.486
+energy:0.487
+loudness:-11.633
+mode:0
+speechiness:0.0341
+acousticness:0.445
+instrumentalness:1.44e-05
+liveness:0.0648
+valence:0.373
+tempo:81.972

@@ -1,0 +1,12 @@
+name:Start Again (feat. Tyler Mann)
+release_year:2018
+danceability:0.604
+energy:0.662
+loudness:-5.132
+mode:0
+speechiness:0.0515
+acousticness:0.0135
+instrumentalness:8.73e-06
+liveness:0.234
+valence:0.67
+tempo:108.103

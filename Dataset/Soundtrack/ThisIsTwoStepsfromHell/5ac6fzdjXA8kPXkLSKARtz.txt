@@ -1,0 +1,12 @@
+name:Evergreen
+release_year:2016
+danceability:0.417
+energy:0.822
+loudness:-7.981
+mode:1
+speechiness:0.145
+acousticness:0.225
+instrumentalness:0.889
+liveness:0.0593
+valence:0.243
+tempo:149.968

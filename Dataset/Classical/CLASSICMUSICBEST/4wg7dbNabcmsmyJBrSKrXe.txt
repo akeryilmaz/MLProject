@@ -1,0 +1,12 @@
+name:Vivaldi: Gloria in D Major, RV 589: I. Gloria in excelsis Deo
+release_year:1994
+danceability:0.342
+energy:0.359
+loudness:-16.725
+mode:1
+speechiness:0.0332
+acousticness:0.976
+instrumentalness:0.738
+liveness:0.0967
+valence:0.491
+tempo:138.525

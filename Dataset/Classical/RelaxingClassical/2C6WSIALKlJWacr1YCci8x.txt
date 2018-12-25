@@ -1,0 +1,12 @@
+name:Journey to Denmark
+release_year:2018
+danceability:0.413
+energy:0.325
+loudness:-19.015
+mode:0
+speechiness:0.0416
+acousticness:0.803
+instrumentalness:0.889
+liveness:0.142
+valence:0.0714
+tempo:103.356

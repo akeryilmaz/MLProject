@@ -1,0 +1,12 @@
+name:Laid to Rest
+release_year:2004
+danceability:0.359
+energy:0.959
+loudness:-3.685
+mode:1
+speechiness:0.104
+acousticness:0.000216
+instrumentalness:0.00343
+liveness:0.435
+valence:0.158
+tempo:103.038

@@ -1,0 +1,12 @@
+name:La Grange - 2005 Remastered Version
+release_year:1973
+danceability:0.545
+energy:0.64
+loudness:-9.937
+mode:0
+speechiness:0.224
+acousticness:0.00249
+instrumentalness:0.0304
+liveness:0.196
+valence:0.606
+tempo:80.544

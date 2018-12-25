@@ -1,0 +1,12 @@
+name:The Roller
+release_year:2011
+danceability:0.483
+energy:0.942
+loudness:-2.184
+mode:0
+speechiness:0.0417
+acousticness:0.000165
+instrumentalness:0.664
+liveness:0.193
+valence:0.539
+tempo:115.886

@@ -1,0 +1,12 @@
+name:Piano Concerto No. 21 in C Major, K. 467 "Elvira Madigan": II. Andante
+release_year:1995
+danceability:0.194
+energy:0.0324
+loudness:-28.215
+mode:1
+speechiness:0.0382
+acousticness:0.982
+instrumentalness:0.961
+liveness:0.0916
+valence:0.0596
+tempo:144.13

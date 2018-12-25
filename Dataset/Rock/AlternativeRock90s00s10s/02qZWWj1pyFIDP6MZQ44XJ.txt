@@ -1,0 +1,12 @@
+name:Just Breathe
+release_year:2009
+danceability:0.473
+energy:0.348
+loudness:-11.1
+mode:1
+speechiness:0.0288
+acousticness:0.721
+instrumentalness:7.42e-05
+liveness:0.0823
+valence:0.283
+tempo:107.819

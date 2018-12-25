@@ -1,0 +1,12 @@
+name:Two Sides Of The Coin
+release_year:1980
+danceability:0.561
+energy:0.906
+loudness:-6.713
+mode:1
+speechiness:0.0442
+acousticness:0.0383
+instrumentalness:0.000502
+liveness:0.232
+valence:0.78
+tempo:131.709

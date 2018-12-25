@@ -1,0 +1,12 @@
+name:Symphonie fantastique, Op. 14: Symphonie fantastique, Op. 14: IV. Marche au supplice
+release_year:2016
+danceability:0.356
+energy:0.207
+loudness:-17.76
+mode:1
+speechiness:0.0388
+acousticness:0.95
+instrumentalness:0.914
+liveness:0.0802
+valence:0.328
+tempo:146.755

@@ -1,0 +1,12 @@
+name:Trip Lang
+release_year:2013
+danceability:0.751
+energy:0.907
+loudness:-4.73
+mode:1
+speechiness:0.0304
+acousticness:0.0384
+instrumentalness:7.13e-06
+liveness:0.111
+valence:0.556
+tempo:130.04

@@ -1,0 +1,12 @@
+name:Frosty the Snowman
+release_year:2008
+danceability:0.771
+energy:0.122
+loudness:-12.384
+mode:1
+speechiness:0.0542
+acousticness:0.817
+instrumentalness:1.26e-06
+liveness:0.122
+valence:0.634
+tempo:148.113

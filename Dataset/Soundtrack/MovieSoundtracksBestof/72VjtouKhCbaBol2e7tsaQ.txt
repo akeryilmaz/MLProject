@@ -1,0 +1,12 @@
+name:Theme From Jurassic Park - From "Jurassic Park" Soundtrack
+release_year:1993
+danceability:0.144
+energy:0.132
+loudness:-19.115
+mode:1
+speechiness:0.0333
+acousticness:0.946
+instrumentalness:0.779
+liveness:0.115
+valence:0.0627
+tempo:102.283

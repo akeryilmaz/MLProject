@@ -1,0 +1,12 @@
+name:My Own Worst Enemy
+release_year:1999
+danceability:0.494
+energy:0.946
+loudness:-2.757
+mode:1
+speechiness:0.0637
+acousticness:0.00129
+instrumentalness:0
+liveness:0.398
+valence:0.741
+tempo:103.408

@@ -1,0 +1,12 @@
+name:We Are Seven
+release_year:2018
+danceability:0.516
+energy:0.924
+loudness:-4.867
+mode:1
+speechiness:0.0381
+acousticness:0.00694
+instrumentalness:0.000192
+liveness:0.205
+valence:0.418
+tempo:98.031

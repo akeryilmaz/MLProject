@@ -1,0 +1,12 @@
+name:Breathe (feat. Jem Cooke)
+release_year:2018
+danceability:0.595
+energy:0.877
+loudness:-7.414
+mode:0
+speechiness:0.0442
+acousticness:0.00646
+instrumentalness:0.0879
+liveness:0.398
+valence:0.081
+tempo:125.015

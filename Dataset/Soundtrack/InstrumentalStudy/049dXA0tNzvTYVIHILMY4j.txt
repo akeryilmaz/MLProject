@@ -1,0 +1,12 @@
+name:The Gift
+release_year:2018
+danceability:0.119
+energy:0.103
+loudness:-21.268
+mode:1
+speechiness:0.0411
+acousticness:0.927
+instrumentalness:0.946
+liveness:0.103
+valence:0.109
+tempo:75.626

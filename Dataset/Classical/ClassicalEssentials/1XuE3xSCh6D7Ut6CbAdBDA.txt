@@ -1,0 +1,12 @@
+name:Psalmus 109. dixit dominus
+release_year:2004
+danceability:0.184
+energy:0.157
+loudness:-17.417
+mode:0
+speechiness:0.044
+acousticness:0.979
+instrumentalness:0.000423
+liveness:0.167
+valence:0.0805
+tempo:170.643

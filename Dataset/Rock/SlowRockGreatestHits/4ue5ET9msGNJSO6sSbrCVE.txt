@@ -1,0 +1,12 @@
+name:I Want To Break Free - Remastered 2011
+release_year:1991
+danceability:0.796
+energy:0.43
+loudness:-8.994
+mode:1
+speechiness:0.0325
+acousticness:0.0869
+instrumentalness:0.000343
+liveness:0.0776
+valence:0.559
+tempo:108.959

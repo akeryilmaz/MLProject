@@ -1,0 +1,12 @@
+name:Sons of War
+release_year:2013
+danceability:0.446
+energy:0.975
+loudness:-6.726
+mode:1
+speechiness:0.0327
+acousticness:0.0182
+instrumentalness:0.923
+liveness:0.302
+valence:0.226
+tempo:80.015

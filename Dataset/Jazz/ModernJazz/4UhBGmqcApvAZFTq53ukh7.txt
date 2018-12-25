@@ -1,0 +1,12 @@
+name:Old Folks
+release_year:1999
+danceability:0.458
+energy:0.217
+loudness:-16.582
+mode:1
+speechiness:0.0328
+acousticness:0.827
+instrumentalness:0.805
+liveness:0.194
+valence:0.128
+tempo:107.506

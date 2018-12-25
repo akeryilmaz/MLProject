@@ -1,0 +1,12 @@
+name:The Christmas Song (Chestnuts Roasting On An Open Fire)
+release_year:2011
+danceability:0.265
+energy:0.436
+loudness:-9.542
+mode:0
+speechiness:0.0411
+acousticness:0.45
+instrumentalness:0
+liveness:0.102
+valence:0.159
+tempo:69.047

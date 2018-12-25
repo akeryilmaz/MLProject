@@ -1,0 +1,12 @@
+name:After You've Gone
+release_year:1997
+danceability:0.438
+energy:0.133
+loudness:-13.983
+mode:1
+speechiness:0.0382
+acousticness:0.9
+instrumentalness:0.838
+liveness:0.108
+valence:0.167
+tempo:119.633

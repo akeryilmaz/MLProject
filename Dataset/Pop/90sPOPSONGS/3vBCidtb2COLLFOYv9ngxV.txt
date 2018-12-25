@@ -1,0 +1,12 @@
+name:I Do (Cherish You)
+release_year:1999
+danceability:0.562
+energy:0.493
+loudness:-7.913
+mode:1
+speechiness:0.0341
+acousticness:0.678
+instrumentalness:0
+liveness:0.14
+valence:0.259
+tempo:80.987

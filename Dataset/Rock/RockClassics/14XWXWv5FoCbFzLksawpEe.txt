@@ -1,0 +1,12 @@
+name:Riders On The Storm
+release_year:1971
+danceability:0.549
+energy:0.722
+loudness:-11.729
+mode:0
+speechiness:0.0283
+acousticness:0.25
+instrumentalness:0.0138
+liveness:0.11
+valence:0.716
+tempo:103.885

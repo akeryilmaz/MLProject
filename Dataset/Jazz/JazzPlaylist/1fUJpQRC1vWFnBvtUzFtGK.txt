@@ -1,0 +1,12 @@
+name:Everyday I Have the Blues
+release_year:2018
+danceability:0.633
+energy:0.632
+loudness:-9.441
+mode:1
+speechiness:0.0835
+acousticness:0.401
+instrumentalness:5.83e-05
+liveness:0.372
+valence:0.597
+tempo:130.318

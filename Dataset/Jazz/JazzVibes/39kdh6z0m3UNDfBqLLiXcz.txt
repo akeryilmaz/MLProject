@@ -1,0 +1,12 @@
+name:Night 1
+release_year:2018
+danceability:0.835
+energy:0.359
+loudness:-12.531
+mode:1
+speechiness:0.0685
+acousticness:0.0127
+instrumentalness:0.628
+liveness:0.112
+valence:0.389
+tempo:152.185

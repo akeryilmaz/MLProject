@@ -1,0 +1,12 @@
+name:Detroit Rock City
+release_year:1997
+danceability:0.548
+energy:0.905
+loudness:-7.237
+mode:1
+speechiness:0.0607
+acousticness:0.0381
+instrumentalness:3.37e-05
+liveness:0.163
+valence:0.457
+tempo:90.587

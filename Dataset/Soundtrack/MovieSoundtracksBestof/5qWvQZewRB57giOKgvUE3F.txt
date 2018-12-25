@@ -1,0 +1,12 @@
+name:Harry's Wondrous World
+release_year:2002
+danceability:0.178
+energy:0.266
+loudness:-13.791
+mode:1
+speechiness:0.0331
+acousticness:0.873
+instrumentalness:0.917
+liveness:0.0979
+valence:0.191
+tempo:84.537

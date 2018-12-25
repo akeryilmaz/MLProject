@@ -1,0 +1,12 @@
+name:Around My Head
+release_year:2011
+danceability:0.516
+energy:0.959
+loudness:-2.484
+mode:1
+speechiness:0.0597
+acousticness:0.000659
+instrumentalness:4.44e-06
+liveness:0.046
+valence:0.474
+tempo:109.91

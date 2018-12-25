@@ -1,0 +1,12 @@
+name:The Man I Love
+release_year:1933
+danceability:0.485
+energy:0.177
+loudness:-14.282
+mode:1
+speechiness:0.0428
+acousticness:0.965
+instrumentalness:7.37e-05
+liveness:0.252
+valence:0.253
+tempo:88.411

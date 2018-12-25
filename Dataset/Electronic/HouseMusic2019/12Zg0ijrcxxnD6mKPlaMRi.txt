@@ -1,0 +1,12 @@
+name:Talking To Myself - Edit
+release_year:2018
+danceability:0.692
+energy:0.64
+loudness:-10.655
+mode:0
+speechiness:0.095
+acousticness:0.275
+instrumentalness:0.00132
+liveness:0.165
+valence:0.25
+tempo:124.994

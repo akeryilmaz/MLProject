@@ -1,0 +1,12 @@
+name:Impossible
+release_year:2017
+danceability:0.166
+energy:0.786
+loudness:-7.261
+mode:0
+speechiness:0.0531
+acousticness:0.0608
+instrumentalness:0.947
+liveness:0.0878
+valence:0.313
+tempo:180.12

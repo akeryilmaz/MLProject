@@ -1,0 +1,12 @@
+name:Oops!...I Did It Again
+release_year:2000
+danceability:0.751
+energy:0.834
+loudness:-5.444
+mode:0
+speechiness:0.0437
+acousticness:0.3
+instrumentalness:1.77e-05
+liveness:0.355
+valence:0.894
+tempo:95.053

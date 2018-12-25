@@ -1,0 +1,12 @@
+name:Take On Me
+release_year:2000
+danceability:0.562
+energy:0.931
+loudness:-4.809
+mode:1
+speechiness:0.0469
+acousticness:0.0859
+instrumentalness:1.95e-06
+liveness:0.269
+valence:0.537
+tempo:165.081

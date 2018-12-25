@@ -1,0 +1,12 @@
+name:Losing It
+release_year:2018
+danceability:0.76
+energy:0.964
+loudness:-5.844
+mode:1
+speechiness:0.0576
+acousticness:0.00182
+instrumentalness:0.7
+liveness:0.0974
+valence:0.641
+tempo:125.0

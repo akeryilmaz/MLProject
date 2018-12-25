@@ -1,0 +1,12 @@
+name:Personal Jesus - Original Seven Inch Version
+release_year:1989
+danceability:0.637
+energy:0.682
+loudness:-11.625
+mode:1
+speechiness:0.0366
+acousticness:0.0112
+instrumentalness:0.0234
+liveness:0.0473
+valence:0.714
+tempo:129.983

@@ -1,0 +1,12 @@
+name:Spezi
+release_year:2018
+danceability:0.77
+energy:0.29
+loudness:-13.798
+mode:1
+speechiness:0.0791
+acousticness:0.0426
+instrumentalness:0.833
+liveness:0.107
+valence:0.52
+tempo:92.997

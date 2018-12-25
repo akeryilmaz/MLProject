@@ -1,0 +1,12 @@
+name:Back To The Future - Back To The Future
+release_year:1990
+danceability:0.208
+energy:0.4
+loudness:-13.02
+mode:1
+speechiness:0.0387
+acousticness:0.765
+instrumentalness:0.896
+liveness:0.186
+valence:0.115
+tempo:105.826

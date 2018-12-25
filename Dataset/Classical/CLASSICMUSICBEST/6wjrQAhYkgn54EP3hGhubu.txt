@@ -1,0 +1,12 @@
+name:Nocturne No. 2 in E flat Major, Op. 9,2
+release_year:2009
+danceability:0.387
+energy:0.0102
+loudness:-32.474
+mode:1
+speechiness:0.0383
+acousticness:0.99
+instrumentalness:0.917
+liveness:0.0728
+valence:0.0658
+tempo:65.642

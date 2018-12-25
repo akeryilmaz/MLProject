@@ -1,0 +1,12 @@
+name:Nakakamiss
+release_year:2014
+danceability:0.768
+energy:0.817
+loudness:-8.243
+mode:1
+speechiness:0.045
+acousticness:0.573
+instrumentalness:3.58e-05
+liveness:0.144
+valence:0.837
+tempo:124.947

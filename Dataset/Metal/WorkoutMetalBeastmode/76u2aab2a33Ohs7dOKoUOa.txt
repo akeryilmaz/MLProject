@@ -1,0 +1,12 @@
+name:My Will Be Done
+release_year:2008
+danceability:0.219
+energy:0.921
+loudness:-5.663
+mode:1
+speechiness:0.0787
+acousticness:1.37e-05
+instrumentalness:0.0515
+liveness:0.123
+valence:0.535
+tempo:166.307

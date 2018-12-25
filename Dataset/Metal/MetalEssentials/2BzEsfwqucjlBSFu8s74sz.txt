@@ -1,0 +1,12 @@
+name:Crushed
+release_year:2015
+danceability:0.404
+energy:0.964
+loudness:-4.569
+mode:1
+speechiness:0.115
+acousticness:0.00228
+instrumentalness:5.16e-06
+liveness:0.0888
+valence:0.24
+tempo:84.996

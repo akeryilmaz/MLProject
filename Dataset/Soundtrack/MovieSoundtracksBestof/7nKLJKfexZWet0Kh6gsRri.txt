@@ -1,0 +1,12 @@
+name:Old Friends - Extended Version
+release_year:2012
+danceability:0.373
+energy:0.0519
+loudness:-17.877
+mode:1
+speechiness:0.0338
+acousticness:0.849
+instrumentalness:0.666
+liveness:0.137
+valence:0.0387
+tempo:103.878

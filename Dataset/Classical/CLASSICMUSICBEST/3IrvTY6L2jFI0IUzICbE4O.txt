@@ -1,0 +1,12 @@
+name:Keyboard Sonatina In C Major, Op. 36, No. 1: I. Allegro
+release_year:1995
+danceability:0.289
+energy:0.234
+loudness:-22.366
+mode:1
+speechiness:0.0451
+acousticness:0.993
+instrumentalness:0.932
+liveness:0.143
+valence:0.965
+tempo:107.074

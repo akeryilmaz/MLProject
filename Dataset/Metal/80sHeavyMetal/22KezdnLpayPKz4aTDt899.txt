@@ -1,0 +1,12 @@
+name:Animal (Fuck Like A Beast)
+release_year:1984
+danceability:0.299
+energy:0.963
+loudness:-5.735
+mode:1
+speechiness:0.158
+acousticness:0.0159
+instrumentalness:7.02e-06
+liveness:0.549
+valence:0.15
+tempo:143.539

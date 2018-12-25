@@ -1,0 +1,12 @@
+name:Colin Frake
+release_year:2014
+danceability:0.255
+energy:0.293
+loudness:-10.464
+mode:1
+speechiness:0.0311
+acousticness:0.819
+instrumentalness:0.846
+liveness:0.109
+valence:0.163
+tempo:139.979

@@ -1,0 +1,12 @@
+name:A Way of Life
+release_year:2003
+danceability:0.0923
+energy:0.031
+loudness:-29.351
+mode:0
+speechiness:0.0454
+acousticness:0.895
+instrumentalness:0.916
+liveness:0.0766
+valence:0.0344
+tempo:86.636

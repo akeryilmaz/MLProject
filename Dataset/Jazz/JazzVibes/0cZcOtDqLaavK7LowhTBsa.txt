@@ -1,0 +1,12 @@
+name:sunny
+release_year:2018
+danceability:0.811
+energy:0.429
+loudness:-11.503
+mode:1
+speechiness:0.0789
+acousticness:0.468
+instrumentalness:0.607
+liveness:0.109
+valence:0.646
+tempo:138.027

@@ -1,0 +1,12 @@
+name:Party Girl
+release_year:2018
+danceability:0.595
+energy:0.559
+loudness:-7.511
+mode:1
+speechiness:0.0912
+acousticness:0.0289
+instrumentalness:0
+liveness:0.0887
+valence:0.155
+tempo:136.107

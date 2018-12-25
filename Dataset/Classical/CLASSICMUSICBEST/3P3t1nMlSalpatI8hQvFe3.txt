@@ -1,0 +1,12 @@
+name:Requiem In D Minor, K 626 - 1. Introitus: Requiem Aeternam
+release_year:2009
+danceability:0.101
+energy:0.139
+loudness:-19.014
+mode:0
+speechiness:0.0363
+acousticness:0.987
+instrumentalness:0.572
+liveness:0.14
+valence:0.0389
+tempo:81.222

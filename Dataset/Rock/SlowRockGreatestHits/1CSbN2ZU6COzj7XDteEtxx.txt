@@ -1,0 +1,12 @@
+name:Blindspot
+release_year:2018
+danceability:0.634
+energy:0.445
+loudness:-8.496
+mode:1
+speechiness:0.139
+acousticness:0.22
+instrumentalness:2.16e-06
+liveness:0.0838
+valence:0.543
+tempo:79.943

@@ -1,0 +1,12 @@
+name:(Everything I Do) I Do It For You
+release_year:1991
+danceability:0.519
+energy:0.372
+loudness:-12.635
+mode:1
+speechiness:0.0284
+acousticness:0.0816
+instrumentalness:4.67e-05
+liveness:0.0652
+valence:0.298
+tempo:131.227

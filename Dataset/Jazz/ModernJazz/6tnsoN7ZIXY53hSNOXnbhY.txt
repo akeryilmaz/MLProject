@@ -1,0 +1,12 @@
+name:Balkan Air
+release_year:2006
+danceability:0.584
+energy:0.458
+loudness:-17.271
+mode:0
+speechiness:0.0433
+acousticness:0.737
+instrumentalness:0.862
+liveness:0.108
+valence:0.143
+tempo:102.984

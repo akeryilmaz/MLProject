@@ -1,0 +1,12 @@
+name:Sealed
+release_year:2018
+danceability:0.741
+energy:0.317
+loudness:-11.929
+mode:1
+speechiness:0.0529
+acousticness:0.778
+instrumentalness:0.925
+liveness:0.104
+valence:0.282
+tempo:120.064

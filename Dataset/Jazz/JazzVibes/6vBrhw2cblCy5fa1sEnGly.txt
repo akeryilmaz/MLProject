@@ -1,0 +1,12 @@
+name:Swoomyo
+release_year:2018
+danceability:0.643
+energy:0.414
+loudness:-10.145
+mode:1
+speechiness:0.0437
+acousticness:0.0913
+instrumentalness:0.854
+liveness:0.236
+valence:0.538
+tempo:83.999

@@ -1,0 +1,12 @@
+name:Apartment #0145
+release_year:2000
+danceability:0.539
+energy:0.13
+loudness:-19.718
+mode:1
+speechiness:0.0462
+acousticness:0.76
+instrumentalness:0.745
+liveness:0.0932
+valence:0.271
+tempo:84.912

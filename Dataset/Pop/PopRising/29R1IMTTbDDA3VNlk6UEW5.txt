@@ -1,0 +1,12 @@
+name:Play
+release_year:2018
+danceability:0.771
+energy:0.768
+loudness:-7.773
+mode:0
+speechiness:0.0451
+acousticness:0.0266
+instrumentalness:1.26e-05
+liveness:0.426
+valence:0.607
+tempo:125.023

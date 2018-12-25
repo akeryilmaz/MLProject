@@ -1,0 +1,12 @@
+name:Midnight Song
+release_year:2018
+danceability:0.495
+energy:0.895
+loudness:-7.805
+mode:1
+speechiness:0.0364
+acousticness:2.3e-05
+instrumentalness:0.522
+liveness:0.404
+valence:0.539
+tempo:139.989

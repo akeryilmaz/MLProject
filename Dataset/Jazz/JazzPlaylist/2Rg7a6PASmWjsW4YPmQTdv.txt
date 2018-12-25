@@ -1,0 +1,12 @@
+name:Swing de Paris
+release_year:2016
+danceability:0.724
+energy:0.383
+loudness:-10.619
+mode:1
+speechiness:0.0379
+acousticness:0.974
+instrumentalness:0.603
+liveness:0.253
+valence:0.825
+tempo:95.12

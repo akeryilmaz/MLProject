@@ -1,0 +1,12 @@
+name:SICKO MODE
+release_year:2018
+danceability:0.834
+energy:0.73
+loudness:-3.714
+mode:1
+speechiness:0.222
+acousticness:0.00513
+instrumentalness:0
+liveness:0.124
+valence:0.446
+tempo:155.008

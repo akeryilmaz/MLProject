@@ -1,0 +1,12 @@
+name:Things I Do For Love
+release_year:2018
+danceability:0.767
+energy:0.809
+loudness:-4.379
+mode:1
+speechiness:0.0436
+acousticness:0.0903
+instrumentalness:5.14e-06
+liveness:0.111
+valence:0.742
+tempo:107.001

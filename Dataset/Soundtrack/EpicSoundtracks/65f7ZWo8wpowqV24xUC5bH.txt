@@ -1,0 +1,12 @@
+name:Armageddon Suite
+release_year:1998
+danceability:0.193
+energy:0.404
+loudness:-15.491
+mode:1
+speechiness:0.0476
+acousticness:0.384
+instrumentalness:0.932
+liveness:0.0649
+valence:0.0913
+tempo:141.617

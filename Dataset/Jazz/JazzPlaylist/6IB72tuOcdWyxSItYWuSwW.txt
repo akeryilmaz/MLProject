@@ -1,0 +1,12 @@
+name:It Might as Well Be Spring - Master Take 1
+release_year:2016
+danceability:0.531
+energy:0.107
+loudness:-13.395
+mode:1
+speechiness:0.0413
+acousticness:0.976
+instrumentalness:0.757
+liveness:0.396
+valence:0.478
+tempo:135.154

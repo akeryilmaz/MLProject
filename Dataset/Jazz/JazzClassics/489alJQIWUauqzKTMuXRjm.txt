@@ -1,0 +1,12 @@
+name:Cool Out
+release_year:2017
+danceability:0.453
+energy:0.367
+loudness:-16.245
+mode:0
+speechiness:0.0343
+acousticness:0.0708
+instrumentalness:0.00183
+liveness:0.1
+valence:0.127
+tempo:140.832

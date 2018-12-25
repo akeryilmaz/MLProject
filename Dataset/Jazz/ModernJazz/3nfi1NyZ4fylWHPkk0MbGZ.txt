@@ -1,0 +1,12 @@
+name:For drummers only
+release_year:2012
+danceability:0.415
+energy:0.792
+loudness:-6.892
+mode:1
+speechiness:0.0621
+acousticness:0.0223
+instrumentalness:0.689
+liveness:0.0546
+valence:0.674
+tempo:90.422

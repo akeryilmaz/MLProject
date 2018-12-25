@@ -1,0 +1,12 @@
+name:Violin Concerto No.1 in G minor, Op.26: 1. Vorspiel (Allegro moderato)
+release_year:2013
+danceability:0.154
+energy:0.0952
+loudness:-21.534
+mode:1
+speechiness:0.044
+acousticness:0.866
+instrumentalness:0.539
+liveness:0.0852
+valence:0.0589
+tempo:72.495

@@ -1,0 +1,12 @@
+name:I Left My Heart In San Francisco - Live
+release_year:2013
+danceability:0.447
+energy:0.336
+loudness:-19.364
+mode:1
+speechiness:0.443
+acousticness:0.946
+instrumentalness:0.000676
+liveness:0.624
+valence:0.347
+tempo:114.422

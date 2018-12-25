@@ -1,0 +1,12 @@
+name:Favela
+release_year:2018
+danceability:0.777
+energy:0.812
+loudness:-3.206
+mode:0
+speechiness:0.0598
+acousticness:0.0125
+instrumentalness:0.00233
+liveness:0.0264
+valence:0.283
+tempo:103.023

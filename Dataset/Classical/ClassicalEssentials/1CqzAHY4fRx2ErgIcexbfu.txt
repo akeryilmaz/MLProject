@@ -1,0 +1,12 @@
+name:Pictures at an Exhibition: Pictures at an Exhibition: X. The great gate of Kiev
+release_year:2015
+danceability:0.513
+energy:0.147
+loudness:-16.76
+mode:1
+speechiness:0.0845
+acousticness:0.979
+instrumentalness:0.907
+liveness:0.1
+valence:0.126
+tempo:139.409

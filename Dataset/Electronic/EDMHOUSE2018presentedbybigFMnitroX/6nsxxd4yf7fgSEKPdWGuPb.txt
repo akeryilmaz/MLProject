@@ -1,0 +1,12 @@
+name:Limbo
+release_year:2018
+danceability:0.71
+energy:0.715
+loudness:-4.209
+mode:0
+speechiness:0.0347
+acousticness:0.207
+instrumentalness:1.15e-06
+liveness:0.174
+valence:0.427
+tempo:107.939

@@ -1,0 +1,12 @@
+name:Let It Snow
+release_year:2017
+danceability:0.506
+energy:0.87
+loudness:-4.129
+mode:1
+speechiness:0.0684
+acousticness:0.268
+instrumentalness:0
+liveness:0.161
+valence:0.591
+tempo:119.219

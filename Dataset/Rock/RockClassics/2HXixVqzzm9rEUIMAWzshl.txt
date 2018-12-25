@@ -1,0 +1,12 @@
+name:I Hate Myself for Loving You
+release_year:1988
+danceability:0.611
+energy:0.883
+loudness:-11.225
+mode:1
+speechiness:0.0539
+acousticness:0.0846
+instrumentalness:1.2e-06
+liveness:0.192
+valence:0.604
+tempo:117.928

@@ -1,0 +1,12 @@
+name:Whole Lotta Love
+release_year:1969
+danceability:0.412
+energy:0.902
+loudness:-11.6
+mode:1
+speechiness:0.405
+acousticness:0.0484
+instrumentalness:0.131
+liveness:0.405
+valence:0.422
+tempo:89.74

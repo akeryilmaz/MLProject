@@ -1,0 +1,12 @@
+name:The Unforgiven
+release_year:1991
+danceability:0.539
+energy:0.597
+loudness:-9.581
+mode:1
+speechiness:0.0258
+acousticness:0.0108
+instrumentalness:0.00552
+liveness:0.134
+valence:0.251
+tempo:139.444

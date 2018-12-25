@@ -1,0 +1,12 @@
+name:Drucilla
+release_year:2008
+danceability:0.355
+energy:0.285
+loudness:-12.119
+mode:0
+speechiness:0.0399
+acousticness:0.843
+instrumentalness:0.478
+liveness:0.0438
+valence:0.112
+tempo:138.752

@@ -1,0 +1,12 @@
+name:Please Forgive Me
+release_year:1999
+danceability:0.565
+energy:0.427
+loudness:-8.273
+mode:1
+speechiness:0.0266
+acousticness:0.576
+instrumentalness:2.39e-06
+liveness:0.102
+valence:0.15
+tempo:67.007

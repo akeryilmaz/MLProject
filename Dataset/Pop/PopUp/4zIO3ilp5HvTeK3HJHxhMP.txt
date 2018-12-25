@@ -1,0 +1,12 @@
+name:Natural
+release_year:2018
+danceability:0.448
+energy:0.612
+loudness:-6.106
+mode:1
+speechiness:0.0708
+acousticness:0.216
+instrumentalness:0
+liveness:0.08
+valence:0.213
+tempo:97.773

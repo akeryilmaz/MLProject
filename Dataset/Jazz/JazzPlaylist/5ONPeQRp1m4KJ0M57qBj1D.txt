@@ -1,0 +1,12 @@
+name:She Was Too Good to Me
+release_year:1974
+danceability:0.262
+energy:0.0454
+loudness:-24.125
+mode:1
+speechiness:0.0332
+acousticness:0.941
+instrumentalness:0.718
+liveness:0.0918
+valence:0.0712
+tempo:133.183

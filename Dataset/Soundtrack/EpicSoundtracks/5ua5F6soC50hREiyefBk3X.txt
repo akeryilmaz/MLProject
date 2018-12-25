@@ -1,0 +1,12 @@
+name:Godspeed
+release_year:2002
+danceability:0.108
+energy:0.138
+loudness:-13.893
+mode:0
+speechiness:0.0379
+acousticness:0.957
+instrumentalness:0.532
+liveness:0.0856
+valence:0.105
+tempo:175.24

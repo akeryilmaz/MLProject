@@ -1,0 +1,12 @@
+name:Brave New World
+release_year:2018
+danceability:0.333
+energy:0.845
+loudness:-4.492
+mode:1
+speechiness:0.04
+acousticness:0.0831
+instrumentalness:0.0726
+liveness:0.13
+valence:0.584
+tempo:136.709

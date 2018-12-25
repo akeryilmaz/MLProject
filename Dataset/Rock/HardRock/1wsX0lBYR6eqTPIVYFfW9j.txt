@@ -1,0 +1,12 @@
+name:Breaking My Balls
+release_year:2018
+danceability:0.246
+energy:0.982
+loudness:-6.114
+mode:1
+speechiness:0.16
+acousticness:0.00521
+instrumentalness:0.000265
+liveness:0.698
+valence:0.144
+tempo:175.022

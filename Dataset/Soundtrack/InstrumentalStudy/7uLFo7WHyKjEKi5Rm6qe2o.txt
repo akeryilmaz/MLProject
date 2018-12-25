@@ -1,0 +1,12 @@
+name:The Garden's Light
+release_year:2018
+danceability:0.392
+energy:0.0347
+loudness:-28.703
+mode:1
+speechiness:0.0355
+acousticness:0.951
+instrumentalness:0.89
+liveness:0.113
+valence:0.0716
+tempo:66.769

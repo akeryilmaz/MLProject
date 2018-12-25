@@ -1,0 +1,12 @@
+name:Seasons
+release_year:2018
+danceability:0.623
+energy:0.0429
+loudness:-19.486
+mode:1
+speechiness:0.0632
+acousticness:0.958
+instrumentalness:0.929
+liveness:0.114
+valence:0.196
+tempo:90.008

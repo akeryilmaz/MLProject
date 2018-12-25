@@ -1,0 +1,12 @@
+name:Noticed
+release_year:2018
+danceability:0.699
+energy:0.558
+loudness:-7.622
+mode:1
+speechiness:0.0603
+acousticness:0.462
+instrumentalness:0
+liveness:0.116
+valence:0.493
+tempo:79.992

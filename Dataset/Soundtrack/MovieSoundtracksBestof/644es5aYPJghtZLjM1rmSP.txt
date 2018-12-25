@@ -1,0 +1,12 @@
+name:Concerning Hobbits
+release_year:2001
+danceability:0.488
+energy:0.0629
+loudness:-21.524
+mode:1
+speechiness:0.0342
+acousticness:0.843
+instrumentalness:0.406
+liveness:0.133
+valence:0.175
+tempo:104.311

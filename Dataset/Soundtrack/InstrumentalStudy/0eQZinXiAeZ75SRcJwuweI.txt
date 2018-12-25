@@ -1,0 +1,12 @@
+name:Montauk
+release_year:2018
+danceability:0.378
+energy:0.0369
+loudness:-25.859
+mode:0
+speechiness:0.0369
+acousticness:0.99
+instrumentalness:0.896
+liveness:0.101
+valence:0.12
+tempo:71.997

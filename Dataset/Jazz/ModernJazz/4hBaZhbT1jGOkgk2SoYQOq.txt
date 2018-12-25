@@ -1,0 +1,12 @@
+name:Berg
+release_year:2006
+danceability:0.688
+energy:0.309
+loudness:-11.368
+mode:1
+speechiness:0.0587
+acousticness:0.676
+instrumentalness:0.836
+liveness:0.0963
+valence:0.401
+tempo:122.402

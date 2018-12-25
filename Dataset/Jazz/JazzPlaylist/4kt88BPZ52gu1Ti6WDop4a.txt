@@ -1,0 +1,12 @@
+name:Sugar Foot Stomp
+release_year:2004
+danceability:0.807
+energy:0.206
+loudness:-10.916
+mode:1
+speechiness:0.0789
+acousticness:0.988
+instrumentalness:0.0734
+liveness:0.119
+valence:0.851
+tempo:102.301

@@ -1,0 +1,12 @@
+name:Back In Black
+release_year:1980
+danceability:0.31
+energy:0.7
+loudness:-5.678
+mode:1
+speechiness:0.047
+acousticness:0.011
+instrumentalness:0.00965
+liveness:0.0828
+valence:0.763
+tempo:188.386

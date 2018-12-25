@@ -1,0 +1,12 @@
+name:The Daybreak
+release_year:2018
+danceability:0.513
+energy:0.411
+loudness:-7.205
+mode:0
+speechiness:0.282
+acousticness:0.0768
+instrumentalness:0.884
+liveness:0.287
+valence:0.545
+tempo:84.712

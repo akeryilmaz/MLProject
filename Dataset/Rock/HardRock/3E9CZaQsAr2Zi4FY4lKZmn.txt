@@ -1,0 +1,12 @@
+name:The Call of the Wild (feat. Myles Kennedy and The Conspirators)
+release_year:2018
+danceability:0.531
+energy:0.985
+loudness:-3.179
+mode:0
+speechiness:0.298
+acousticness:0.000106
+instrumentalness:0.0148
+liveness:0.0935
+valence:0.476
+tempo:106.986

@@ -1,0 +1,12 @@
+name:New Low
+release_year:2010
+danceability:0.766
+energy:0.952
+loudness:-1.979
+mode:1
+speechiness:0.0692
+acousticness:0.314
+instrumentalness:1.67e-06
+liveness:0.139
+valence:0.911
+tempo:80.481

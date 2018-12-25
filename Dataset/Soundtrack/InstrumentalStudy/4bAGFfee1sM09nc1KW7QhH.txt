@@ -1,0 +1,12 @@
+name:Myriads
+release_year:2018
+danceability:0.408
+energy:0.0151
+loudness:-34.455
+mode:0
+speechiness:0.0419
+acousticness:0.992
+instrumentalness:0.869
+liveness:0.0989
+valence:0.179
+tempo:134.078

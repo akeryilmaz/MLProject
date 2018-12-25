@@ -1,0 +1,12 @@
+name:One Final Effort
+release_year:2007
+danceability:0.349
+energy:0.735
+loudness:-12.142
+mode:0
+speechiness:0.0517
+acousticness:0.245
+instrumentalness:0.664
+liveness:0.252
+valence:0.117
+tempo:187.452

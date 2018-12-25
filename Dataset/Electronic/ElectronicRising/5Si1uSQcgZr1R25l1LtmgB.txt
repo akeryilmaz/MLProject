@@ -1,0 +1,12 @@
+name:The Method
+release_year:2018
+danceability:0.77
+energy:0.938
+loudness:-6.431
+mode:1
+speechiness:0.0537
+acousticness:0.0003
+instrumentalness:0.911
+liveness:0.142
+valence:0.527
+tempo:133.01

@@ -1,0 +1,12 @@
+name:Money
+release_year:2018
+danceability:0.95
+energy:0.59
+loudness:-6.508
+mode:0
+speechiness:0.29
+acousticness:0.00534
+instrumentalness:0
+liveness:0.11
+valence:0.219
+tempo:130.003

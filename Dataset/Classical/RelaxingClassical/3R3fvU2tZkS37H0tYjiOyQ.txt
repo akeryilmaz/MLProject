@@ -1,0 +1,12 @@
+name:Rooftop Kiss (From "The Amazing Spider-Man")
+release_year:2018
+danceability:0.292
+energy:0.101
+loudness:-19.78
+mode:1
+speechiness:0.0376
+acousticness:0.966
+instrumentalness:0.896
+liveness:0.115
+valence:0.04
+tempo:84.421

@@ -1,0 +1,12 @@
+name:Twilight Of The Thunder God
+release_year:2008
+danceability:0.374
+energy:0.92
+loudness:-4.653
+mode:1
+speechiness:0.0501
+acousticness:1.62e-05
+instrumentalness:0.026
+liveness:0.0802
+valence:0.278
+tempo:191.014

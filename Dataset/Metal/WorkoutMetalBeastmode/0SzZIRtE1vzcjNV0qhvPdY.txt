@@ -1,0 +1,12 @@
+name:Say Goodbye
+release_year:2015
+danceability:0.399
+energy:0.979
+loudness:-2.336
+mode:0
+speechiness:0.0935
+acousticness:1.73e-05
+instrumentalness:0.442
+liveness:0.35
+valence:0.247
+tempo:92.447

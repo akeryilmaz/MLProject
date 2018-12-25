@@ -1,0 +1,12 @@
+name:Quale allegria
+release_year:2013
+danceability:0.375
+energy:0.341
+loudness:-18.802
+mode:1
+speechiness:0.034
+acousticness:0.72
+instrumentalness:0.801
+liveness:0.198
+valence:0.283
+tempo:140.188

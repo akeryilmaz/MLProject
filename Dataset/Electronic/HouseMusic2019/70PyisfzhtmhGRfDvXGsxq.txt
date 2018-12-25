@@ -1,0 +1,12 @@
+name:Down For Anything (feat. KARRA)
+release_year:2018
+danceability:0.759
+energy:0.911
+loudness:-3.161
+mode:0
+speechiness:0.0493
+acousticness:0.0542
+instrumentalness:0
+liveness:0.285
+valence:0.56
+tempo:119.959

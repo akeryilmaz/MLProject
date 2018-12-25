@@ -1,0 +1,12 @@
+name:Stefanie
+release_year:2010
+danceability:0.482
+energy:0.362
+loudness:-14.28
+mode:0
+speechiness:0.0305
+acousticness:0.888
+instrumentalness:0.905
+liveness:0.178
+valence:0.396
+tempo:92.302

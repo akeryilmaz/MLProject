@@ -1,0 +1,12 @@
+name:The Awakening
+release_year:1970
+danceability:0.535
+energy:0.205
+loudness:-17.222
+mode:1
+speechiness:0.0359
+acousticness:0.815
+instrumentalness:0.503
+liveness:0.121
+valence:0.122
+tempo:81.814

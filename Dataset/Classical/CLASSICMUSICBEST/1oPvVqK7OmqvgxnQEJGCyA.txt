@@ -1,0 +1,12 @@
+name:The Marriage of Figaro (Le nozze di Figaro), K. 492: Overture
+release_year:2009
+danceability:0.344
+energy:0.253
+loudness:-11.75
+mode:1
+speechiness:0.0347
+acousticness:0.949
+instrumentalness:0.93
+liveness:0.142
+valence:0.23
+tempo:142.007

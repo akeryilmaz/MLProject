@@ -1,0 +1,12 @@
+name:Up All Night
+release_year:2018
+danceability:0.678
+energy:0.916
+loudness:-3.344
+mode:0
+speechiness:0.12
+acousticness:0.017
+instrumentalness:0.000876
+liveness:0.277
+valence:0.412
+tempo:125.944

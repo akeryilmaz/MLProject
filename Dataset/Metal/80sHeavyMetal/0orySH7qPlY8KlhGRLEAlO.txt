@@ -1,0 +1,12 @@
+name:Gypsy Road
+release_year:1988
+danceability:0.531
+energy:0.883
+loudness:-9.065
+mode:1
+speechiness:0.0357
+acousticness:0.00922
+instrumentalness:0.000549
+liveness:0.336
+valence:0.567
+tempo:132.46

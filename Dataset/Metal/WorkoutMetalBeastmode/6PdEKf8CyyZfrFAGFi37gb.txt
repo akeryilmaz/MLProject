@@ -1,0 +1,12 @@
+name:One Finger and a Fist
+release_year:2013
+danceability:0.468
+energy:0.98
+loudness:-4.086
+mode:1
+speechiness:0.168
+acousticness:0.000101
+instrumentalness:1.58e-05
+liveness:0.305
+valence:0.341
+tempo:95.953

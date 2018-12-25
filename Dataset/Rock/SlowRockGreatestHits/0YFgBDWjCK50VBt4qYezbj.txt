@@ -1,0 +1,12 @@
+name:Imagine - Remastered 2010
+release_year:2010
+danceability:0.551
+energy:0.229
+loudness:-13.647
+mode:1
+speechiness:0.0255
+acousticness:0.891
+instrumentalness:0.141
+liveness:0.096
+valence:0.164
+tempo:75.789

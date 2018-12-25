@@ -1,0 +1,12 @@
+name:String Quartet No. 62 in C Major, Op. 76, No. 3, Hob.III:77, "Emperor": II. Poco adagio, cantabile
+release_year:1988
+danceability:0.159
+energy:0.0401
+loudness:-27.516
+mode:1
+speechiness:0.0446
+acousticness:0.984
+instrumentalness:0.76
+liveness:0.156
+valence:0.106
+tempo:106.239

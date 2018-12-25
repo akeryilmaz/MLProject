@@ -1,0 +1,12 @@
+name:Becoming one of "The People" Becoming one with Neytiri
+release_year:2009
+danceability:0.0993
+energy:0.0902
+loudness:-26.307
+mode:1
+speechiness:0.0428
+acousticness:0.692
+instrumentalness:0.85
+liveness:0.0745
+valence:0.0382
+tempo:71.062

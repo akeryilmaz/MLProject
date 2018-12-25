@@ -1,0 +1,12 @@
+name:Flying Theme (From "E.T. the Extra-Terrestrial")
+release_year:1970
+danceability:0.218
+energy:0.19
+loudness:-20.281
+mode:1
+speechiness:0.0355
+acousticness:0.772
+instrumentalness:0.749
+liveness:0.133
+valence:0.0695
+tempo:78.962

@@ -1,0 +1,12 @@
+name:Flute Quintet No. 1 in D Major, Op. 17, G. 419: I. Allegro assai
+release_year:1996
+danceability:0.287
+energy:0.046
+loudness:-22.118
+mode:1
+speechiness:0.0451
+acousticness:0.991
+instrumentalness:0.783
+liveness:0.097
+valence:0.343
+tempo:153.151

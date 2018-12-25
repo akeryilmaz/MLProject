@@ -1,0 +1,12 @@
+name:South Beach
+release_year:2018
+danceability:0.501
+energy:0.887
+loudness:-3.941
+mode:0
+speechiness:0.0424
+acousticness:0.0303
+instrumentalness:2.64e-05
+liveness:0.114
+valence:0.336
+tempo:123.052

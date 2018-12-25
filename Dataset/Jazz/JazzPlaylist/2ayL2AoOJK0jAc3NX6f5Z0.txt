@@ -1,0 +1,12 @@
+name:Minority - Master Take
+release_year:2016
+danceability:0.649
+energy:0.351
+loudness:-12.75
+mode:0
+speechiness:0.0441
+acousticness:0.792
+instrumentalness:0.54
+liveness:0.113
+valence:0.757
+tempo:101.317

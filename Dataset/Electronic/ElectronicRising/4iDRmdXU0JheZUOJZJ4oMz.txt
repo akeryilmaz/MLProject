@@ -1,0 +1,12 @@
+name:Abyss of Love - Franky Rizardo Remix
+release_year:2018
+danceability:0.814
+energy:0.483
+loudness:-9.033
+mode:0
+speechiness:0.104
+acousticness:0.00449
+instrumentalness:0.664
+liveness:0.0832
+valence:0.393
+tempo:124.005

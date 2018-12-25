@@ -1,0 +1,12 @@
+name:Rooster
+release_year:1990
+danceability:0.254
+energy:0.628
+loudness:-5.721
+mode:1
+speechiness:0.0274
+acousticness:0.153
+instrumentalness:0.00202
+liveness:0.123
+valence:0.148
+tempo:146.004

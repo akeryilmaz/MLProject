@@ -1,0 +1,12 @@
+name:Liebestraum No.3 in A flat, S.541 No.3
+release_year:1998
+danceability:0.224
+energy:0.0788
+loudness:-23.295
+mode:1
+speechiness:0.0404
+acousticness:0.991
+instrumentalness:0.837
+liveness:0.103
+valence:0.035
+tempo:80.598

@@ -1,0 +1,12 @@
+name:A Brand New War
+release_year:2018
+danceability:0.44
+energy:0.961
+loudness:-3.093
+mode:1
+speechiness:0.0584
+acousticness:2.51e-06
+instrumentalness:0.0211
+liveness:0.0937
+valence:0.28
+tempo:97.038

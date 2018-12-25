@@ -1,0 +1,12 @@
+name:Culo
+release_year:2018
+danceability:0.689
+energy:0.854
+loudness:-3.602
+mode:1
+speechiness:0.111
+acousticness:0.119
+instrumentalness:0.00408
+liveness:0.322
+valence:0.796
+tempo:174.054

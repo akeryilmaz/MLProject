@@ -1,0 +1,12 @@
+name:Cum 2Geza - Original Mix
+release_year:2018
+danceability:0.813
+energy:0.718
+loudness:-7.452
+mode:0
+speechiness:0.0502
+acousticness:0.00171
+instrumentalness:0.549
+liveness:0.131
+valence:0.0611
+tempo:126.001

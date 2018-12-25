@@ -1,0 +1,12 @@
+name:Austere
+release_year:2011
+danceability:0.463
+energy:0.879
+loudness:-4.609
+mode:1
+speechiness:0.0446
+acousticness:0.00273
+instrumentalness:0.705
+liveness:0.311
+valence:0.313
+tempo:144.957

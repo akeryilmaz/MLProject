@@ -1,0 +1,12 @@
+name:Welcome to Paradise
+release_year:1994
+danceability:0.37
+energy:0.96
+loudness:-4.162
+mode:0
+speechiness:0.0378
+acousticness:0.000241
+instrumentalness:0.0116
+liveness:0.0563
+valence:0.717
+tempo:89.428

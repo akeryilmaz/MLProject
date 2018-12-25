@@ -1,0 +1,12 @@
+name:Mood Porn
+release_year:2018
+danceability:0.532
+energy:0.226
+loudness:-14.848
+mode:1
+speechiness:0.101
+acousticness:0.951
+instrumentalness:0.932
+liveness:0.102
+valence:0.893
+tempo:83.195

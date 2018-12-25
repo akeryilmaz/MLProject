@@ -1,0 +1,12 @@
+name:KIRIN
+release_year:2018
+danceability:0.751
+energy:0.601
+loudness:-10.448
+mode:1
+speechiness:0.0679
+acousticness:0.337
+instrumentalness:0.859
+liveness:0.096
+valence:0.477
+tempo:119.992

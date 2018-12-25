@@ -1,0 +1,12 @@
+name:Unbreakable
+release_year:2018
+danceability:0.457
+energy:0.948
+loudness:-4.318
+mode:1
+speechiness:0.0555
+acousticness:2.18e-05
+instrumentalness:0.00225
+liveness:0.152
+valence:0.157
+tempo:139.022

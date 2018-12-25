@@ -1,0 +1,12 @@
+name:Your Shirt Would Look Better with a Columbian Neck-Tie
+release_year:2015
+danceability:0.437
+energy:0.914
+loudness:-2.312
+mode:0
+speechiness:0.0734
+acousticness:2.24e-05
+instrumentalness:0.409
+liveness:0.182
+valence:0.345
+tempo:92.499

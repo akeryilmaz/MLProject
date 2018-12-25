@@ -1,0 +1,12 @@
+name:Cold Like War
+release_year:2017
+danceability:0.456
+energy:0.968
+loudness:-3.63
+mode:0
+speechiness:0.0902
+acousticness:0.000148
+instrumentalness:0.00111
+liveness:0.184
+valence:0.499
+tempo:150.002

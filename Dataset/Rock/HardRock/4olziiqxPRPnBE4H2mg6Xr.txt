@@ -1,0 +1,12 @@
+name:Resurrected
+release_year:2018
+danceability:0.357
+energy:0.968
+loudness:-4.729
+mode:1
+speechiness:0.0659
+acousticness:4.85e-06
+instrumentalness:4.47e-05
+liveness:0.19
+valence:0.253
+tempo:153.04

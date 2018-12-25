@@ -1,0 +1,12 @@
+name:Love's A Deadly Weapon
+release_year:1985
+danceability:0.463
+energy:0.943
+loudness:-6.991
+mode:1
+speechiness:0.0975
+acousticness:0.0002
+instrumentalness:0.00681
+liveness:0.481
+valence:0.11
+tempo:132.957

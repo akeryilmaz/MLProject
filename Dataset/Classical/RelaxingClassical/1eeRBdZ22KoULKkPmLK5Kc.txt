@@ -1,0 +1,12 @@
+name:Adagio in G Minor
+release_year:2007
+danceability:0.179
+energy:0.158
+loudness:-17.727
+mode:0
+speechiness:0.0426
+acousticness:0.725
+instrumentalness:0.828
+liveness:0.13
+valence:0.0375
+tempo:72.207

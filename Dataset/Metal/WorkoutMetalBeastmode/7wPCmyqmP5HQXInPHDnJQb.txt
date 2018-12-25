@@ -1,0 +1,12 @@
+name:Giles
+release_year:2006
+danceability:0.344
+energy:0.987
+loudness:-3.672
+mode:1
+speechiness:0.193
+acousticness:0.000172
+instrumentalness:0.0498
+liveness:0.316
+valence:0.197
+tempo:122.771

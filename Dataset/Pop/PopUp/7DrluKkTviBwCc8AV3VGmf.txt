@@ -1,0 +1,12 @@
+name:Clandestino
+release_year:2018
+danceability:0.766
+energy:0.822
+loudness:-4.126
+mode:0
+speechiness:0.16
+acousticness:0.39
+instrumentalness:3.37e-05
+liveness:0.349
+valence:0.881
+tempo:165.842

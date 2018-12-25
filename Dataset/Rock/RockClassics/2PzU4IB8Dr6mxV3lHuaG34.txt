@@ -1,0 +1,12 @@
+name:(I Can't Get No) Satisfaction - Mono Version
+release_year:1965
+danceability:0.725
+energy:0.853
+loudness:-7.842
+mode:1
+speechiness:0.0353
+acousticness:0.0348
+instrumentalness:0.127
+liveness:0.196
+valence:0.904
+tempo:136.282

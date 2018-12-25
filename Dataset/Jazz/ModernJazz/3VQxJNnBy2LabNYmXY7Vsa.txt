@@ -1,0 +1,12 @@
+name:Obama Song
+release_year:2011
+danceability:0.55
+energy:0.358
+loudness:-14.549
+mode:1
+speechiness:0.042
+acousticness:0.581
+instrumentalness:0.859
+liveness:0.0687
+valence:0.277
+tempo:96.387

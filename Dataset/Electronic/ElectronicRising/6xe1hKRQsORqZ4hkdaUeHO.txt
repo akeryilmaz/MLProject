@@ -1,0 +1,12 @@
+name:Sana
+release_year:2018
+danceability:0.805
+energy:0.604
+loudness:-11.119
+mode:0
+speechiness:0.0909
+acousticness:0.000601
+instrumentalness:0.899
+liveness:0.0549
+valence:0.352
+tempo:122.016

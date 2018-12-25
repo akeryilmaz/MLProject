@@ -1,0 +1,12 @@
+name:Bad Medicine
+release_year:1988
+danceability:0.531
+energy:0.984
+loudness:-2.146
+mode:1
+speechiness:0.0364
+acousticness:0.0195
+instrumentalness:0
+liveness:0.0786
+valence:0.823
+tempo:118.696

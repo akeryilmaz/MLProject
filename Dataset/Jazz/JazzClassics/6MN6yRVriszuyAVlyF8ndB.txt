@@ -1,0 +1,12 @@
+name:Coffee Cold
+release_year:2000
+danceability:0.676
+energy:0.44
+loudness:-11.96
+mode:1
+speechiness:0.0291
+acousticness:0.36
+instrumentalness:6.88e-05
+liveness:0.162
+valence:0.499
+tempo:80.434

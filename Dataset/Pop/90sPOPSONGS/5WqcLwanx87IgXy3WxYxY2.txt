@@ -1,0 +1,12 @@
+name:The Rose
+release_year:2006
+danceability:0.272
+energy:0.203
+loudness:-9.706
+mode:1
+speechiness:0.0294
+acousticness:0.784
+instrumentalness:0
+liveness:0.0805
+valence:0.172
+tempo:109.581

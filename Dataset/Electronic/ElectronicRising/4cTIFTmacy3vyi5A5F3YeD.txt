@@ -1,0 +1,12 @@
+name:Along Came Polly - Original Mix
+release_year:2018
+danceability:0.825
+energy:0.595
+loudness:-9.393
+mode:1
+speechiness:0.0669
+acousticness:0.00107
+instrumentalness:0.94
+liveness:0.0578
+valence:0.0781
+tempo:124.003

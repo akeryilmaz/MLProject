@@ -1,0 +1,12 @@
+name:My Curse
+release_year:2006
+danceability:0.197
+energy:0.956
+loudness:-2.908
+mode:0
+speechiness:0.0663
+acousticness:7.61e-05
+instrumentalness:0.00992
+liveness:0.261
+valence:0.209
+tempo:177.018

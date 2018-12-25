@@ -1,0 +1,12 @@
+name:New Kid in Town - Eagles 2013 Remaster
+release_year:1976
+danceability:0.649
+energy:0.425
+loudness:-9.811
+mode:1
+speechiness:0.0267
+acousticness:0.378
+instrumentalness:0.0013
+liveness:0.108
+valence:0.651
+tempo:107.383

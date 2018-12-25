@@ -1,0 +1,12 @@
+name:The Nutcracker - Waltz Of The Flowers
+release_year:2009
+danceability:0.238
+energy:0.227
+loudness:-15.534
+mode:1
+speechiness:0.036
+acousticness:0.714
+instrumentalness:0.832
+liveness:0.0837
+valence:0.29
+tempo:129.392

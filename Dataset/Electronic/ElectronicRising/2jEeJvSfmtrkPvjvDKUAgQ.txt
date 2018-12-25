@@ -1,0 +1,12 @@
+name:Mirow
+release_year:2018
+danceability:0.745
+energy:0.72
+loudness:-8.941
+mode:0
+speechiness:0.0475
+acousticness:0.289
+instrumentalness:0.767
+liveness:0.0862
+valence:0.299
+tempo:108.003

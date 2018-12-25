@@ -1,0 +1,12 @@
+name:Are You Dead Yet
+release_year:2005
+danceability:0.461
+energy:0.961
+loudness:-3.011
+mode:1
+speechiness:0.0479
+acousticness:6.39e-06
+instrumentalness:0.14
+liveness:0.308
+valence:0.416
+tempo:96.009

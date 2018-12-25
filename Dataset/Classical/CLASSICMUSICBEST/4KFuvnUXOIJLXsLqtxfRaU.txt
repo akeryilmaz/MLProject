@@ -1,0 +1,12 @@
+name:Strauss: Also Sprach Zarathustra
+release_year:2009
+danceability:0.108
+energy:0.199
+loudness:-16.802
+mode:1
+speechiness:0.0352
+acousticness:0.159
+instrumentalness:0.734
+liveness:0.114
+valence:0.1
+tempo:76.511

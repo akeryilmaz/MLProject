@@ -1,0 +1,12 @@
+name:Sweet Child O' Mine
+release_year:1987
+danceability:0.454
+energy:0.91
+loudness:-7.766
+mode:1
+speechiness:0.0446
+acousticness:0.0852
+instrumentalness:0.0988
+liveness:0.116
+valence:0.63
+tempo:125.116

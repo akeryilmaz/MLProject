@@ -1,0 +1,12 @@
+name:The Fields of the Pelenor
+release_year:2003
+danceability:0.0875
+energy:0.401
+loudness:-15.308
+mode:1
+speechiness:0.0416
+acousticness:0.335
+instrumentalness:0.839
+liveness:0.089
+valence:0.0384
+tempo:167.103

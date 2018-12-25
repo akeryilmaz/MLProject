@@ -1,0 +1,12 @@
+name:Controlla
+release_year:2018
+danceability:0.863
+energy:0.63
+loudness:-6.901
+mode:1
+speechiness:0.145
+acousticness:0.0584
+instrumentalness:5.97e-05
+liveness:0.255
+valence:0.778
+tempo:130.022

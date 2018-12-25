@@ -1,0 +1,12 @@
+name:Generations To Come
+release_year:2018
+danceability:0.269
+energy:0.0685
+loudness:-19.149
+mode:1
+speechiness:0.049
+acousticness:0.97
+instrumentalness:0.938
+liveness:0.107
+valence:0.0636
+tempo:210.12

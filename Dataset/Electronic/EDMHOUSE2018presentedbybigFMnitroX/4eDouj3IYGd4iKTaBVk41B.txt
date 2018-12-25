@@ -1,0 +1,12 @@
+name:Dance (feat. Gina Livia)
+release_year:2018
+danceability:0.64
+energy:0.717
+loudness:-5.759
+mode:0
+speechiness:0.066
+acousticness:0.197
+instrumentalness:7.89e-06
+liveness:0.106
+valence:0.389
+tempo:118.014

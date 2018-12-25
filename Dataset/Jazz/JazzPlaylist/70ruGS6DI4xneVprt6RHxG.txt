@@ -1,0 +1,12 @@
+name:Until the Real Thing Comes Along
+release_year:2014
+danceability:0.602
+energy:0.295
+loudness:-9.069
+mode:1
+speechiness:0.0695
+acousticness:0.99
+instrumentalness:0.335
+liveness:0.134
+valence:0.548
+tempo:99.322

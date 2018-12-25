@@ -1,0 +1,12 @@
+name:Don't Come Out The House (with 21 Savage)
+release_year:2018
+danceability:0.87
+energy:0.35
+loudness:-6.082
+mode:1
+speechiness:0.277
+acousticness:0.00661
+instrumentalness:0.000483
+liveness:0.108
+valence:0.175
+tempo:74.963

@@ -1,0 +1,12 @@
+name:Cushty
+release_year:2018
+danceability:0.756
+energy:0.235
+loudness:-11.746
+mode:1
+speechiness:0.27
+acousticness:0.164
+instrumentalness:0.749
+liveness:0.128
+valence:0.28
+tempo:83.969

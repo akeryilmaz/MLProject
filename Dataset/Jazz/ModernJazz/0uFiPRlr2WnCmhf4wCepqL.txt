@@ -1,0 +1,12 @@
+name:Moon Alley
+release_year:2011
+danceability:0.425
+energy:0.549
+loudness:-10.372
+mode:0
+speechiness:0.0318
+acousticness:0.391
+instrumentalness:0.758
+liveness:0.105
+valence:0.373
+tempo:134.019

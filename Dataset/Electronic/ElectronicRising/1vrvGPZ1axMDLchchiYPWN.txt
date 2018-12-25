@@ -1,0 +1,12 @@
+name:Red Source
+release_year:2018
+danceability:0.799
+energy:0.701
+loudness:-7.424
+mode:1
+speechiness:0.137
+acousticness:0.0014
+instrumentalness:0.88
+liveness:0.0998
+valence:0.0381
+tempo:130.009

@@ -1,0 +1,12 @@
+name:Vier letzte Lieder: 2. September
+release_year:1983
+danceability:0.134
+energy:0.0861
+loudness:-22.517
+mode:1
+speechiness:0.0441
+acousticness:0.988
+instrumentalness:0.204
+liveness:0.0761
+valence:0.0355
+tempo:153.035

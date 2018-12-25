@@ -1,0 +1,12 @@
+name:Sweet Home Alabama
+release_year:1974
+danceability:0.597
+energy:0.605
+loudness:-12.013
+mode:1
+speechiness:0.0255
+acousticness:0.181
+instrumentalness:0.000331
+liveness:0.118
+valence:0.886
+tempo:97.782

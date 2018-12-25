@@ -1,0 +1,12 @@
+name:Walk On the Wild Side
+release_year:1972
+danceability:0.575
+energy:0.318
+loudness:-16.729
+mode:1
+speechiness:0.109
+acousticness:0.683
+instrumentalness:0.000202
+liveness:0.0934
+valence:0.385
+tempo:104.522

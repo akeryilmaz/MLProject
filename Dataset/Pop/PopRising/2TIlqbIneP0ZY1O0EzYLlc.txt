@@ -1,0 +1,12 @@
+name:Someone You Loved
+release_year:2018
+danceability:0.501
+energy:0.405
+loudness:-5.679
+mode:1
+speechiness:0.0319
+acousticness:0.751
+instrumentalness:0
+liveness:0.105
+valence:0.446
+tempo:109.891

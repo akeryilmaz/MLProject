@@ -1,0 +1,12 @@
+name:Child Of The Universe
+release_year:2018
+danceability:0.661
+energy:0.633
+loudness:-12.256
+mode:1
+speechiness:0.0422
+acousticness:0.0513
+instrumentalness:0.916
+liveness:0.0957
+valence:0.142
+tempo:123.012

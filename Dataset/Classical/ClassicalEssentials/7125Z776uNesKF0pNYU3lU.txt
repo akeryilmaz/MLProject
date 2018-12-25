@@ -1,0 +1,12 @@
+name:Symphony No. 1 in D major, Wq. 183/1: Symphony No. 1 in D major, Wq. 183/1: I. Allegro di molto
+release_year:2006
+danceability:0.292
+energy:0.164
+loudness:-17.792
+mode:1
+speechiness:0.0342
+acousticness:0.912
+instrumentalness:0.0296
+liveness:0.177
+valence:0.284
+tempo:149.46

@@ -1,0 +1,12 @@
+name:Love Is the Way - Duke & Jones Remix
+release_year:2016
+danceability:0.716
+energy:0.839
+loudness:-4.316
+mode:0
+speechiness:0.0395
+acousticness:0.348
+instrumentalness:0.00401
+liveness:0.337
+valence:0.558
+tempo:140.038

@@ -1,0 +1,12 @@
+name:Innocent (feat. Gavin James)
+release_year:2018
+danceability:0.629
+energy:0.666
+loudness:-4.173
+mode:0
+speechiness:0.0558
+acousticness:0.117
+instrumentalness:0
+liveness:0.317
+valence:0.158
+tempo:124.08

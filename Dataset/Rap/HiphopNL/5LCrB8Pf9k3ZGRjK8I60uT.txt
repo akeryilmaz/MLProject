@@ -1,0 +1,12 @@
+name:Zeg Het Nooit
+release_year:2018
+danceability:0.653
+energy:0.653
+loudness:-7.739
+mode:0
+speechiness:0.394
+acousticness:0.349
+instrumentalness:0
+liveness:0.498
+valence:0.313
+tempo:176.363

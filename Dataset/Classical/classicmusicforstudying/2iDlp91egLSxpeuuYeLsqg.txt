@@ -1,0 +1,12 @@
+name:String Quintet in E Major, Op. 13: Minuet
+release_year:2012
+danceability:0.581
+energy:0.0621
+loudness:-21.149
+mode:1
+speechiness:0.0312
+acousticness:0.959
+instrumentalness:0.29
+liveness:0.318
+valence:0.543
+tempo:88.869

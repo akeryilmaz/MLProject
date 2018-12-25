@@ -1,0 +1,12 @@
+name:Punching In A Dream
+release_year:2010
+danceability:0.476
+energy:0.886
+loudness:-3.731
+mode:1
+speechiness:0.0472
+acousticness:0.00256
+instrumentalness:0.000374
+liveness:0.15
+valence:0.19
+tempo:115.058

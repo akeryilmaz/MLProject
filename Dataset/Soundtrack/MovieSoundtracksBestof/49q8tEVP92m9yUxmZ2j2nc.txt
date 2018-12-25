@@ -1,0 +1,12 @@
+name:Mission Impossible
+release_year:2013
+danceability:0.565
+energy:0.613
+loudness:-7.967
+mode:0
+speechiness:0.0496
+acousticness:0.186
+instrumentalness:0.823
+liveness:0.0693
+valence:0.385
+tempo:99.887

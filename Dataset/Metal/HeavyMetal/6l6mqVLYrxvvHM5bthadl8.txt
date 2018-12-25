@@ -1,0 +1,12 @@
+name:Brothers of the North
+release_year:2018
+danceability:0.355
+energy:0.921
+loudness:-4.24
+mode:1
+speechiness:0.063
+acousticness:8.2e-06
+instrumentalness:0.00037
+liveness:0.486
+valence:0.087
+tempo:169.934

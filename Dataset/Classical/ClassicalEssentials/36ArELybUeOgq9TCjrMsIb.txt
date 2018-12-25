@@ -1,0 +1,12 @@
+name:Symphony No. 4 in E-Flat Major, WAB 104, "Romantic": I. Bewegt, nicht zu schnell - Live
+release_year:1998
+danceability:0.0704
+energy:0.0657
+loudness:-19.466
+mode:1
+speechiness:0.0387
+acousticness:0.948
+instrumentalness:0.874
+liveness:0.108
+valence:0.0361
+tempo:61.017

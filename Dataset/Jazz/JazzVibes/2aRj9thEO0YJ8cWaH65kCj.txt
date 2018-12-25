@@ -1,0 +1,12 @@
+name:Swimming In Tears Of Joy
+release_year:2018
+danceability:0.609
+energy:0.213
+loudness:-14.013
+mode:1
+speechiness:0.0597
+acousticness:0.965
+instrumentalness:0.925
+liveness:0.111
+valence:0.761
+tempo:88.025

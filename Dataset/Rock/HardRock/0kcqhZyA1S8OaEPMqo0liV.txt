@@ -1,0 +1,12 @@
+name:Ride to Nowhere
+release_year:2018
+danceability:0.269
+energy:0.815
+loudness:-7.581
+mode:1
+speechiness:0.0669
+acousticness:0.0224
+instrumentalness:0.00211
+liveness:0.111
+valence:0.41
+tempo:175.401

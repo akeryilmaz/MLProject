@@ -1,0 +1,12 @@
+name:Midnight Special - Rudy Van Gelder Digital Remaster/2007
+release_year:1961
+danceability:0.704
+energy:0.277
+loudness:-11.675
+mode:1
+speechiness:0.035
+acousticness:0.814
+instrumentalness:0.756
+liveness:0.0845
+valence:0.322
+tempo:90.38

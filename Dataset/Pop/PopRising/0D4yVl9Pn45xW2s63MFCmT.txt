@@ -1,0 +1,12 @@
+name:It's Not Living (If It's Not With You)
+release_year:2018
+danceability:0.618
+energy:0.837
+loudness:-5.338
+mode:1
+speechiness:0.0304
+acousticness:0.000254
+instrumentalness:0.000378
+liveness:0.0618
+valence:0.526
+tempo:121.227

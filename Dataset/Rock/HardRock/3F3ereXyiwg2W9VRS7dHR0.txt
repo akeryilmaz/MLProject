@@ -1,0 +1,12 @@
+name:Cut It Loose
+release_year:2018
+danceability:0.357
+energy:0.904
+loudness:-7.505
+mode:0
+speechiness:0.064
+acousticness:2.26e-06
+instrumentalness:0.426
+liveness:0.0919
+valence:0.423
+tempo:160.037

@@ -1,0 +1,12 @@
+name:Collision
+release_year:2003
+danceability:0.389
+energy:0.998
+loudness:-3.795
+mode:1
+speechiness:0.102
+acousticness:9.61e-05
+instrumentalness:0.00083
+liveness:0.163
+valence:0.567
+tempo:180.07

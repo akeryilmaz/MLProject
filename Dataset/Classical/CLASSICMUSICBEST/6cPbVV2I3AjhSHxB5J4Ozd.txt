@@ -1,0 +1,12 @@
+name:The Four Seasons - Summer (Violin Concerto in G Minor), RV 315: III. Presto
+release_year:2009
+danceability:0.328
+energy:0.5
+loudness:-11.451
+mode:0
+speechiness:0.0354
+acousticness:0.907
+instrumentalness:0.899
+liveness:0.261
+valence:0.355
+tempo:78.826

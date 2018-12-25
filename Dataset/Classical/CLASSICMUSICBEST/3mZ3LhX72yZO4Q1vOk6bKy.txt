@@ -1,0 +1,12 @@
+name:The Four Seasons - Winter (Violin Concerto in F Minor) RV 297: I. Allegro non molto
+release_year:2009
+danceability:0.48
+energy:0.343
+loudness:-13.815
+mode:0
+speechiness:0.0415
+acousticness:0.927
+instrumentalness:0.886
+liveness:0.0756
+valence:0.203
+tempo:143.059

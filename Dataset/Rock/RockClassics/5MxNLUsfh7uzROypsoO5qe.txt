@@ -1,0 +1,12 @@
+name:Dream On
+release_year:1973
+danceability:0.307
+energy:0.433
+loudness:-10.057
+mode:1
+speechiness:0.029
+acousticness:0.388
+instrumentalness:9.08e-05
+liveness:0.332
+valence:0.224
+tempo:160.9

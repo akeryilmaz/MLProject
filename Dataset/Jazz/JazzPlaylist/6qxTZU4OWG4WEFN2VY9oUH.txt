@@ -1,0 +1,12 @@
+name:Sugar
+release_year:1994
+danceability:0.593
+energy:0.468
+loudness:-13.08
+mode:0
+speechiness:0.0395
+acousticness:0.414
+instrumentalness:0.0122
+liveness:0.283
+valence:0.563
+tempo:125.357

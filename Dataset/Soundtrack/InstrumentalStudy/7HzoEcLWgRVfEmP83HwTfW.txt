@@ -1,0 +1,12 @@
+name:Home
+release_year:2018
+danceability:0.425
+energy:0.0652
+loudness:-22.495
+mode:1
+speechiness:0.0721
+acousticness:0.991
+instrumentalness:0.917
+liveness:0.122
+valence:0.115
+tempo:112.438

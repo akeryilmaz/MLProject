@@ -1,0 +1,12 @@
+name:Everytime
+release_year:1999
+danceability:0.566
+energy:0.599
+loudness:-8.668
+mode:1
+speechiness:0.0297
+acousticness:0.116
+instrumentalness:0
+liveness:0.282
+valence:0.34
+tempo:134.049

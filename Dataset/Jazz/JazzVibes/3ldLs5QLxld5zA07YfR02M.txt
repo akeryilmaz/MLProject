@@ -1,0 +1,12 @@
+name:ASTRO JAZZ
+release_year:2018
+danceability:0.662
+energy:0.296
+loudness:-12.85
+mode:0
+speechiness:0.218
+acousticness:0.828
+instrumentalness:0.00191
+liveness:0.0932
+valence:0.399
+tempo:86.057

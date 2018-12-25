@@ -1,0 +1,12 @@
+name:All of Me (with Eddie Heywood & His Orchestra)
+release_year:1933
+danceability:0.504
+energy:0.0644
+loudness:-14.754
+mode:0
+speechiness:0.0408
+acousticness:0.972
+instrumentalness:4.36e-06
+liveness:0.174
+valence:0.403
+tempo:106.994

@@ -1,0 +1,12 @@
+name:Going to Rome
+release_year:2011
+danceability:0.171
+energy:0.057
+loudness:-28.032
+mode:0
+speechiness:0.04
+acousticness:0.907
+instrumentalness:0.909
+liveness:0.0893
+valence:0.0268
+tempo:156.901

@@ -1,0 +1,12 @@
+name:Every Day I Love You
+release_year:2008
+danceability:0.539
+energy:0.386
+loudness:-7.781
+mode:1
+speechiness:0.0243
+acousticness:0.252
+instrumentalness:1.23e-06
+liveness:0.181
+valence:0.364
+tempo:81.968

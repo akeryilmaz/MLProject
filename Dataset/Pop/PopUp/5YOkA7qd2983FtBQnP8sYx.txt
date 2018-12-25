@@ -1,0 +1,12 @@
+name:Solo de Mi
+release_year:2018
+danceability:0.743
+energy:0.73
+loudness:-4.314
+mode:0
+speechiness:0.125
+acousticness:0.287
+instrumentalness:8.1e-05
+liveness:0.0778
+valence:0.15
+tempo:179.972

@@ -1,0 +1,12 @@
+name:One Above All
+release_year:2017
+danceability:0.473
+energy:0.829
+loudness:-6.5
+mode:0
+speechiness:0.0519
+acousticness:0.0114
+instrumentalness:0.0666
+liveness:0.196
+valence:0.301
+tempo:122.957

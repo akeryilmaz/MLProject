@@ -1,0 +1,12 @@
+name:Miracle Drug
+release_year:2018
+danceability:0.332
+energy:0.995
+loudness:-2.441
+mode:1
+speechiness:0.133
+acousticness:0.000491
+instrumentalness:0.0046
+liveness:0.286
+valence:0.527
+tempo:173.037

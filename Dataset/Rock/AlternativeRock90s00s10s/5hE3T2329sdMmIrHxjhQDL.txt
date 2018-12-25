@@ -1,0 +1,12 @@
+name:Selling The Drama
+release_year:1994
+danceability:0.45
+energy:0.914
+loudness:-6.741
+mode:1
+speechiness:0.0647
+acousticness:0.0106
+instrumentalness:8.18e-05
+liveness:0.101
+valence:0.336
+tempo:124.42

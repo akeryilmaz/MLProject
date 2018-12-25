@@ -1,0 +1,12 @@
+name:Pavane, Op. 50 (Arr. for Saxophone and Orchestra)
+release_year:2013
+danceability:0.174
+energy:0.122
+loudness:-16.03
+mode:0
+speechiness:0.0401
+acousticness:0.97
+instrumentalness:0.895
+liveness:0.102
+valence:0.0398
+tempo:117.352

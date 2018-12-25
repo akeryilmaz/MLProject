@@ -1,0 +1,12 @@
+name:Dragon de Lune
+release_year:2007
+danceability:0.63
+energy:0.698
+loudness:-7.168
+mode:0
+speechiness:0.0393
+acousticness:0.572
+instrumentalness:0.879
+liveness:0.733
+valence:0.246
+tempo:89.961

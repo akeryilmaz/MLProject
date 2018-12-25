@@ -1,0 +1,12 @@
+name:Hug the Greyhound
+release_year:2013
+danceability:0.478
+energy:0.739
+loudness:-10.498
+mode:1
+speechiness:0.0368
+acousticness:0.128
+instrumentalness:0.952
+liveness:0.737
+valence:0.596
+tempo:91.644

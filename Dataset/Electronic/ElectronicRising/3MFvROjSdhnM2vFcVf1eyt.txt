@@ -1,0 +1,12 @@
+name:My Friend - The Reason Y Remix
+release_year:2018
+danceability:0.737
+energy:0.934
+loudness:-6.218
+mode:0
+speechiness:0.101
+acousticness:0.00289
+instrumentalness:0.908
+liveness:0.253
+valence:0.152
+tempo:129.01

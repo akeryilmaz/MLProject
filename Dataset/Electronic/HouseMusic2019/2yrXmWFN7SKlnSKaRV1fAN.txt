@@ -1,0 +1,12 @@
+name:Good As Gold (feat. Hayley May)
+release_year:2018
+danceability:0.793
+energy:0.775
+loudness:-5.0
+mode:0
+speechiness:0.052
+acousticness:0.0272
+instrumentalness:6.09e-05
+liveness:0.209
+valence:0.623
+tempo:121.962

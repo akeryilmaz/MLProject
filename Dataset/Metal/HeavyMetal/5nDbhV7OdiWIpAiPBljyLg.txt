@@ -1,0 +1,12 @@
+name:Damned If You Do
+release_year:2018
+danceability:0.471
+energy:0.992
+loudness:-2.987
+mode:1
+speechiness:0.14
+acousticness:3.02e-06
+instrumentalness:0.000497
+liveness:0.104
+valence:0.113
+tempo:90.0

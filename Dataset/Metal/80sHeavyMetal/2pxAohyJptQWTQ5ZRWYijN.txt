@@ -1,0 +1,12 @@
+name:The Trooper - 1998 Remastered Version
+release_year:1983
+danceability:0.286
+energy:0.856
+loudness:-6.777
+mode:0
+speechiness:0.0585
+acousticness:0.0238
+instrumentalness:0.0542
+liveness:0.487
+valence:0.696
+tempo:162.12

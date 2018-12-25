@@ -1,0 +1,12 @@
+name:Questar
+release_year:1978
+danceability:0.468
+energy:0.391
+loudness:-13.196
+mode:0
+speechiness:0.0269
+acousticness:0.658
+instrumentalness:0.0617
+liveness:0.111
+valence:0.342
+tempo:142.413

@@ -1,0 +1,12 @@
+name:Havana
+release_year:2018
+danceability:0.46
+energy:0.97
+loudness:-4.491
+mode:1
+speechiness:0.0805
+acousticness:0.000222
+instrumentalness:0.00348
+liveness:0.169
+valence:0.374
+tempo:128.059

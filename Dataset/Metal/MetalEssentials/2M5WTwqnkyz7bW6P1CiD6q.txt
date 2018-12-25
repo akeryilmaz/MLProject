@@ -1,0 +1,12 @@
+name:I'm Broken
+release_year:1994
+danceability:0.419
+energy:0.878
+loudness:-6.352
+mode:1
+speechiness:0.0553
+acousticness:0.000594
+instrumentalness:0.559
+liveness:0.139
+valence:0.666
+tempo:147.385

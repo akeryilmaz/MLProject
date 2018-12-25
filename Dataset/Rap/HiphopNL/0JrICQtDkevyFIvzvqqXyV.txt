@@ -1,0 +1,12 @@
+name:Ik Leef
+release_year:2018
+danceability:0.779
+energy:0.71
+loudness:-8.09
+mode:0
+speechiness:0.0823
+acousticness:0.0608
+instrumentalness:2.52e-05
+liveness:0.13
+valence:0.587
+tempo:138.038

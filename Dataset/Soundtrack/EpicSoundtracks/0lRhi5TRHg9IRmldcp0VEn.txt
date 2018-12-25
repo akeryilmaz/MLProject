@@ -1,0 +1,12 @@
+name:The Protagonist
+release_year:2011
+danceability:0.549
+energy:0.51
+loudness:-11.85
+mode:0
+speechiness:0.0326
+acousticness:0.294
+instrumentalness:0.837
+liveness:0.111
+valence:0.0623
+tempo:117.973

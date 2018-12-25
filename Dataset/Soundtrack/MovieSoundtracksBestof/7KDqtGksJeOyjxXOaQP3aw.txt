@@ -1,0 +1,12 @@
+name:Arrival at Aslan's How
+release_year:2008
+danceability:0.0899
+energy:0.162
+loudness:-17.184
+mode:1
+speechiness:0.0427
+acousticness:0.936
+instrumentalness:0.986
+liveness:0.0689
+valence:0.0308
+tempo:74.038

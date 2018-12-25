@@ -1,0 +1,12 @@
+name:Waste It On Me (feat. BTS)
+release_year:2018
+danceability:0.669
+energy:0.684
+loudness:-4.595
+mode:1
+speechiness:0.0585
+acousticness:0.252
+instrumentalness:0
+liveness:0.72
+valence:0.466
+tempo:96.097

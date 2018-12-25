@@ -1,0 +1,12 @@
+name:Toxicity
+release_year:2001
+danceability:0.407
+energy:0.876
+loudness:-4.145
+mode:1
+speechiness:0.0529
+acousticness:0.000254
+instrumentalness:0.00265
+liveness:0.215
+valence:0.521
+tempo:116.335

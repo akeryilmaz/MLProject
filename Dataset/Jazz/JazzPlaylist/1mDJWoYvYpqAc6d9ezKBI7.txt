@@ -1,0 +1,12 @@
+name:MB Lament
+release_year:2017
+danceability:0.484
+energy:0.476
+loudness:-9.198
+mode:1
+speechiness:0.0332
+acousticness:0.496
+instrumentalness:0.816
+liveness:0.11
+valence:0.301
+tempo:122.821

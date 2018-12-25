@@ -1,0 +1,12 @@
+name:Ji-Eun's Sunset
+release_year:2018
+danceability:0.931
+energy:0.517
+loudness:-8.476
+mode:1
+speechiness:0.105
+acousticness:0.0923
+instrumentalness:0.821
+liveness:0.114
+valence:0.171
+tempo:118.021

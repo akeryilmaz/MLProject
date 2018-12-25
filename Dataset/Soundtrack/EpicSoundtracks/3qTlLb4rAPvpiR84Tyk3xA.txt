@@ -1,0 +1,12 @@
+name:Halo Theme - Mjolnir Mix
+release_year:2004
+danceability:0.239
+energy:0.85
+loudness:-8.514
+mode:0
+speechiness:0.0601
+acousticness:0.00873
+instrumentalness:0.886
+liveness:0.109
+valence:0.0734
+tempo:93.659

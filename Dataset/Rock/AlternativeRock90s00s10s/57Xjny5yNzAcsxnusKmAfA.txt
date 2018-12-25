@@ -1,0 +1,12 @@
+name:Reptilia
+release_year:2003
+danceability:0.486
+energy:0.666
+loudness:-5.084
+mode:1
+speechiness:0.033
+acousticness:0.000563
+instrumentalness:0.789
+liveness:0.101
+valence:0.741
+tempo:157.992

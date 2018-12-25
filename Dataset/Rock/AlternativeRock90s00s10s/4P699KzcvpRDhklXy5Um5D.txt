@@ -1,0 +1,12 @@
+name:Apartment
+release_year:2011
+danceability:0.57
+energy:0.733
+loudness:-7.194
+mode:1
+speechiness:0.0306
+acousticness:0.00686
+instrumentalness:0.000131
+liveness:0.216
+valence:0.334
+tempo:109.97

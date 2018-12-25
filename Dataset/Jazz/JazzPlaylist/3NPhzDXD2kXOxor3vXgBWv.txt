@@ -1,0 +1,12 @@
+name:Lullaby of Birdland - Live at Sunset School, Carmel-by-the-Sea, CA, September 1955
+release_year:2015
+danceability:0.511
+energy:0.508
+loudness:-12.018
+mode:0
+speechiness:0.0402
+acousticness:0.888
+instrumentalness:0.901
+liveness:0.256
+valence:0.559
+tempo:138.851

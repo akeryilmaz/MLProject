@@ -1,0 +1,12 @@
+name:Ornithology
+release_year:1988
+danceability:0.475
+energy:0.689
+loudness:-9.351
+mode:0
+speechiness:0.054
+acousticness:0.532
+instrumentalness:0.00427
+liveness:0.969
+valence:0.823
+tempo:117.407

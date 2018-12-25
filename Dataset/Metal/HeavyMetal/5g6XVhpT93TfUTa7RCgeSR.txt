@@ -1,0 +1,12 @@
+name:Ich finde nur Metal geil
+release_year:2018
+danceability:0.447
+energy:0.98
+loudness:-2.283
+mode:1
+speechiness:0.143
+acousticness:2.67e-05
+instrumentalness:0.000114
+liveness:0.154
+valence:0.318
+tempo:180.004

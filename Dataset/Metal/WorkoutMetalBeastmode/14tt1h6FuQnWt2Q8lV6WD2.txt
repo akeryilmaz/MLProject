@@ -1,0 +1,12 @@
+name:Instincts
+release_year:2018
+danceability:0.418
+energy:0.983
+loudness:-3.716
+mode:1
+speechiness:0.0679
+acousticness:4.04e-05
+instrumentalness:0.056
+liveness:0.29
+valence:0.394
+tempo:161.077

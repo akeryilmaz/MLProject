@@ -1,0 +1,12 @@
+name:The Phantom of the Opera - Single Album Version
+release_year:2004
+danceability:0.446
+energy:0.614
+loudness:-12.176
+mode:0
+speechiness:0.0557
+acousticness:0.146
+instrumentalness:4.71e-06
+liveness:0.115
+valence:0.311
+tempo:119.994

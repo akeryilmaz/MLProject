@@ -1,0 +1,12 @@
+name:Condition Critical
+release_year:1984
+danceability:0.4
+energy:0.52
+loudness:-14.296
+mode:1
+speechiness:0.0446
+acousticness:0.0171
+instrumentalness:0.000707
+liveness:0.131
+valence:0.505
+tempo:138.622

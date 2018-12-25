@@ -1,0 +1,12 @@
+name:Fawkes The Phoenix
+release_year:2002
+danceability:0.106
+energy:0.181
+loudness:-17.969
+mode:1
+speechiness:0.0342
+acousticness:0.964
+instrumentalness:0.853
+liveness:0.407
+valence:0.0593
+tempo:61.02

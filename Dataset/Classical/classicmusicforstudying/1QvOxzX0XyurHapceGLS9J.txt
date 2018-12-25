@@ -1,0 +1,12 @@
+name:Lullaby (Guten Abend, Gute Nacht), Op. 49
+release_year:2012
+danceability:0.234
+energy:0.148
+loudness:-17.501
+mode:1
+speechiness:0.0521
+acousticness:0.929
+instrumentalness:0.829
+liveness:0.0643
+valence:0.0668
+tempo:61.106

@@ -1,0 +1,12 @@
+name:Come As You Are
+release_year:1991
+danceability:0.505
+energy:0.825
+loudness:-5.721
+mode:0
+speechiness:0.0401
+acousticness:0.000182
+instrumentalness:0.000948
+liveness:0.0855
+valence:0.541
+tempo:119.987

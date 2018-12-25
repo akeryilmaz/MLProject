@@ -1,0 +1,12 @@
+name:How You Love Me (feat. Conor Maynard & Snoop Dogg)
+release_year:2018
+danceability:0.775
+energy:0.723
+loudness:-4.095
+mode:1
+speechiness:0.0468
+acousticness:0.282
+instrumentalness:0.000371
+liveness:0.126
+valence:0.756
+tempo:104.991

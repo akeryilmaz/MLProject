@@ -1,0 +1,12 @@
+name:Kasalukuyan
+release_year:2018
+danceability:0.771
+energy:0.631
+loudness:-8.699
+mode:0
+speechiness:0.215
+acousticness:0.329
+instrumentalness:0.000952
+liveness:0.0984
+valence:0.536
+tempo:98.13

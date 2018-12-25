@@ -1,0 +1,12 @@
+name:Time After Time
+release_year:1985
+danceability:0.646
+energy:0.242
+loudness:-16.096
+mode:1
+speechiness:0.0403
+acousticness:0.894
+instrumentalness:0.829
+liveness:0.129
+valence:0.373
+tempo:126.11

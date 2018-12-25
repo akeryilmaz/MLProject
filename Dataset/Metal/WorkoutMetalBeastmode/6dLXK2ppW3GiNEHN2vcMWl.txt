@@ -1,0 +1,12 @@
+name:Rose Of Sharyn
+release_year:2004
+danceability:0.469
+energy:0.978
+loudness:-4.399
+mode:1
+speechiness:0.0628
+acousticness:5.59e-05
+instrumentalness:0.0168
+liveness:0.294
+valence:0.413
+tempo:90.994

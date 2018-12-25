@@ -1,0 +1,12 @@
+name:Theme From Schindler's List (Reprise)
+release_year:1993
+danceability:0.152
+energy:0.0138
+loudness:-32.198
+mode:0
+speechiness:0.0382
+acousticness:0.962
+instrumentalness:0.915
+liveness:0.112
+valence:0.076
+tempo:76.02

@@ -1,0 +1,12 @@
+name:Isolate
+release_year:2018
+danceability:0.827
+energy:0.566
+loudness:-7.284
+mode:1
+speechiness:0.0823
+acousticness:0.0725
+instrumentalness:0
+liveness:0.18
+valence:0.644
+tempo:130.01

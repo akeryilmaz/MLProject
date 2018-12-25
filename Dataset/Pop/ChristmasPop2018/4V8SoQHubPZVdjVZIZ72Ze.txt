@@ -1,0 +1,12 @@
+name:White Christmas
+release_year:2014
+danceability:0.389
+energy:0.345
+loudness:-10.921
+mode:1
+speechiness:0.0268
+acousticness:0.673
+instrumentalness:2.57e-05
+liveness:0.317
+valence:0.216
+tempo:79.327

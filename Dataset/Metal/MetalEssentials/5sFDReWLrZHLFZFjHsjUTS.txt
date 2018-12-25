@@ -1,0 +1,12 @@
+name:Would?
+release_year:1992
+danceability:0.305
+energy:0.832
+loudness:-7.981
+mode:1
+speechiness:0.0398
+acousticness:0.000332
+instrumentalness:2.4e-05
+liveness:0.091
+valence:0.585
+tempo:100.677

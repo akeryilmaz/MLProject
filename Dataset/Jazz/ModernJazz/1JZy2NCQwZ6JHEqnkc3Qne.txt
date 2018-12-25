@@ -1,0 +1,12 @@
+name:Walpurgisnacht
+release_year:2006
+danceability:0.366
+energy:0.501
+loudness:-11.582
+mode:1
+speechiness:0.0294
+acousticness:0.513
+instrumentalness:0.394
+liveness:0.0928
+valence:0.116
+tempo:109.376

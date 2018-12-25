@@ -1,0 +1,12 @@
+name:Sing, Sing, Sing
+release_year:2007
+danceability:0.62
+energy:0.67
+loudness:-11.575
+mode:0
+speechiness:0.0591
+acousticness:0.853
+instrumentalness:0.896
+liveness:0.156
+valence:0.295
+tempo:113.492

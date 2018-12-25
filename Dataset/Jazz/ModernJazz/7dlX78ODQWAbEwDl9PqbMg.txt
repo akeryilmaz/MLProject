@@ -1,0 +1,12 @@
+name:Strip It
+release_year:2000
+danceability:0.568
+energy:0.552
+loudness:-11.78
+mode:0
+speechiness:0.0349
+acousticness:0.301
+instrumentalness:0.833
+liveness:0.0884
+valence:0.835
+tempo:154.473

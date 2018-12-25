@@ -1,0 +1,12 @@
+name:This Christmas
+release_year:2015
+danceability:0.555
+energy:0.73
+loudness:-5.538
+mode:1
+speechiness:0.0404
+acousticness:0.054
+instrumentalness:0
+liveness:0.123
+valence:0.765
+tempo:151.91

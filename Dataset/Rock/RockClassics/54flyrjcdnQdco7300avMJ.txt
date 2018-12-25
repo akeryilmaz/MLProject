@@ -1,0 +1,12 @@
+name:We Will Rock You - Remastered
+release_year:1977
+danceability:0.692
+energy:0.488
+loudness:-7.282
+mode:0
+speechiness:0.104
+acousticness:0.688
+instrumentalness:0
+liveness:0.4
+valence:0.51
+tempo:81.4

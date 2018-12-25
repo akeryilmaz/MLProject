@@ -1,0 +1,12 @@
+name:Step Daughter
+release_year:2018
+danceability:0.857
+energy:0.668
+loudness:-8.406
+mode:1
+speechiness:0.0697
+acousticness:0.00414
+instrumentalness:0.878
+liveness:0.0785
+valence:0.463
+tempo:125.018

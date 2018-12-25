@@ -1,0 +1,12 @@
+name:Your Betrayal
+release_year:2010
+danceability:0.569
+energy:0.883
+loudness:-4.41
+mode:0
+speechiness:0.0747
+acousticness:8.07e-05
+instrumentalness:7.74e-05
+liveness:0.0883
+valence:0.373
+tempo:134.003

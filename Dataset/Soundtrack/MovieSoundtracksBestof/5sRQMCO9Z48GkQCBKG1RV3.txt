@@ -1,0 +1,12 @@
+name:Battle at Aslan's How
+release_year:2008
+danceability:0.293
+energy:0.744
+loudness:-9.355
+mode:1
+speechiness:0.0577
+acousticness:0.263
+instrumentalness:0.873
+liveness:0.155
+valence:0.237
+tempo:77.446

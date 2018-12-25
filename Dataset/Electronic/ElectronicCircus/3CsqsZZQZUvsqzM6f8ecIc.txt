@@ -1,0 +1,12 @@
+name:WHP
+release_year:2018
+danceability:0.691
+energy:0.943
+loudness:-6.517
+mode:0
+speechiness:0.0387
+acousticness:0.00112
+instrumentalness:0.865
+liveness:0.366
+valence:0.162
+tempo:123.983

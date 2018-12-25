@@ -1,0 +1,12 @@
+name:Outside - Original
+release_year:2001
+danceability:0.515
+energy:0.594
+loudness:-4.708
+mode:1
+speechiness:0.0262
+acousticness:0.00844
+instrumentalness:0.00658
+liveness:0.0752
+valence:0.218
+tempo:146.564

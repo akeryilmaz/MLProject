@@ -1,0 +1,12 @@
+name:Silver Sky
+release_year:2015
+danceability:0.273
+energy:0.00195
+loudness:-31.393
+mode:1
+speechiness:0.0418
+acousticness:0.993
+instrumentalness:0.868
+liveness:0.0887
+valence:0.0922
+tempo:72.179

@@ -1,0 +1,12 @@
+name:Solo Flight
+release_year:1987
+danceability:0.74
+energy:0.323
+loudness:-12.848
+mode:1
+speechiness:0.0349
+acousticness:0.925
+instrumentalness:0.807
+liveness:0.0711
+valence:0.861
+tempo:89.101

@@ -1,0 +1,12 @@
+name:Burn Babylon, Burn!
+release_year:2018
+danceability:0.273
+energy:0.839
+loudness:-6.069
+mode:0
+speechiness:0.0704
+acousticness:0.00282
+instrumentalness:0.00374
+liveness:0.114
+valence:0.428
+tempo:185.084

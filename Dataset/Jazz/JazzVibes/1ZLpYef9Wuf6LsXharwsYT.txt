@@ -1,0 +1,12 @@
+name:Twelve key universe
+release_year:2017
+danceability:0.649
+energy:0.37
+loudness:-10.852
+mode:0
+speechiness:0.038
+acousticness:0.0637
+instrumentalness:0.689
+liveness:0.388
+valence:0.701
+tempo:90.993

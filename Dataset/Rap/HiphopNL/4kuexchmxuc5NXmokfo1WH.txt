@@ -1,0 +1,12 @@
+name:Verleden Tijd
+release_year:2018
+danceability:0.771
+energy:0.661
+loudness:-6.718
+mode:1
+speechiness:0.0916
+acousticness:0.131
+instrumentalness:5.45e-06
+liveness:0.114
+valence:0.183
+tempo:104.884

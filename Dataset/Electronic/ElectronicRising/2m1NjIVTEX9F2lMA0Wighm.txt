@@ -1,0 +1,12 @@
+name:Alter Ego
+release_year:2018
+danceability:0.672
+energy:0.666
+loudness:-11.148
+mode:0
+speechiness:0.049
+acousticness:0.000114
+instrumentalness:0.839
+liveness:0.102
+valence:0.288
+tempo:123.998

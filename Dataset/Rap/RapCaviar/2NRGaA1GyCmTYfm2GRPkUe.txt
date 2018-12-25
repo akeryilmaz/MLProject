@@ -1,0 +1,12 @@
+name:Fine China
+release_year:2018
+danceability:0.656
+energy:0.542
+loudness:-7.358
+mode:1
+speechiness:0.323
+acousticness:0.0484
+instrumentalness:0
+liveness:0.106
+valence:0.551
+tempo:166.11

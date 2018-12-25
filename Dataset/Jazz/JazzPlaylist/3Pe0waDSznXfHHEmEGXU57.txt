@@ -1,0 +1,12 @@
+name:I've Got You Under My Skin - 2011 Remaster
+release_year:2002
+danceability:0.398
+energy:0.204
+loudness:-13.227
+mode:0
+speechiness:0.0542
+acousticness:0.956
+instrumentalness:0.000122
+liveness:0.144
+valence:0.686
+tempo:178.295

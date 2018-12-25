@@ -1,0 +1,12 @@
+name:New Balls
+release_year:2012
+danceability:0.392
+energy:0.26
+loudness:-14.798
+mode:1
+speechiness:0.0295
+acousticness:0.969
+instrumentalness:0.828
+liveness:0.107
+valence:0.116
+tempo:105.331

@@ -1,0 +1,12 @@
+name:You Make It Look Easy
+release_year:2018
+danceability:0.767
+energy:0.719
+loudness:-11.123
+mode:0
+speechiness:0.0455
+acousticness:0.0439
+instrumentalness:0.898
+liveness:0.0818
+valence:0.331
+tempo:123.018

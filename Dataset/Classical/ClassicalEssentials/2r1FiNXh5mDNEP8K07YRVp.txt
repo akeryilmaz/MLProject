@@ -1,0 +1,12 @@
+name:Bizet: Carmen, WD 31, Act 1 Scene 4: No. 5, Havanaise, "L'amour est un oiseau rebelle" (Carmen, Chorus)
+release_year:1964
+danceability:0.363
+energy:0.115
+loudness:-17.325
+mode:1
+speechiness:0.0689
+acousticness:0.976
+instrumentalness:0
+liveness:0.0992
+valence:0.231
+tempo:134.424

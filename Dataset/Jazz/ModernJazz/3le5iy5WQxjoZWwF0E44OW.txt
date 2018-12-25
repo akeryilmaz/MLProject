@@ -1,0 +1,12 @@
+name:One (Ahad)
+release_year:2013
+danceability:0.71
+energy:0.472
+loudness:-12.386
+mode:1
+speechiness:0.042
+acousticness:0.508
+instrumentalness:0.883
+liveness:0.241
+valence:0.59
+tempo:98.624

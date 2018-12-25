@@ -1,0 +1,12 @@
+name:Give a Little Love
+release_year:2018
+danceability:0.64
+energy:0.881
+loudness:-5.263
+mode:0
+speechiness:0.0409
+acousticness:0.00212
+instrumentalness:8.37e-05
+liveness:0.138
+valence:0.172
+tempo:126.075

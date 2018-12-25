@@ -1,0 +1,12 @@
+name:Tears Are Falling
+release_year:1985
+danceability:0.535
+energy:0.925
+loudness:-7.679
+mode:0
+speechiness:0.0799
+acousticness:0.00422
+instrumentalness:1.29e-06
+liveness:0.102
+valence:0.233
+tempo:124.296

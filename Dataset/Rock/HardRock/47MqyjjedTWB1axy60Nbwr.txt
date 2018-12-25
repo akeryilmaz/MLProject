@@ -1,0 +1,12 @@
+name:Behind These Walls
+release_year:2018
+danceability:0.424
+energy:0.768
+loudness:-4.493
+mode:1
+speechiness:0.0321
+acousticness:0.000388
+instrumentalness:0.000121
+liveness:0.262
+valence:0.44
+tempo:87.562

@@ -1,0 +1,12 @@
+name:Ebb And Flow
+release_year:2011
+danceability:0.462
+energy:0.328
+loudness:-14.195
+mode:1
+speechiness:0.037
+acousticness:0.893
+instrumentalness:0.933
+liveness:0.117
+valence:0.288
+tempo:124.701

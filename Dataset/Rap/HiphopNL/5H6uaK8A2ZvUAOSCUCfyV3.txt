@@ -1,0 +1,12 @@
+name:Freak In The Weekend
+release_year:2018
+danceability:0.924
+energy:0.505
+loudness:-7.928
+mode:0
+speechiness:0.205
+acousticness:0.158
+instrumentalness:0
+liveness:0.121
+valence:0.694
+tempo:120.04

@@ -1,0 +1,12 @@
+name:A Thousand Years
+release_year:2012
+danceability:0.23
+energy:0.217
+loudness:-13.464
+mode:1
+speechiness:0.0386
+acousticness:0.989
+instrumentalness:0.892
+liveness:0.0844
+valence:0.156
+tempo:157.084

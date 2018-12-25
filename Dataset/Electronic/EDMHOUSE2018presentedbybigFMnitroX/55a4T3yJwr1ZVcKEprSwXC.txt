@@ -1,0 +1,12 @@
+name:Emoji
+release_year:2018
+danceability:0.713
+energy:0.71
+loudness:-3.792
+mode:1
+speechiness:0.0435
+acousticness:0.0181
+instrumentalness:8.78e-06
+liveness:0.151
+valence:0.304
+tempo:121.935

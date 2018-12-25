@@ -1,0 +1,12 @@
+name:These Foolish Things
+release_year:2001
+danceability:0.428
+energy:0.3
+loudness:-10.515
+mode:1
+speechiness:0.0386
+acousticness:0.834
+instrumentalness:0.00259
+liveness:0.0575
+valence:0.226
+tempo:170.805

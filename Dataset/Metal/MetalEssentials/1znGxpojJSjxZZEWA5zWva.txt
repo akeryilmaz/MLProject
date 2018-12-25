@@ -1,0 +1,12 @@
+name:Still Counting
+release_year:2008
+danceability:0.309
+energy:0.919
+loudness:-3.131
+mode:1
+speechiness:0.0609
+acousticness:0.00039
+instrumentalness:0.000225
+liveness:0.423
+valence:0.322
+tempo:103.891

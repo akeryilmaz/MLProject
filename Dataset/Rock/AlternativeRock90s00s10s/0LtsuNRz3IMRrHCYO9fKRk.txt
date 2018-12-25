@@ -1,0 +1,12 @@
+name:Beautiful Disaster
+release_year:1997
+danceability:0.576
+energy:0.738
+loudness:-8.122
+mode:1
+speechiness:0.0353
+acousticness:0.000387
+instrumentalness:0.00131
+liveness:0.13
+valence:0.675
+tempo:168.132

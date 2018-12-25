@@ -1,0 +1,12 @@
+name:Swimming Pools
+release_year:2018
+danceability:0.763
+energy:0.401
+loudness:-10.414
+mode:1
+speechiness:0.056
+acousticness:0.937
+instrumentalness:0.891
+liveness:0.182
+valence:0.152
+tempo:77.015

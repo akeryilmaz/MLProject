@@ -1,0 +1,12 @@
+name:Won't Let Go
+release_year:2018
+danceability:0.675
+energy:0.792
+loudness:-4.725
+mode:1
+speechiness:0.0347
+acousticness:0.0455
+instrumentalness:1.05e-05
+liveness:0.107
+valence:0.403
+tempo:116.076

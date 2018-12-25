@@ -1,0 +1,12 @@
+name:Picture
+release_year:2018
+danceability:0.7
+energy:0.865
+loudness:-5.575
+mode:0
+speechiness:0.0429
+acousticness:0.0597
+instrumentalness:1.77e-06
+liveness:0.224
+valence:0.714
+tempo:123.896

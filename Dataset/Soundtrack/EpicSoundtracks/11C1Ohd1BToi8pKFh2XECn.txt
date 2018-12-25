@@ -1,0 +1,12 @@
+name:The Road to Masysaf
+release_year:2011
+danceability:0.225
+energy:0.497
+loudness:-12.066
+mode:0
+speechiness:0.0482
+acousticness:0.226
+instrumentalness:0.665
+liveness:0.263
+valence:0.0636
+tempo:110.198

@@ -1,0 +1,12 @@
+name:Iron Man - Remastered Version
+release_year:1970
+danceability:0.336
+energy:0.792
+loudness:-10.875
+mode:1
+speechiness:0.0848
+acousticness:0.00349
+instrumentalness:0.00178
+liveness:0.0437
+valence:0.425
+tempo:155.588

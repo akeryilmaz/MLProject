@@ -1,0 +1,12 @@
+name:Look to the Stars
+release_year:2013
+danceability:0.0746
+energy:0.128
+loudness:-26.45
+mode:1
+speechiness:0.0402
+acousticness:0.879
+instrumentalness:0.871
+liveness:0.104
+valence:0.0345
+tempo:77.79

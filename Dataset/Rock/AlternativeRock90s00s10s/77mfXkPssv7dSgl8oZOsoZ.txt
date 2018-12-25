@@ -1,0 +1,12 @@
+name:Tighten Up
+release_year:2010
+danceability:0.459
+energy:0.708
+loudness:-6.167
+mode:0
+speechiness:0.0681
+acousticness:0.00142
+instrumentalness:4.44e-06
+liveness:0.485
+valence:0.583
+tempo:108.952

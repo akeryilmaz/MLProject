@@ -1,0 +1,12 @@
+name:Welcome Home
+release_year:2018
+danceability:0.226
+energy:0.0934
+loudness:-27.254
+mode:0
+speechiness:0.0431
+acousticness:0.995
+instrumentalness:0.859
+liveness:0.117
+valence:0.201
+tempo:128.904

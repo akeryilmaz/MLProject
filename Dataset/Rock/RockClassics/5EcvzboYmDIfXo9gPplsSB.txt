@@ -1,0 +1,12 @@
+name:Brown Sugar
+release_year:1971
+danceability:0.638
+energy:0.931
+loudness:-3.605
+mode:1
+speechiness:0.0363
+acousticness:0.228
+instrumentalness:0.000295
+liveness:0.0524
+valence:0.965
+tempo:128.662

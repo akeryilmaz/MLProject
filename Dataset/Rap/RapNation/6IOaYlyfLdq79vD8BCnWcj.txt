@@ -1,0 +1,12 @@
+name:Pull Up
+release_year:2018
+danceability:0.599
+energy:0.565
+loudness:-9.227
+mode:1
+speechiness:0.135
+acousticness:0.31
+instrumentalness:8.46e-05
+liveness:0.0908
+valence:0.343
+tempo:149.976

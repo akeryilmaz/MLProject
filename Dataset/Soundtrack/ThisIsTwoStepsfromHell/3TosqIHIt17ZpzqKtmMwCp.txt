@@ -1,0 +1,12 @@
+name:Fire Mountain
+release_year:2014
+danceability:0.47
+energy:0.912
+loudness:-7.374
+mode:1
+speechiness:0.0569
+acousticness:0.000615
+instrumentalness:0.852
+liveness:0.0598
+valence:0.28
+tempo:133.035

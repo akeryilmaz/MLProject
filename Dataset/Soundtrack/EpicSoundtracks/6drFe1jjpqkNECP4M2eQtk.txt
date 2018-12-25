@@ -1,0 +1,12 @@
+name:Sons of Odin
+release_year:2011
+danceability:0.479
+energy:0.491
+loudness:-16.578
+mode:1
+speechiness:0.0391
+acousticness:0.395
+instrumentalness:0.973
+liveness:0.0927
+valence:0.25
+tempo:125.586

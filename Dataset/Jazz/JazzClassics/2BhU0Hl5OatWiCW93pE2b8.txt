@@ -1,0 +1,12 @@
+name:Remember - Remastered
+release_year:1999
+danceability:0.539
+energy:0.403
+loudness:-9.168
+mode:1
+speechiness:0.0531
+acousticness:0.794
+instrumentalness:0.000613
+liveness:0.278
+valence:0.699
+tempo:165.301

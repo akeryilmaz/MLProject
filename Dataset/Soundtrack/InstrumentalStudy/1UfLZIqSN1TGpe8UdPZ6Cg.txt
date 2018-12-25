@@ -1,0 +1,12 @@
+name:Lullaby
+release_year:2018
+danceability:0.381
+energy:0.0543
+loudness:-24.1
+mode:1
+speechiness:0.0382
+acousticness:0.993
+instrumentalness:0.945
+liveness:0.0825
+valence:0.474
+tempo:136.295

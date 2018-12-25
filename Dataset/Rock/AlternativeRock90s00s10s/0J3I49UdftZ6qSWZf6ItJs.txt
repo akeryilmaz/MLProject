@@ -1,0 +1,12 @@
+name:Novocaine For The Soul
+release_year:1996
+danceability:0.409
+energy:0.717
+loudness:-7.75
+mode:1
+speechiness:0.0395
+acousticness:0.000578
+instrumentalness:0.0632
+liveness:0.0827
+valence:0.311
+tempo:169.212

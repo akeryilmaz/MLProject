@@ -1,0 +1,12 @@
+name:Force Majeure
+release_year:2018
+danceability:0.376
+energy:0.926
+loudness:-5.102
+mode:0
+speechiness:0.0962
+acousticness:2.79e-05
+instrumentalness:0.846
+liveness:0.384
+valence:0.232
+tempo:142.158

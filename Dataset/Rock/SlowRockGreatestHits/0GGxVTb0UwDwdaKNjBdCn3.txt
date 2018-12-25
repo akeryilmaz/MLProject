@@ -1,0 +1,12 @@
+name:Woman
+release_year:1980
+danceability:0.588
+energy:0.656
+loudness:-6.373
+mode:1
+speechiness:0.0224
+acousticness:0.378
+instrumentalness:0.00227
+liveness:0.042
+valence:0.746
+tempo:79.701

@@ -1,0 +1,12 @@
+name:Purple Noise
+release_year:2014
+danceability:0.88
+energy:0.477
+loudness:-10.947
+mode:1
+speechiness:0.0732
+acousticness:0.00143
+instrumentalness:0.627
+liveness:0.0922
+valence:0.209
+tempo:125.017

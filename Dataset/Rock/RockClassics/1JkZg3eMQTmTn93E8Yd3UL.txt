@@ -1,0 +1,12 @@
+name:I Want You to Want Me
+release_year:1977
+danceability:0.806
+energy:0.462
+loudness:-12.778
+mode:1
+speechiness:0.0298
+acousticness:0.78
+instrumentalness:0.0134
+liveness:0.15
+valence:0.736
+tempo:92.726

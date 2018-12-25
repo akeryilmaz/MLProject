@@ -1,0 +1,12 @@
+name:Baby Can I Hold You - Edit
+release_year:1998
+danceability:0.55
+energy:0.474
+loudness:-9.841
+mode:1
+speechiness:0.0277
+acousticness:0.511
+instrumentalness:0.00417
+liveness:0.0926
+valence:0.5
+tempo:150.001

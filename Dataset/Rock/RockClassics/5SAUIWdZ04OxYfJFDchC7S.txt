@@ -1,0 +1,12 @@
+name:Smoke On the Water
+release_year:1972
+danceability:0.632
+energy:0.586
+loudness:-11.333
+mode:1
+speechiness:0.0284
+acousticness:0.0983
+instrumentalness:0.581
+liveness:0.0535
+valence:0.89
+tempo:114.243

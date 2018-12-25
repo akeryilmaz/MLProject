@@ -1,0 +1,12 @@
+name:when the party's over
+release_year:2018
+danceability:0.498
+energy:0.104
+loudness:-14.08
+mode:0
+speechiness:0.0621
+acousticness:0.979
+instrumentalness:7.86e-05
+liveness:0.0895
+valence:0.205
+tempo:124.001

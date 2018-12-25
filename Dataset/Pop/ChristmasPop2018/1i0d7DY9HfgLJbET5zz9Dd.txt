@@ -1,0 +1,12 @@
+name:Have Yourself a Merry Little Christmas
+release_year:2013
+danceability:0.244
+energy:0.274
+loudness:-10.433
+mode:1
+speechiness:0.04
+acousticness:0.871
+instrumentalness:1.18e-05
+liveness:0.0897
+valence:0.164
+tempo:68.534

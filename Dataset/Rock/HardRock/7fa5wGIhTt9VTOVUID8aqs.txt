@@ -1,0 +1,12 @@
+name:My Everything
+release_year:2018
+danceability:0.409
+energy:0.88
+loudness:-4.632
+mode:1
+speechiness:0.051
+acousticness:0.000211
+instrumentalness:0.651
+liveness:0.299
+valence:0.368
+tempo:133.255

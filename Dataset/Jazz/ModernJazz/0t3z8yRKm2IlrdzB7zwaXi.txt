@@ -1,0 +1,12 @@
+name:Fear of Heights
+release_year:2013
+danceability:0.37
+energy:0.32
+loudness:-17.837
+mode:0
+speechiness:0.0369
+acousticness:0.931
+instrumentalness:0.923
+liveness:0.0794
+valence:0.193
+tempo:129.297

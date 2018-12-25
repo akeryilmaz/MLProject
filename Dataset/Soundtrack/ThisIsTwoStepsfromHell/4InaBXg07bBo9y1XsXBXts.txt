@@ -1,0 +1,12 @@
+name:Cannon In D Minor
+release_year:2015
+danceability:0.474
+energy:0.933
+loudness:-6.585
+mode:1
+speechiness:0.058
+acousticness:0.00165
+instrumentalness:0.858
+liveness:0.162
+valence:0.451
+tempo:82.499

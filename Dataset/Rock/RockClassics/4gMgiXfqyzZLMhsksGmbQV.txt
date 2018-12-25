@@ -1,0 +1,12 @@
+name:Another Brick in the Wall, Pt. 2
+release_year:1979
+danceability:0.694
+energy:0.394
+loudness:-15.881
+mode:1
+speechiness:0.0428
+acousticness:0.0781
+instrumentalness:0.000677
+liveness:0.247
+valence:0.719
+tempo:104.126

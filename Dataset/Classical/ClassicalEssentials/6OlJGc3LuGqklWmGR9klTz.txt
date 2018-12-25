@@ -1,0 +1,12 @@
+name:G-Song
+release_year:1998
+danceability:0.308
+energy:0.217
+loudness:-21.248
+mode:0
+speechiness:0.0429
+acousticness:0.963
+instrumentalness:0.858
+liveness:0.334
+valence:0.443
+tempo:108.887

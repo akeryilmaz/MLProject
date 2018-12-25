@@ -1,0 +1,12 @@
+name:Pavanne
+release_year:1969
+danceability:0.446
+energy:0.594
+loudness:-11.135
+mode:0
+speechiness:0.0478
+acousticness:0.489
+instrumentalness:0.493
+liveness:0.687
+valence:0.481
+tempo:127.751

@@ -1,0 +1,12 @@
+name:Hallelujah
+release_year:2017
+danceability:0.541
+energy:0.0112
+loudness:-24.44
+mode:1
+speechiness:0.177
+acousticness:0.996
+instrumentalness:0.956
+liveness:0.181
+valence:0.505
+tempo:74.301

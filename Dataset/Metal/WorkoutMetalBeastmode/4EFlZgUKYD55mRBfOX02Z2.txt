@@ -1,0 +1,12 @@
+name:Back To Me
+release_year:2017
+danceability:0.515
+energy:0.888
+loudness:-4.364
+mode:0
+speechiness:0.062
+acousticness:0.000423
+instrumentalness:0
+liveness:0.0518
+valence:0.279
+tempo:110.002

@@ -1,0 +1,12 @@
+name:Time Of My Life
+release_year:2018
+danceability:0.916
+energy:0.62
+loudness:-6.612
+mode:1
+speechiness:0.219
+acousticness:0.0823
+instrumentalness:2.14e-06
+liveness:0.124
+valence:0.793
+tempo:95.002

@@ -1,0 +1,12 @@
+name:karalis
+release_year:2018
+danceability:0.806
+energy:0.401
+loudness:-7.616
+mode:1
+speechiness:0.0863
+acousticness:0.943
+instrumentalness:0.907
+liveness:0.111
+valence:0.355
+tempo:82.981

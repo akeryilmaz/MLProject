@@ -1,0 +1,12 @@
+name:Wow.
+release_year:2018
+danceability:0.823
+energy:0.547
+loudness:-7.58
+mode:0
+speechiness:0.225
+acousticness:0.157
+instrumentalness:1.58e-06
+liveness:0.101
+valence:0.405
+tempo:99.974

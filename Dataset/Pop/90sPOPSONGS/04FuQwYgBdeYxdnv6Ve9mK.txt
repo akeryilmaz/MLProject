@@ -1,0 +1,12 @@
+name:I Knew I Loved You
+release_year:2000
+danceability:0.554
+energy:0.494
+loudness:-9.875
+mode:1
+speechiness:0.029
+acousticness:0.312
+instrumentalness:8.73e-05
+liveness:0.0806
+valence:0.738
+tempo:169.923

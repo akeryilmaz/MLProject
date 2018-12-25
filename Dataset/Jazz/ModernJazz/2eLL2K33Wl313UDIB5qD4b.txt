@@ -1,0 +1,12 @@
+name:Das Boot
+release_year:2006
+danceability:0.427
+energy:0.145
+loudness:-21.452
+mode:0
+speechiness:0.0356
+acousticness:0.896
+instrumentalness:0.939
+liveness:0.108
+valence:0.0655
+tempo:112.557

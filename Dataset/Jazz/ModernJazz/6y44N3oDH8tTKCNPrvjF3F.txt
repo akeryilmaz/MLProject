@@ -1,0 +1,12 @@
+name:Wonderyear
+release_year:2000
+danceability:0.426
+energy:0.458
+loudness:-11.491
+mode:0
+speechiness:0.0546
+acousticness:0.726
+instrumentalness:0.945
+liveness:0.124
+valence:0.581
+tempo:203.327

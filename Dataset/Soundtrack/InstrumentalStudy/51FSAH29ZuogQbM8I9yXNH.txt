@@ -1,0 +1,12 @@
+name:Simplistique
+release_year:2018
+danceability:0.397
+energy:0.0415
+loudness:-23.982
+mode:0
+speechiness:0.0382
+acousticness:0.978
+instrumentalness:0.929
+liveness:0.0923
+valence:0.148
+tempo:74.046

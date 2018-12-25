@@ -1,0 +1,12 @@
+name:Never Recover (Lil Baby & Gunna, Drake)
+release_year:2018
+danceability:0.757
+energy:0.69
+loudness:-5.327
+mode:0
+speechiness:0.282
+acousticness:0.0716
+instrumentalness:0
+liveness:0.192
+valence:0.914
+tempo:132.064

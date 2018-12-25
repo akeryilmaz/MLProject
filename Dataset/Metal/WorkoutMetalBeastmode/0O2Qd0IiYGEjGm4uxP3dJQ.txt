@@ -1,0 +1,12 @@
+name:Get Hype
+release_year:2018
+danceability:0.689
+energy:0.956
+loudness:-3.428
+mode:0
+speechiness:0.176
+acousticness:0.000689
+instrumentalness:2.15e-05
+liveness:0.178
+valence:0.715
+tempo:110.059

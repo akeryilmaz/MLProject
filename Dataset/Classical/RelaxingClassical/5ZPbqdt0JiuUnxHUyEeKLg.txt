@@ -1,0 +1,12 @@
+name:La Fille Aux Cheveux De Lin, L. 117
+release_year:2016
+danceability:0.372
+energy:0.00297
+loudness:-31.65
+mode:1
+speechiness:0.057
+acousticness:0.995
+instrumentalness:0.951
+liveness:0.0587
+valence:0.226
+tempo:89.567

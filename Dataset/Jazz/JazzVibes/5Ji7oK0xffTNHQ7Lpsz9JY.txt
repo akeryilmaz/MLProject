@@ -1,0 +1,12 @@
+name:Kisu
+release_year:2018
+danceability:0.537
+energy:0.71
+loudness:-6.296
+mode:0
+speechiness:0.0457
+acousticness:0.0466
+instrumentalness:0.0793
+liveness:0.304
+valence:0.531
+tempo:84.724

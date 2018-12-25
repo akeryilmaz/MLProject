@@ -1,0 +1,12 @@
+name:Enge Loesoe (feat. Drechter & 3robi)
+release_year:2018
+danceability:0.781
+energy:0.715
+loudness:-6.826
+mode:1
+speechiness:0.274
+acousticness:0.0278
+instrumentalness:5.88e-06
+liveness:0.0765
+valence:0.696
+tempo:127.412

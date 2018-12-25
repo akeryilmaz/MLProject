@@ -1,0 +1,12 @@
+name:Your Love
+release_year:2018
+danceability:0.652
+energy:0.93
+loudness:-3.729
+mode:1
+speechiness:0.0474
+acousticness:0.011
+instrumentalness:0.174
+liveness:0.109
+valence:0.285
+tempo:125.995

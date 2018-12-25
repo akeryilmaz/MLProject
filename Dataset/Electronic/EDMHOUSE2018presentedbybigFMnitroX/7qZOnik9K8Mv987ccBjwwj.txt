@@ -1,0 +1,12 @@
+name:Wait Another Day
+release_year:2018
+danceability:0.727
+energy:0.912
+loudness:-3.594
+mode:0
+speechiness:0.0377
+acousticness:0.0272
+instrumentalness:0.000443
+liveness:0.118
+valence:0.671
+tempo:126.023

@@ -1,0 +1,12 @@
+name:Bye Bye Bye
+release_year:2000
+danceability:0.61
+energy:0.926
+loudness:-4.843
+mode:0
+speechiness:0.0479
+acousticness:0.031
+instrumentalness:0.0012
+liveness:0.0821
+valence:0.861
+tempo:172.638

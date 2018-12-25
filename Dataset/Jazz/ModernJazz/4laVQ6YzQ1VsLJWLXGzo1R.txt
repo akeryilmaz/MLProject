@@ -1,0 +1,12 @@
+name:And Lasalle
+release_year:2008
+danceability:0.367
+energy:0.35
+loudness:-14.551
+mode:0
+speechiness:0.039
+acousticness:0.43
+instrumentalness:0.895
+liveness:0.111
+valence:0.291
+tempo:93.66

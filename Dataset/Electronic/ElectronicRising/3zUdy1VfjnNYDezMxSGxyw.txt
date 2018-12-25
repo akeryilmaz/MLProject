@@ -1,0 +1,12 @@
+name:Jupiter
+release_year:2018
+danceability:0.681
+energy:0.679
+loudness:-8.924
+mode:0
+speechiness:0.0621
+acousticness:0.000211
+instrumentalness:0.907
+liveness:0.12
+valence:0.464
+tempo:123.009

@@ -1,0 +1,12 @@
+name:China Plates
+release_year:2018
+danceability:0.364
+energy:0.947
+loudness:-4.552
+mode:1
+speechiness:0.0671
+acousticness:0.000131
+instrumentalness:0
+liveness:0.0825
+valence:0.515
+tempo:164.998

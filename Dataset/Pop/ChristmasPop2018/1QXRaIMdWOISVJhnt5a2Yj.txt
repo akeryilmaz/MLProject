@@ -1,0 +1,12 @@
+name:Merry Christmas Baby
+release_year:2014
+danceability:0.543
+energy:0.641
+loudness:-5.304
+mode:1
+speechiness:0.0446
+acousticness:0.136
+instrumentalness:1.42e-06
+liveness:0.055
+valence:0.367
+tempo:80.936

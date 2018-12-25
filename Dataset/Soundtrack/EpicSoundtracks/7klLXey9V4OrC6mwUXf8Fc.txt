@@ -1,0 +1,12 @@
+name:Davy Jones
+release_year:2006
+danceability:0.29
+energy:0.061
+loudness:-18.975
+mode:0
+speechiness:0.0278
+acousticness:0.465
+instrumentalness:0.0314
+liveness:0.0847
+valence:0.127
+tempo:79.88

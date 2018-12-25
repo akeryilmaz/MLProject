@@ -1,0 +1,12 @@
+name:Doomsday
+release_year:2017
+danceability:0.3
+energy:0.985
+loudness:-3.734
+mode:0
+speechiness:0.265
+acousticness:3.15e-05
+instrumentalness:0.000275
+liveness:0.0839
+valence:0.205
+tempo:124.925

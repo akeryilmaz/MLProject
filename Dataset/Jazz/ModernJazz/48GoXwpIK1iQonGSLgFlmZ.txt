@@ -1,0 +1,12 @@
+name:Love Song
+release_year:2010
+danceability:0.47
+energy:0.469
+loudness:-15.056
+mode:1
+speechiness:0.0423
+acousticness:0.344
+instrumentalness:0.876
+liveness:0.114
+valence:0.581
+tempo:107.141

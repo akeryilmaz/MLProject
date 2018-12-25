@@ -1,0 +1,12 @@
+name:Night Shift
+release_year:2018
+danceability:0.593
+energy:0.353
+loudness:-11.59
+mode:0
+speechiness:0.0622
+acousticness:0.85
+instrumentalness:0.265
+liveness:0.164
+valence:0.109
+tempo:79.975

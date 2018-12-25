@@ -1,0 +1,12 @@
+name:Dude (Looks Like A Lady)
+release_year:1994
+danceability:0.581
+energy:0.948
+loudness:-5.479
+mode:1
+speechiness:0.0377
+acousticness:0.00769
+instrumentalness:8.09e-05
+liveness:0.0373
+valence:0.939
+tempo:126.206

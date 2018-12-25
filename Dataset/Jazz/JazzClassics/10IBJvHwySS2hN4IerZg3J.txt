@@ -1,0 +1,12 @@
+name:Theme for Maxine
+release_year:1978
+danceability:0.397
+energy:0.329
+loudness:-13.317
+mode:1
+speechiness:0.0398
+acousticness:0.611
+instrumentalness:0.84
+liveness:0.207
+valence:0.462
+tempo:166.831

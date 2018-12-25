@@ -1,0 +1,12 @@
+name:Forbidden Friendship
+release_year:2010
+danceability:0.28
+energy:0.288
+loudness:-15.158
+mode:1
+speechiness:0.0351
+acousticness:0.844
+instrumentalness:0.914
+liveness:0.498
+valence:0.377
+tempo:129.276

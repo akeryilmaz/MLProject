@@ -1,0 +1,12 @@
+name:First Time
+release_year:2017
+danceability:0.706
+energy:0.842
+loudness:-3.687
+mode:1
+speechiness:0.0367
+acousticness:0.00533
+instrumentalness:0.000316
+liveness:0.0879
+valence:0.239
+tempo:124.003

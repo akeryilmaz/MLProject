@@ -1,0 +1,12 @@
+name:San Juan Sunset
+release_year:1978
+danceability:0.597
+energy:0.263
+loudness:-21.112
+mode:0
+speechiness:0.0284
+acousticness:0.959
+instrumentalness:0.9
+liveness:0.134
+valence:0.262
+tempo:94.44

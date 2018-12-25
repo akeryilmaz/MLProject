@@ -1,0 +1,12 @@
+name:It's So Overt It's Covert
+release_year:2011
+danceability:0.53
+energy:0.235
+loudness:-11.017
+mode:1
+speechiness:0.115
+acousticness:0.725
+instrumentalness:0.297
+liveness:0.122
+valence:0.743
+tempo:127.723

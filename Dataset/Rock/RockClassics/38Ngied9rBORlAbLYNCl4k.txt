@@ -1,0 +1,12 @@
+name:Once In A Lifetime - 2005 Remastered Version
+release_year:1980
+danceability:0.644
+energy:0.919
+loudness:-6.289
+mode:1
+speechiness:0.0561
+acousticness:0.181
+instrumentalness:0.134
+liveness:0.622
+valence:0.871
+tempo:117.459

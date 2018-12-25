@@ -1,0 +1,12 @@
+name:Afterdark - Original Mix
+release_year:2018
+danceability:0.705
+energy:0.983
+loudness:-5.729
+mode:0
+speechiness:0.0375
+acousticness:0.000191
+instrumentalness:0.949
+liveness:0.0449
+valence:0.31
+tempo:126.998

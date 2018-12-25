@@ -1,0 +1,12 @@
+name:Never Forget
+release_year:2007
+danceability:0.0956
+energy:0.0724
+loudness:-22.319
+mode:1
+speechiness:0.038
+acousticness:0.968
+instrumentalness:0.87
+liveness:0.101
+valence:0.0384
+tempo:85.743

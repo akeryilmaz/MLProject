@@ -1,0 +1,12 @@
+name:The Bitter And The Sweet
+release_year:2006
+danceability:0.684
+energy:0.373
+loudness:-8.846
+mode:0
+speechiness:0.0436
+acousticness:0.767
+instrumentalness:0.0027
+liveness:0.113
+valence:0.232
+tempo:93.392

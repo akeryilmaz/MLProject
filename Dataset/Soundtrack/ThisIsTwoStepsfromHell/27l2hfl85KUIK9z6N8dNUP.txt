@@ -1,0 +1,12 @@
+name:Never Give up on Your Dreams
+release_year:2017
+danceability:0.444
+energy:0.939
+loudness:-7.267
+mode:1
+speechiness:0.0768
+acousticness:0.0202
+instrumentalness:0.89
+liveness:0.0873
+valence:0.214
+tempo:140.012

@@ -1,0 +1,12 @@
+name:Dolphin Dance
+release_year:1970
+danceability:0.334
+energy:0.238
+loudness:-18.068
+mode:0
+speechiness:0.0322
+acousticness:0.87
+instrumentalness:0.91
+liveness:0.103
+valence:0.113
+tempo:75.16

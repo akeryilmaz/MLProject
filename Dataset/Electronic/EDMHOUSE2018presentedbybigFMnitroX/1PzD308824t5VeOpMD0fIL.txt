@@ -1,0 +1,12 @@
+name:Rock To The Rhythm
+release_year:2018
+danceability:0.625
+energy:0.927
+loudness:-4.198
+mode:0
+speechiness:0.0926
+acousticness:0.027
+instrumentalness:0.106
+liveness:0.127
+valence:0.087
+tempo:126.018

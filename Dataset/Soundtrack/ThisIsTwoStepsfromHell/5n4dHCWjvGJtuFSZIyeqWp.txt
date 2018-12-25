@@ -1,0 +1,12 @@
+name:Winterspell
+release_year:2012
+danceability:0.232
+energy:0.871
+loudness:-8.761
+mode:0
+speechiness:0.149
+acousticness:0.425
+instrumentalness:0.971
+liveness:0.0474
+valence:0.174
+tempo:92.268

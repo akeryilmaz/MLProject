@@ -1,0 +1,12 @@
+name:Burn In Hell
+release_year:2004
+danceability:0.289
+energy:0.922
+loudness:-4.75
+mode:1
+speechiness:0.083
+acousticness:0.000358
+instrumentalness:0.000496
+liveness:0.1
+valence:0.425
+tempo:99.975

@@ -1,0 +1,12 @@
+name:Breathe
+release_year:2012
+danceability:0.378
+energy:0.565
+loudness:-10.103
+mode:1
+speechiness:0.0369
+acousticness:0.267
+instrumentalness:0.903
+liveness:0.105
+valence:0.115
+tempo:102.988

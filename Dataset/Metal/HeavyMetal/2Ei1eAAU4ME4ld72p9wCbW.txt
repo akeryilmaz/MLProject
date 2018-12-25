@@ -1,0 +1,12 @@
+name:Fever Dreams
+release_year:2000
+danceability:0.55
+energy:0.802
+loudness:-5.708
+mode:1
+speechiness:0.0322
+acousticness:0.00381
+instrumentalness:0.00768
+liveness:0.105
+valence:0.796
+tempo:97.625

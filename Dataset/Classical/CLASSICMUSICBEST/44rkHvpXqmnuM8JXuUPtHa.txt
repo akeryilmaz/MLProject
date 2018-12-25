@@ -1,0 +1,12 @@
+name:Nabucco: Chorus Of The Hebrew Slaves
+release_year:2009
+danceability:0.264
+energy:0.0593
+loudness:-18.154
+mode:1
+speechiness:0.0408
+acousticness:0.986
+instrumentalness:0.442
+liveness:0.185
+valence:0.0769
+tempo:71.491

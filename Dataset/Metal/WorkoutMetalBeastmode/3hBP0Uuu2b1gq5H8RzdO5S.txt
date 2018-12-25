@@ -1,0 +1,12 @@
+name:Oxygen
+release_year:2016
+danceability:0.409
+energy:0.995
+loudness:-3.49
+mode:1
+speechiness:0.165
+acousticness:4.74e-05
+instrumentalness:0.161
+liveness:0.0281
+valence:0.0869
+tempo:149.967

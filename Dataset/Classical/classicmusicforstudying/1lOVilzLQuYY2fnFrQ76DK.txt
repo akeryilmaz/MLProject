@@ -1,0 +1,12 @@
+name:Waltz in C-Sharp Minor, Op. 64 No. 2
+release_year:2012
+danceability:0.314
+energy:0.0157
+loudness:-36.252
+mode:0
+speechiness:0.0356
+acousticness:0.991
+instrumentalness:0.916
+liveness:0.134
+valence:0.0939
+tempo:95.89

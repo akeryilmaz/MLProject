@@ -1,0 +1,12 @@
+name:Janie's Got A Gun
+release_year:1994
+danceability:0.631
+energy:0.763
+loudness:-6.749
+mode:1
+speechiness:0.0269
+acousticness:0.00786
+instrumentalness:0.0133
+liveness:0.207
+valence:0.387
+tempo:115.121

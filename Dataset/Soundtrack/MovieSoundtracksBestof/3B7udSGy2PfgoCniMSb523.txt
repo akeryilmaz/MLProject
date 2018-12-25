@@ -1,0 +1,12 @@
+name:I See Fire - From "The Hobbit - The Desolation Of Smaug"
+release_year:2013
+danceability:0.581
+energy:0.0549
+loudness:-20.514
+mode:0
+speechiness:0.0397
+acousticness:0.559
+instrumentalness:0
+liveness:0.0718
+valence:0.234
+tempo:152.037

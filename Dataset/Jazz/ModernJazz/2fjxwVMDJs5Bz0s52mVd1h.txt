@@ -1,0 +1,12 @@
+name:Labyrinth
+release_year:2000
+danceability:0.5
+energy:0.0685
+loudness:-25.974
+mode:0
+speechiness:0.0359
+acousticness:0.865
+instrumentalness:0.926
+liveness:0.102
+valence:0.0854
+tempo:135.119

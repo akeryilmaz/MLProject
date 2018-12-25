@@ -1,0 +1,12 @@
+name:Cavatina
+release_year:1998
+danceability:0.455
+energy:0.00887
+loudness:-32.354
+mode:1
+speechiness:0.0536
+acousticness:0.994
+instrumentalness:0.9
+liveness:0.0668
+valence:0.413
+tempo:74.616

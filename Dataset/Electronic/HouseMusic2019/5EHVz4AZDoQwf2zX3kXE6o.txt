@@ -1,0 +1,12 @@
+name:Missing You
+release_year:2018
+danceability:0.696
+energy:0.708
+loudness:-7.994
+mode:1
+speechiness:0.162
+acousticness:0.0472
+instrumentalness:4.55e-05
+liveness:0.0717
+valence:0.337
+tempo:123.913

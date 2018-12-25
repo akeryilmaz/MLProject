@@ -1,0 +1,12 @@
+name:Wanted Dead Or Alive
+release_year:1986
+danceability:0.269
+energy:0.812
+loudness:-3.505
+mode:1
+speechiness:0.0398
+acousticness:0.073
+instrumentalness:0.02
+liveness:0.303
+valence:0.23
+tempo:147.763

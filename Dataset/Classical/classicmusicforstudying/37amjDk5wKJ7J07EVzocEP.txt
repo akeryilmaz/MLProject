@@ -1,0 +1,12 @@
+name:Symphony No. 9 in E Minor, Op. 95, B. 178 "From the New World": II. Largo
+release_year:1962
+danceability:0.0629
+energy:0.0295
+loudness:-26.76
+mode:1
+speechiness:0.0423
+acousticness:0.923
+instrumentalness:0.899
+liveness:0.187
+valence:0.0373
+tempo:65.926

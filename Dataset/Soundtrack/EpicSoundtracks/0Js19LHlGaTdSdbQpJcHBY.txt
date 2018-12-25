@@ -1,0 +1,12 @@
+name:The Majestic Tale (Of A Madman In A Box)
+release_year:2011
+danceability:0.477
+energy:0.551
+loudness:-10.763
+mode:0
+speechiness:0.031
+acousticness:0.0946
+instrumentalness:0.976
+liveness:0.297
+valence:0.35
+tempo:145.05

@@ -1,0 +1,12 @@
+name:Break Free - Duke & Jones Remix
+release_year:2017
+danceability:0.663
+energy:0.659
+loudness:-5.671
+mode:0
+speechiness:0.0473
+acousticness:0.556
+instrumentalness:0.000315
+liveness:0.104
+valence:0.0961
+tempo:139.972

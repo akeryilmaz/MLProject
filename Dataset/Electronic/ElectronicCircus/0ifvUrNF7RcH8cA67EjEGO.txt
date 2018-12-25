@@ -1,0 +1,12 @@
+name:La Cuarta Galaxia - Tiefschwarz Remix
+release_year:2018
+danceability:0.71
+energy:0.745
+loudness:-11.267
+mode:0
+speechiness:0.044
+acousticness:0.00139
+instrumentalness:0.527
+liveness:0.113
+valence:0.182
+tempo:123.014

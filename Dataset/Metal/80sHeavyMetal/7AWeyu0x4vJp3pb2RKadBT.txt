@@ -1,0 +1,12 @@
+name:Mr. Crowley
+release_year:1997
+danceability:0.315
+energy:0.775
+loudness:-4.766
+mode:0
+speechiness:0.0378
+acousticness:0.0361
+instrumentalness:0.0173
+liveness:0.428
+valence:0.385
+tempo:108.115

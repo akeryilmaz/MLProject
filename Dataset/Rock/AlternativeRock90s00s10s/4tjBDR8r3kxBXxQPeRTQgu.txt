@@ -1,0 +1,12 @@
+name:Learn to Fly
+release_year:1999
+danceability:0.459
+energy:0.925
+loudness:-4.247
+mode:1
+speechiness:0.045
+acousticness:1.63e-05
+instrumentalness:9.2e-06
+liveness:0.256
+valence:0.515
+tempo:135.994

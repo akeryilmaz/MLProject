@@ -1,0 +1,12 @@
+name:Terminal Illusion (feat. Mark Tornillo)
+release_year:2018
+danceability:0.52
+energy:0.993
+loudness:-4.634
+mode:1
+speechiness:0.0819
+acousticness:8.1e-05
+instrumentalness:0.311
+liveness:0.32
+valence:0.286
+tempo:129.981

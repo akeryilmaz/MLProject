@@ -1,0 +1,12 @@
+name:Take It
+release_year:2018
+danceability:0.851
+energy:0.74
+loudness:-6.126
+mode:1
+speechiness:0.0377
+acousticness:0.0252
+instrumentalness:0.243
+liveness:0.111
+valence:0.23
+tempo:123.037

@@ -1,0 +1,12 @@
+name:Fade In To You
+release_year:2018
+danceability:0.816
+energy:0.437
+loudness:-14.903
+mode:0
+speechiness:0.139
+acousticness:0.0327
+instrumentalness:0.775
+liveness:0.112
+valence:0.111
+tempo:124.023

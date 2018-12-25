@@ -1,0 +1,12 @@
+name:For the Win
+release_year:2018
+danceability:0.697
+energy:0.349
+loudness:-11.205
+mode:1
+speechiness:0.361
+acousticness:0.038
+instrumentalness:0.00688
+liveness:0.121
+valence:0.287
+tempo:160.053

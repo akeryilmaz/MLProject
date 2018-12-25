@@ -1,0 +1,12 @@
+name:Cool Struttin'
+release_year:1958
+danceability:0.58
+energy:0.48
+loudness:-7.682
+mode:0
+speechiness:0.0339
+acousticness:0.837
+instrumentalness:0.00432
+liveness:0.171
+valence:0.48
+tempo:108.892

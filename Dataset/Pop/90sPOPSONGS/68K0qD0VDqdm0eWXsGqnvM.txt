@@ -1,0 +1,12 @@
+name:I Knew I Loved You
+release_year:2005
+danceability:0.556
+energy:0.517
+loudness:-8.769
+mode:1
+speechiness:0.0287
+acousticness:0.307
+instrumentalness:0.00115
+liveness:0.077
+valence:0.779
+tempo:169.938

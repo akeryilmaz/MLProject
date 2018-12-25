@@ -1,0 +1,12 @@
+name:Teriyaki
+release_year:2018
+danceability:0.805
+energy:0.623
+loudness:-11.26
+mode:1
+speechiness:0.178
+acousticness:0.0343
+instrumentalness:0.919
+liveness:0.118
+valence:0.197
+tempo:120.01

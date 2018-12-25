@@ -1,0 +1,12 @@
+name:Piano Concerto in G Major, M. 83: 2. Adagio assai
+release_year:1998
+danceability:0.128
+energy:0.0159
+loudness:-34.595
+mode:1
+speechiness:0.0399
+acousticness:0.976
+instrumentalness:0.949
+liveness:0.0874
+valence:0.0373
+tempo:74.524

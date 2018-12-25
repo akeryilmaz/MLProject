@@ -1,0 +1,12 @@
+name:Avalanche
+release_year:2014
+danceability:0.551
+energy:0.986
+loudness:-4.217
+mode:0
+speechiness:0.154
+acousticness:8.62e-05
+instrumentalness:9.76e-06
+liveness:0.364
+valence:0.125
+tempo:115.145

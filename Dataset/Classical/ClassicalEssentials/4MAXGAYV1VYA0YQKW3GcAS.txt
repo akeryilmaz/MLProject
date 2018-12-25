@@ -1,0 +1,12 @@
+name:Concerto In G Major TWV 40:201, For 4 Violins Without Basso Continuo: 1. Largo e staccato
+release_year:2002
+danceability:0.314
+energy:0.00627
+loudness:-24.406
+mode:1
+speechiness:0.047
+acousticness:0.952
+instrumentalness:0.0671
+liveness:0.0701
+valence:0.326
+tempo:109.756

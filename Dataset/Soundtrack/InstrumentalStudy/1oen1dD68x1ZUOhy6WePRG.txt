@@ -1,0 +1,12 @@
+name:Worlds Apart
+release_year:2018
+danceability:0.466
+energy:0.0461
+loudness:-24.546
+mode:0
+speechiness:0.0594
+acousticness:0.992
+instrumentalness:0.966
+liveness:0.113
+valence:0.229
+tempo:101.829

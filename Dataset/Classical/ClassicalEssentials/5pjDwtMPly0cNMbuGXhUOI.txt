@@ -1,0 +1,12 @@
+name:Cello Concerto in E Minor, Op.85 (1988 Digital Remaster): I. Adagio - Moderato
+release_year:1988
+danceability:0.148
+energy:0.0722
+loudness:-25.217
+mode:0
+speechiness:0.0427
+acousticness:0.944
+instrumentalness:0.148
+liveness:0.115
+valence:0.0467
+tempo:87.882

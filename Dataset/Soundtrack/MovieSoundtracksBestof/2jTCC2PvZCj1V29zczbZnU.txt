@@ -1,0 +1,12 @@
+name:Perfume: The Story of a Murderer: Meeting Laura
+release_year:2006
+danceability:0.16
+energy:0.338
+loudness:-17.088
+mode:1
+speechiness:0.0369
+acousticness:0.952
+instrumentalness:0.91
+liveness:0.0969
+valence:0.0574
+tempo:58.095

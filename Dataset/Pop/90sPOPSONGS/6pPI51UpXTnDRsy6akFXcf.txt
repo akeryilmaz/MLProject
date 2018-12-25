@@ -1,0 +1,12 @@
+name:Winter Song
+release_year:2009
+danceability:0.576
+energy:0.264
+loudness:-11.248
+mode:1
+speechiness:0.0325
+acousticness:0.871
+instrumentalness:1.13e-05
+liveness:0.126
+valence:0.171
+tempo:80.993

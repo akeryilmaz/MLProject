@@ -1,0 +1,12 @@
+name:Storm
+release_year:2018
+danceability:0.654
+energy:0.41
+loudness:-10.445
+mode:1
+speechiness:0.0899
+acousticness:0.0642
+instrumentalness:0.000479
+liveness:0.193
+valence:0.103
+tempo:121.107

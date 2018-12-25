@@ -1,0 +1,12 @@
+name:Waltz in a Flat Major Op.39/15
+release_year:2009
+danceability:0.443
+energy:0.0282
+loudness:-28.086
+mode:1
+speechiness:0.068
+acousticness:0.995
+instrumentalness:0.902
+liveness:0.105
+valence:0.0754
+tempo:118.317

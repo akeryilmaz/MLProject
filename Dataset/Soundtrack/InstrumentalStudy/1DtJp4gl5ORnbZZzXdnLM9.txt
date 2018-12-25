@@ -1,0 +1,12 @@
+name:Anima
+release_year:2018
+danceability:0.435
+energy:0.038
+loudness:-23.587
+mode:1
+speechiness:0.0475
+acousticness:0.991
+instrumentalness:0.963
+liveness:0.1
+valence:0.21
+tempo:100.893

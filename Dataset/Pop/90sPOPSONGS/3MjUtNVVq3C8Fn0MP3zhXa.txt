@@ -1,0 +1,12 @@
+name:...Baby One More Time
+release_year:1999
+danceability:0.759
+energy:0.699
+loudness:-5.745
+mode:0
+speechiness:0.0307
+acousticness:0.202
+instrumentalness:0.000131
+liveness:0.443
+valence:0.907
+tempo:92.96

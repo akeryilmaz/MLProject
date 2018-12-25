@@ -1,0 +1,12 @@
+name:Come Out And Play
+release_year:1985
+danceability:0.404
+energy:0.916
+loudness:-12.699
+mode:0
+speechiness:0.0982
+acousticness:0.000388
+instrumentalness:2.51e-06
+liveness:0.639
+valence:0.176
+tempo:157.521

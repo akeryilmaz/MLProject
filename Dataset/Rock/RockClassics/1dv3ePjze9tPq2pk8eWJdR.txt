@@ -1,0 +1,12 @@
+name:Gimme Shelter
+release_year:1969
+danceability:0.63
+energy:0.616
+loudness:-8.128
+mode:0
+speechiness:0.0309
+acousticness:0.463
+instrumentalness:0.0408
+liveness:0.173
+valence:0.509
+tempo:118.65

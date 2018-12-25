@@ -1,0 +1,12 @@
+name:Search For Peace
+release_year:1967
+danceability:0.456
+energy:0.222
+loudness:-16.879
+mode:1
+speechiness:0.0354
+acousticness:0.938
+instrumentalness:0.806
+liveness:0.24
+valence:0.15
+tempo:112.725

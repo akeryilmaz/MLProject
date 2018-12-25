@@ -1,0 +1,12 @@
+name:Panic Attack
+release_year:2005
+danceability:0.493
+energy:0.978
+loudness:-4.578
+mode:1
+speechiness:0.123
+acousticness:1.35e-05
+instrumentalness:0.00216
+liveness:0.181
+valence:0.21
+tempo:125.96

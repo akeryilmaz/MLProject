@@ -1,0 +1,12 @@
+name:Magnificat - Song of Mary
+release_year:2017
+danceability:0.157
+energy:0.0114
+loudness:-27.428
+mode:1
+speechiness:0.0469
+acousticness:0.98
+instrumentalness:0.081
+liveness:0.0655
+valence:0.0304
+tempo:135.001

@@ -1,0 +1,12 @@
+name:I Don't Want to Miss a Thing
+release_year:1974
+danceability:0.383
+energy:0.662
+loudness:-5.162
+mode:1
+speechiness:0.0333
+acousticness:0.165
+instrumentalness:0
+liveness:0.248
+valence:0.138
+tempo:121.154

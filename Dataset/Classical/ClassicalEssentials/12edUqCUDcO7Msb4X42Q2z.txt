@@ -1,0 +1,12 @@
+name:Roman nepi tancok (Romanian Folk Dances), BB 68: Romanian Folk Dances, Sz 56
+release_year:1988
+danceability:0.319
+energy:0.158
+loudness:-21.696
+mode:1
+speechiness:0.0585
+acousticness:0.991
+instrumentalness:0.882
+liveness:0.164
+valence:0.163
+tempo:81.164

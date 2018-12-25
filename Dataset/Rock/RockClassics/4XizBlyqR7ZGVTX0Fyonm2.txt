@@ -1,0 +1,12 @@
+name:Today - Remastered
+release_year:1993
+danceability:0.456
+energy:0.826
+loudness:-7.611
+mode:1
+speechiness:0.0268
+acousticness:3.35e-05
+instrumentalness:0.57
+liveness:0.0548
+valence:0.415
+tempo:82.539

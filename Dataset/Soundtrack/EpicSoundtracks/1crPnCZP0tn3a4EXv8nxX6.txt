@@ -1,0 +1,12 @@
+name:Icarus
+release_year:2011
+danceability:0.246
+energy:0.678
+loudness:-12.802
+mode:0
+speechiness:0.0413
+acousticness:0.0175
+instrumentalness:0.953
+liveness:0.0897
+valence:0.0785
+tempo:121.034

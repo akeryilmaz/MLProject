@@ -1,0 +1,12 @@
+name:Johnny B. Goode
+release_year:1988
+danceability:0.333
+energy:0.944
+loudness:-4.842
+mode:1
+speechiness:0.0714
+acousticness:0.181
+instrumentalness:0.000664
+liveness:0.349
+valence:0.398
+tempo:156.226

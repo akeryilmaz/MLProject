@@ -1,0 +1,12 @@
+name:The Lamb
+release_year:2016
+danceability:0.0829
+energy:0.0107
+loudness:-39.295
+mode:0
+speechiness:0.0435
+acousticness:0.983
+instrumentalness:0.106
+liveness:0.0607
+valence:0.0328
+tempo:83.142

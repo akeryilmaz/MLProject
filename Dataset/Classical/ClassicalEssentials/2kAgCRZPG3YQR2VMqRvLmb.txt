@@ -1,0 +1,12 @@
+name:The Lark Ascending
+release_year:2013
+danceability:0.0811
+energy:0.0122
+loudness:-32.654
+mode:0
+speechiness:0.0511
+acousticness:0.902
+instrumentalness:0.308
+liveness:0.0648
+valence:0.0384
+tempo:74.554

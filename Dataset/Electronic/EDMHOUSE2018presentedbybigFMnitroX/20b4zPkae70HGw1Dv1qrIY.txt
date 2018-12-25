@@ -1,0 +1,12 @@
+name:Tell Me The Truth
+release_year:2018
+danceability:0.727
+energy:0.962
+loudness:-3.633
+mode:1
+speechiness:0.0508
+acousticness:0.000465
+instrumentalness:0.504
+liveness:0.0638
+valence:0.213
+tempo:128.031

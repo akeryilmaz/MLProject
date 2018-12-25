@@ -1,0 +1,12 @@
+name:Never Surrender
+release_year:1981
+danceability:0.501
+energy:0.923
+loudness:-5.009
+mode:1
+speechiness:0.0918
+acousticness:0.00755
+instrumentalness:0.00012
+liveness:0.305
+valence:0.546
+tempo:91.028

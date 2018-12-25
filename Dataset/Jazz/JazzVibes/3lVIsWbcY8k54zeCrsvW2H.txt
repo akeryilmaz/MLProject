@@ -1,0 +1,12 @@
+name:Downtown Downpour
+release_year:2018
+danceability:0.699
+energy:0.24
+loudness:-10.174
+mode:1
+speechiness:0.412
+acousticness:0.487
+instrumentalness:0.135
+liveness:0.282
+valence:0.648
+tempo:170.129

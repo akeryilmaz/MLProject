@@ -1,0 +1,12 @@
+name:Hang Up Your Hang Ups (The Only One) [feat. Kim English] - CamelPhat Remix, Edit
+release_year:2018
+danceability:0.469
+energy:0.976
+loudness:-5.673
+mode:0
+speechiness:0.0491
+acousticness:0.00338
+instrumentalness:0.644
+liveness:0.277
+valence:0.527
+tempo:125.03

@@ -1,0 +1,12 @@
+name:Tiny Shocks - Invasion Mix
+release_year:2018
+danceability:0.718
+energy:0.517
+loudness:-11.779
+mode:1
+speechiness:0.0445
+acousticness:0.0528
+instrumentalness:0.911
+liveness:0.112
+valence:0.333
+tempo:134.976

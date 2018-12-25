@@ -1,0 +1,12 @@
+name:Minuet
+release_year:2009
+danceability:0.441
+energy:0.0277
+loudness:-29.863
+mode:1
+speechiness:0.0427
+acousticness:0.912
+instrumentalness:0.441
+liveness:0.118
+valence:0.507
+tempo:105.228

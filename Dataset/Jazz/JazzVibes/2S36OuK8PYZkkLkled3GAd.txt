@@ -1,0 +1,12 @@
+name:swag on
+release_year:2018
+danceability:0.864
+energy:0.218
+loudness:-12.574
+mode:0
+speechiness:0.237
+acousticness:0.613
+instrumentalness:0.724
+liveness:0.0857
+valence:0.557
+tempo:90.996

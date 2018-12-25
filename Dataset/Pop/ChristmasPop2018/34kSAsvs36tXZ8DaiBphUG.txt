@@ -1,0 +1,12 @@
+name:Last Christmas
+release_year:2015
+danceability:0.723
+energy:0.649
+loudness:-4.959
+mode:1
+speechiness:0.0322
+acousticness:0.375
+instrumentalness:5.74e-05
+liveness:0.367
+valence:0.547
+tempo:105.995

@@ -1,0 +1,12 @@
+name:Hexenhammer
+release_year:2018
+danceability:0.439
+energy:0.966
+loudness:-3.94
+mode:1
+speechiness:0.0611
+acousticness:0.000411
+instrumentalness:0.042
+liveness:0.252
+valence:0.603
+tempo:165.161

@@ -1,0 +1,12 @@
+name:Pa-Umaga
+release_year:2018
+danceability:0.895
+energy:0.506
+loudness:-9.08
+mode:1
+speechiness:0.0473
+acousticness:0.173
+instrumentalness:0.00046
+liveness:0.104
+valence:0.597
+tempo:130.029

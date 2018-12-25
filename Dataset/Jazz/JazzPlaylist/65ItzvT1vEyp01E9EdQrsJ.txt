@@ -1,0 +1,12 @@
+name:Rhumblues
+release_year:2016
+danceability:0.598
+energy:0.168
+loudness:-17.469
+mode:1
+speechiness:0.0592
+acousticness:0.968
+instrumentalness:0.882
+liveness:0.118
+valence:0.721
+tempo:77.075

@@ -1,0 +1,12 @@
+name:Grey Mornings
+release_year:2018
+danceability:0.672
+energy:0.449
+loudness:-7.289
+mode:1
+speechiness:0.0373
+acousticness:0.26
+instrumentalness:0.622
+liveness:0.868
+valence:0.366
+tempo:80.004

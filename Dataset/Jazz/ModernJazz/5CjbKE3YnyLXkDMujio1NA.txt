@@ -1,0 +1,12 @@
+name:Song Of Yearning
+release_year:2003
+danceability:0.431
+energy:0.0368
+loudness:-26.244
+mode:0
+speechiness:0.0355
+acousticness:0.936
+instrumentalness:0.737
+liveness:0.116
+valence:0.0784
+tempo:106.265

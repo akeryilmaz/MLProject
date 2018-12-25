@@ -1,0 +1,12 @@
+name:GOSHA
+release_year:2018
+danceability:0.819
+energy:0.462
+loudness:-9.638
+mode:0
+speechiness:0.485
+acousticness:0.814
+instrumentalness:1.62e-05
+liveness:0.318
+valence:0.5
+tempo:159.873

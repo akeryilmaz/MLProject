@@ -1,0 +1,12 @@
+name:Because of You (Acoustic)
+release_year:2013
+danceability:0.716
+energy:0.39
+loudness:-6.529
+mode:1
+speechiness:0.0331
+acousticness:0.766
+instrumentalness:0
+liveness:0.132
+valence:0.756
+tempo:104.908

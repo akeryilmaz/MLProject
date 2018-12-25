@@ -1,0 +1,12 @@
+name:Redemption
+release_year:2012
+danceability:0.316
+energy:0.593
+loudness:-9.337
+mode:1
+speechiness:0.0381
+acousticness:0.226
+instrumentalness:0.896
+liveness:0.0994
+valence:0.359
+tempo:79.737

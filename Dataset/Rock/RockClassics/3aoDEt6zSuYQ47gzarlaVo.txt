@@ -1,0 +1,12 @@
+name:Money - 2011 Remastered Version
+release_year:1973
+danceability:0.469
+energy:0.537
+loudness:-10.421
+mode:1
+speechiness:0.152
+acousticness:0.0241
+instrumentalness:0.00201
+liveness:0.269
+valence:0.783
+tempo:124.193

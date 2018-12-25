@@ -1,0 +1,12 @@
+name:Symphony Of Destruction
+release_year:1992
+danceability:0.61
+energy:0.891
+loudness:-5.452
+mode:0
+speechiness:0.0587
+acousticness:0.000805
+instrumentalness:0.0928
+liveness:0.0657
+valence:0.51
+tempo:139.903

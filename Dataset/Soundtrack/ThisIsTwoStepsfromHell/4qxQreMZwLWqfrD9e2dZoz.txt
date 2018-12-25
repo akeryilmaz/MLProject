@@ -1,0 +1,12 @@
+name:To Glory
+release_year:2010
+danceability:0.36
+energy:0.918
+loudness:-8.996
+mode:1
+speechiness:0.109
+acousticness:0.022
+instrumentalness:0.92
+liveness:0.274
+valence:0.289
+tempo:104.976

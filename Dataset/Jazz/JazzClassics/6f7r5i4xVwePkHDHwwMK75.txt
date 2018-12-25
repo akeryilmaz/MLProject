@@ -1,0 +1,12 @@
+name:A Day In The Life
+release_year:2000
+danceability:0.476
+energy:0.251
+loudness:-13.854
+mode:0
+speechiness:0.0278
+acousticness:0.769
+instrumentalness:0.774
+liveness:0.0637
+valence:0.37
+tempo:98.833

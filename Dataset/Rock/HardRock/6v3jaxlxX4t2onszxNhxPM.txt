@@ -1,0 +1,12 @@
+name:Execution Thirst
+release_year:2018
+danceability:0.393
+energy:0.904
+loudness:-6.991
+mode:1
+speechiness:0.0533
+acousticness:2.9e-05
+instrumentalness:0.0994
+liveness:0.276
+valence:0.333
+tempo:162.871

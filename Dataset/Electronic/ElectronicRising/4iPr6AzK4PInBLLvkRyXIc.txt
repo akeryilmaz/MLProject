@@ -1,0 +1,12 @@
+name:I Got To Eat - Original Mix
+release_year:2018
+danceability:0.793
+energy:0.941
+loudness:-7.065
+mode:1
+speechiness:0.0808
+acousticness:0.000168
+instrumentalness:0.667
+liveness:0.0619
+valence:0.451
+tempo:122.996

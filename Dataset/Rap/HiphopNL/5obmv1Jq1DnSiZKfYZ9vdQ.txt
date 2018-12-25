@@ -1,0 +1,12 @@
+name:Bossen
+release_year:2018
+danceability:0.906
+energy:0.706
+loudness:-6.458
+mode:0
+speechiness:0.196
+acousticness:0.195
+instrumentalness:8.79e-05
+liveness:0.0561
+valence:0.679
+tempo:98.026

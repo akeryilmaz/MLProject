@@ -1,0 +1,12 @@
+name:Low Noise Universum
+release_year:2018
+danceability:0.424
+energy:0.12
+loudness:-18.808
+mode:1
+speechiness:0.0409
+acousticness:0.654
+instrumentalness:0.94
+liveness:0.137
+valence:0.336
+tempo:71.642

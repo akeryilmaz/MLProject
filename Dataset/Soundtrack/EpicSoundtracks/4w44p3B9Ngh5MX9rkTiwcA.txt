@@ -1,0 +1,12 @@
+name:Libertine (tech mix)
+release_year:2010
+danceability:0.407
+energy:0.683
+loudness:-10.886
+mode:0
+speechiness:0.0496
+acousticness:0.0461
+instrumentalness:0.943
+liveness:0.0803
+valence:0.231
+tempo:74.964

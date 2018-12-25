@@ -1,0 +1,12 @@
+name:Take A Look Around
+release_year:2000
+danceability:0.425
+energy:0.852
+loudness:-5.607
+mode:1
+speechiness:0.046
+acousticness:0.0175
+instrumentalness:0.306
+liveness:0.0935
+valence:0.512
+tempo:101.968

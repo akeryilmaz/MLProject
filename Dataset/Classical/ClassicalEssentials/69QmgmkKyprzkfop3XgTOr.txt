@@ -1,0 +1,12 @@
+name:Music For 18 Musicians
+release_year:1978
+danceability:0.508
+energy:0.536
+loudness:-14.818
+mode:1
+speechiness:0.0449
+acousticness:0.982
+instrumentalness:0.921
+liveness:0.0835
+valence:0.375
+tempo:106.567

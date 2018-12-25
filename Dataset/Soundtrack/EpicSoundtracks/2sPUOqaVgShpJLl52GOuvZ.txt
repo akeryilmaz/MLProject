@@ -1,0 +1,12 @@
+name:The Final Zepp
+release_year:2010
+danceability:0.292
+energy:0.479
+loudness:-12.095
+mode:0
+speechiness:0.0285
+acousticness:0.0232
+instrumentalness:0.917
+liveness:0.107
+valence:0.398
+tempo:138.835

@@ -1,0 +1,12 @@
+name:You Only Want Me
+release_year:2018
+danceability:0.732
+energy:0.938
+loudness:-7.418
+mode:1
+speechiness:0.0773
+acousticness:0.00248
+instrumentalness:0.885
+liveness:0.496
+valence:0.171
+tempo:125.006

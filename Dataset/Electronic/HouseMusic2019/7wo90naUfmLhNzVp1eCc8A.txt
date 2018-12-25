@@ -1,0 +1,12 @@
+name:Is It Really Love
+release_year:2018
+danceability:0.657
+energy:0.956
+loudness:-3.191
+mode:0
+speechiness:0.0449
+acousticness:0.0707
+instrumentalness:3.36e-06
+liveness:0.412
+valence:0.297
+tempo:124.951

@@ -1,0 +1,12 @@
+name:Wild Heart
+release_year:2017
+danceability:0.367
+energy:0.464
+loudness:-9.157
+mode:1
+speechiness:0.0393
+acousticness:0.206
+instrumentalness:0.939
+liveness:0.0719
+valence:0.093
+tempo:120.011

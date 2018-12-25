@@ -1,0 +1,12 @@
+name:Cast Away End Credits
+release_year:2001
+danceability:0.0981
+energy:0.0743
+loudness:-26.721
+mode:1
+speechiness:0.0573
+acousticness:0.883
+instrumentalness:0.909
+liveness:0.0483
+valence:0.0682
+tempo:89.732

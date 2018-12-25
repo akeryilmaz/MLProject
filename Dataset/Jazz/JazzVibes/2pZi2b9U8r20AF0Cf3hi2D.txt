@@ -1,0 +1,12 @@
+name:thinking of you
+release_year:2018
+danceability:0.797
+energy:0.0832
+loudness:-12.673
+mode:1
+speechiness:0.203
+acousticness:0.484
+instrumentalness:0.81
+liveness:0.239
+valence:0.51
+tempo:160.048

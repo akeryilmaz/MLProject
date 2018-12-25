@@ -1,0 +1,12 @@
+name:Aftermath
+release_year:1999
+danceability:0.19
+energy:0.173
+loudness:-13.711
+mode:1
+speechiness:0.0327
+acousticness:0.905
+instrumentalness:0.977
+liveness:0.191
+valence:0.039
+tempo:81.692

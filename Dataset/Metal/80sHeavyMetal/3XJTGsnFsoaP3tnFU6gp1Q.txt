@@ -1,0 +1,12 @@
+name:10.000 Lovers (In One)
+release_year:1987
+danceability:0.45
+energy:0.795
+loudness:-11.474
+mode:1
+speechiness:0.0879
+acousticness:0.068
+instrumentalness:1.61e-06
+liveness:0.644
+valence:0.487
+tempo:108.251

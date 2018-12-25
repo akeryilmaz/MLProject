@@ -1,0 +1,12 @@
+name:Galactic
+release_year:2018
+danceability:0.787
+energy:0.732
+loudness:-10.183
+mode:1
+speechiness:0.0485
+acousticness:0.00201
+instrumentalness:0.888
+liveness:0.126
+valence:0.0621
+tempo:123.989

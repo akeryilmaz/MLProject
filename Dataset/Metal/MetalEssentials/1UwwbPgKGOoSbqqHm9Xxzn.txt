@@ -1,0 +1,12 @@
+name:Jumpdafuckup
+release_year:2000
+danceability:0.598
+energy:0.954
+loudness:-4.86
+mode:1
+speechiness:0.0801
+acousticness:0.00951
+instrumentalness:2.86e-05
+liveness:0.127
+valence:0.235
+tempo:100.98

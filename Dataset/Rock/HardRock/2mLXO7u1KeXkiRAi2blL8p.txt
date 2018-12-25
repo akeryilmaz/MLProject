@@ -1,0 +1,12 @@
+name:The Rivers Lullaby
+release_year:2018
+danceability:0.298
+energy:0.841
+loudness:-8.267
+mode:0
+speechiness:0.0453
+acousticness:0.0123
+instrumentalness:0.577
+liveness:0.207
+valence:0.26
+tempo:150.022

@@ -1,0 +1,12 @@
+name:Woozle
+release_year:2018
+danceability:0.811
+energy:0.794
+loudness:-8.136
+mode:1
+speechiness:0.0569
+acousticness:0.000278
+instrumentalness:0.847
+liveness:0.11
+valence:0.443
+tempo:123.993

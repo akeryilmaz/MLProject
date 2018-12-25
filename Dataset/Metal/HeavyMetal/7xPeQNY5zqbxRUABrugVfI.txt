@@ -1,0 +1,12 @@
+name:Crossroads to Conspiracy
+release_year:2018
+danceability:0.471
+energy:0.99
+loudness:-4.513
+mode:1
+speechiness:0.0842
+acousticness:2.99e-05
+instrumentalness:0.000285
+liveness:0.0843
+valence:0.262
+tempo:101.523

@@ -1,0 +1,12 @@
+name:Rock You Like a Hurricane
+release_year:2008
+danceability:0.414
+energy:0.971
+loudness:-3.386
+mode:0
+speechiness:0.104
+acousticness:0.00115
+instrumentalness:0.00109
+liveness:0.3
+valence:0.504
+tempo:127.009

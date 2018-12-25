@@ -1,0 +1,12 @@
+name:Rebirth
+release_year:2018
+danceability:0.579
+energy:0.592
+loudness:-9.322
+mode:1
+speechiness:0.0337
+acousticness:0.00613
+instrumentalness:0.918
+liveness:0.18
+valence:0.232
+tempo:120.009

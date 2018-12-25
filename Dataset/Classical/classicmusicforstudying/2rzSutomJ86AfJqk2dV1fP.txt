@@ -1,0 +1,12 @@
+name:Le carnaval des animaux (The Carnival of the Animals): XIII. Le cygne (The Swan)
+release_year:2011
+danceability:0.0782
+energy:0.0256
+loudness:-29.614
+mode:1
+speechiness:0.0457
+acousticness:0.948
+instrumentalness:0.867
+liveness:0.0818
+valence:0.0396
+tempo:176.447

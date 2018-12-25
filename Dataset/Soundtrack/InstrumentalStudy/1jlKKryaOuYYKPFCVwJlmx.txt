@@ -1,0 +1,12 @@
+name:Parc Monceau
+release_year:2018
+danceability:0.386
+energy:0.0545
+loudness:-25.387
+mode:0
+speechiness:0.0363
+acousticness:0.981
+instrumentalness:0.913
+liveness:0.0974
+valence:0.148
+tempo:68.934

@@ -1,0 +1,12 @@
+name:Adagio For Strings Op.11
+release_year:2009
+danceability:0.167
+energy:0.106
+loudness:-16.262
+mode:0
+speechiness:0.0421
+acousticness:0.887
+instrumentalness:0.751
+liveness:0.101
+valence:0.0377
+tempo:111.83

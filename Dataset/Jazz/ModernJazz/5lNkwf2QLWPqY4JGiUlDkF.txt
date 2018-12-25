@@ -1,0 +1,12 @@
+name:Yonatan
+release_year:2008
+danceability:0.334
+energy:0.196
+loudness:-21.179
+mode:1
+speechiness:0.0368
+acousticness:0.882
+instrumentalness:0.834
+liveness:0.0926
+valence:0.169
+tempo:98.751

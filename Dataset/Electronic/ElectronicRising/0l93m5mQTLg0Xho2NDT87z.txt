@@ -1,0 +1,12 @@
+name:Yassah
+release_year:2018
+danceability:0.763
+energy:0.806
+loudness:-7.494
+mode:1
+speechiness:0.0523
+acousticness:0.000443
+instrumentalness:0.877
+liveness:0.0544
+valence:0.174
+tempo:121.004

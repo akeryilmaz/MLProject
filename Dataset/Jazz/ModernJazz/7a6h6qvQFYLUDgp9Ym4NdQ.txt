@@ -1,0 +1,12 @@
+name:Night Stars
+release_year:2010
+danceability:0.372
+energy:0.289
+loudness:-21.074
+mode:1
+speechiness:0.0291
+acousticness:0.774
+instrumentalness:0.734
+liveness:0.232
+valence:0.452
+tempo:141.211

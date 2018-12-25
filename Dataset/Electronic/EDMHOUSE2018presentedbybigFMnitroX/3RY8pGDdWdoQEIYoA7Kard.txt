@@ -1,0 +1,12 @@
+name:One More Time
+release_year:2018
+danceability:0.733
+energy:0.699
+loudness:-5.476
+mode:0
+speechiness:0.0374
+acousticness:0.0132
+instrumentalness:1.99e-05
+liveness:0.107
+valence:0.532
+tempo:109.994

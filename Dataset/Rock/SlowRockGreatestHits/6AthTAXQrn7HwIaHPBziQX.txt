@@ -1,0 +1,12 @@
+name:Fade Away
+release_year:2018
+danceability:0.477
+energy:0.956
+loudness:-6.537
+mode:1
+speechiness:0.0944
+acousticness:5.7e-05
+instrumentalness:0.000873
+liveness:0.107
+valence:0.605
+tempo:150.002

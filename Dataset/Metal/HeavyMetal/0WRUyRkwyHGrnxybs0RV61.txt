@@ -1,0 +1,12 @@
+name:Revealing the Darkness
+release_year:2018
+danceability:0.573
+energy:0.979
+loudness:-3.509
+mode:0
+speechiness:0.0871
+acousticness:8.56e-05
+instrumentalness:0.000221
+liveness:0.242
+valence:0.271
+tempo:122.023

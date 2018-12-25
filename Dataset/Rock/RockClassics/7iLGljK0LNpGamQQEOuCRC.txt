@@ -1,0 +1,12 @@
+name:Won't Get Fooled Again - Original Album Version
+release_year:1971
+danceability:0.686
+energy:0.92
+loudness:-6.231
+mode:1
+speechiness:0.0566
+acousticness:0.301
+instrumentalness:0.27
+liveness:0.0807
+valence:0.225
+tempo:135.027

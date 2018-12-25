@@ -1,0 +1,12 @@
+name:Pennies from Heaven
+release_year:2016
+danceability:0.365
+energy:0.532
+loudness:-12.446
+mode:1
+speechiness:0.0579
+acousticness:0.532
+instrumentalness:3.37e-06
+liveness:0.173
+valence:0.849
+tempo:196.426

@@ -1,0 +1,12 @@
+name:First Date
+release_year:2006
+danceability:0.639
+energy:0.851
+loudness:-3.885
+mode:0
+speechiness:0.0555
+acousticness:0.000454
+instrumentalness:8.86e-06
+liveness:0.12
+valence:0.874
+tempo:149.97

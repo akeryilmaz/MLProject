@@ -1,0 +1,12 @@
+name:Silent Night
+release_year:2012
+danceability:0.54
+energy:0.977
+loudness:-4.985
+mode:0
+speechiness:0.0769
+acousticness:0.000229
+instrumentalness:0.0036
+liveness:0.184
+valence:0.168
+tempo:110.026

@@ -1,0 +1,12 @@
+name:flow on
+release_year:2017
+danceability:0.663
+energy:0.535
+loudness:-10.587
+mode:0
+speechiness:0.371
+acousticness:0.724
+instrumentalness:0.929
+liveness:0.113
+valence:0.599
+tempo:91.343

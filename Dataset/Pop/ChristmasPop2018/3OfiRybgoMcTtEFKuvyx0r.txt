@@ -1,0 +1,12 @@
+name:I'll Be Home For Christmas
+release_year:2016
+danceability:0.61
+energy:0.495
+loudness:-6.906
+mode:1
+speechiness:0.0308
+acousticness:0.0981
+instrumentalness:0
+liveness:0.121
+valence:0.479
+tempo:112.961

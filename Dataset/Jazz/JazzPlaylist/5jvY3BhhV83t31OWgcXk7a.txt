@@ -1,0 +1,12 @@
+name:Pennsylvania 6-5000
+release_year:2006
+danceability:0.684
+energy:0.368
+loudness:-10.18
+mode:1
+speechiness:0.0846
+acousticness:0.898
+instrumentalness:0.757
+liveness:0.163
+valence:0.762
+tempo:144.847

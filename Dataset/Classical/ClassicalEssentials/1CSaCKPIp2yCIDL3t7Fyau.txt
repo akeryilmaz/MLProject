@@ -1,0 +1,12 @@
+name:Barber: Adagio for Strings
+release_year:2010
+danceability:0.102
+energy:0.0733
+loudness:-24.133
+mode:0
+speechiness:0.0488
+acousticness:0.974
+instrumentalness:0.859
+liveness:0.28
+valence:0.0308
+tempo:73.954

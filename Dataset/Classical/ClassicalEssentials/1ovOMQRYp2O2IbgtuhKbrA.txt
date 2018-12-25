@@ -1,0 +1,12 @@
+name:Symphony No.9 In E Minor, Op.95, B.178 - "From The New World": 4. Allegro con fuoco
+release_year:1995
+danceability:0.239
+energy:0.134
+loudness:-16.519
+mode:0
+speechiness:0.035
+acousticness:0.921
+instrumentalness:0.802
+liveness:0.115
+valence:0.118
+tempo:141.53

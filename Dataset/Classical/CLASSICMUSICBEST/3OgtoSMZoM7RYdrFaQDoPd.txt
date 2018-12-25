@@ -1,0 +1,12 @@
+name:Messiah, HWV 56, Part II: 42. "Hallelujah" (Chorus)
+release_year:2009
+danceability:0.336
+energy:0.326
+loudness:-10.55
+mode:1
+speechiness:0.0282
+acousticness:0.914
+instrumentalness:0.000168
+liveness:0.144
+valence:0.249
+tempo:101.72

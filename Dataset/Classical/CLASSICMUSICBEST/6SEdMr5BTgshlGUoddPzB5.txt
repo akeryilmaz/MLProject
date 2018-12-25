@@ -1,0 +1,12 @@
+name:Piano Sonata No.2 In B Flat Minor Op.35 - Funeral March
+release_year:2009
+danceability:0.6
+energy:0.0285
+loudness:-25.502
+mode:0
+speechiness:0.0639
+acousticness:0.978
+instrumentalness:0.806
+liveness:0.101
+valence:0.293
+tempo:51.197

@@ -1,0 +1,12 @@
+name:The Grace
+release_year:2017
+danceability:0.835
+energy:0.562
+loudness:-6.126
+mode:0
+speechiness:0.0821
+acousticness:0.0941
+instrumentalness:0.0319
+liveness:0.105
+valence:0.67
+tempo:122.991

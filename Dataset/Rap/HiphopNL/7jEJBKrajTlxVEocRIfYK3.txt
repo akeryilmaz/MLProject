@@ -1,0 +1,12 @@
+name:COME THRU
+release_year:2018
+danceability:0.607
+energy:0.58
+loudness:-9.415
+mode:0
+speechiness:0.218
+acousticness:0.27
+instrumentalness:1.07e-05
+liveness:0.108
+valence:0.588
+tempo:95.535

@@ -1,0 +1,12 @@
+name:In A Sentimental Mood
+release_year:1963
+danceability:0.464
+energy:0.305
+loudness:-12.435
+mode:0
+speechiness:0.0316
+acousticness:0.936
+instrumentalness:0.0846
+liveness:0.208
+valence:0.282
+tempo:108.231

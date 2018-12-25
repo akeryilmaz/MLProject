@@ -1,0 +1,12 @@
+name:Looks That Kill - International
+release_year:1983
+danceability:0.483
+energy:0.948
+loudness:-5.781
+mode:1
+speechiness:0.0402
+acousticness:0.00325
+instrumentalness:0.00819
+liveness:0.117
+valence:0.697
+tempo:135.957

@@ -1,0 +1,12 @@
+name:Milhouse
+release_year:2018
+danceability:0.47
+energy:0.685
+loudness:-7.855
+mode:1
+speechiness:0.225
+acousticness:0.000232
+instrumentalness:0.15
+liveness:0.588
+valence:0.353
+tempo:194.011

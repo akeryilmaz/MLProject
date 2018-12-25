@@ -1,0 +1,12 @@
+name:Praat Met Me (feat. Dystinct)
+release_year:2018
+danceability:0.651
+energy:0.723
+loudness:-6.018
+mode:0
+speechiness:0.0737
+acousticness:0.258
+instrumentalness:0.00293
+liveness:0.12
+valence:0.558
+tempo:98.557

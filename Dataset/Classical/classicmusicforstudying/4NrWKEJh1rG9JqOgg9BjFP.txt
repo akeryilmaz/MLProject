@@ -1,0 +1,12 @@
+name:Nocturne for Piano, No. 8 in D flat Major, Op. 27,2
+release_year:2009
+danceability:0.278
+energy:0.0237
+loudness:-29.515
+mode:1
+speechiness:0.038
+acousticness:0.994
+instrumentalness:0.936
+liveness:0.0848
+valence:0.0707
+tempo:71.772

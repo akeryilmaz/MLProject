@@ -1,0 +1,12 @@
+name:Molossus
+release_year:2010
+danceability:0.478
+energy:0.483
+loudness:-16.423
+mode:1
+speechiness:0.051
+acousticness:0.15
+instrumentalness:0.803
+liveness:0.139
+valence:0.0393
+tempo:102.86

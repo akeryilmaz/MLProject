@@ -1,0 +1,12 @@
+name:Stabat Mater (Vivaldi)
+release_year:1995
+danceability:0.201
+energy:0.0779
+loudness:-22.015
+mode:0
+speechiness:0.0467
+acousticness:0.976
+instrumentalness:0.26
+liveness:0.181
+valence:0.037
+tempo:137.907

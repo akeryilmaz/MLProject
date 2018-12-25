@@ -1,0 +1,12 @@
+name:Sonata No. 14 "Moonlight" in C-Sharp Minor", Op. 27 No. 2: I. Adagio sostenuto
+release_year:2007
+danceability:0.184
+energy:0.00527
+loudness:-37.264
+mode:0
+speechiness:0.0432
+acousticness:0.995
+instrumentalness:0.887
+liveness:0.173
+valence:0.151
+tempo:170.612

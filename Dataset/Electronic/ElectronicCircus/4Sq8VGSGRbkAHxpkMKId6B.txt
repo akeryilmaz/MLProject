@@ -1,0 +1,12 @@
+name:Shining - Reinier Zonneveld Filth On Acid Remix
+release_year:2018
+danceability:0.576
+energy:0.639
+loudness:-9.164
+mode:1
+speechiness:0.0397
+acousticness:0.00538
+instrumentalness:0.86
+liveness:0.111
+valence:0.0619
+tempo:132.993

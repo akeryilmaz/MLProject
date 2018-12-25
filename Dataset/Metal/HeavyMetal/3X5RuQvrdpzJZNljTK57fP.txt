@@ -1,0 +1,12 @@
+name:The Last Generation
+release_year:2018
+danceability:0.408
+energy:0.904
+loudness:-5.686
+mode:1
+speechiness:0.0442
+acousticness:0.00204
+instrumentalness:0.00349
+liveness:0.364
+valence:0.253
+tempo:94.994

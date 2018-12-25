@@ -1,0 +1,12 @@
+name:Gnossienne: No. 1
+release_year:2009
+danceability:0.372
+energy:0.00798
+loudness:-28.345
+mode:0
+speechiness:0.0447
+acousticness:0.996
+instrumentalness:0.925
+liveness:0.0983
+valence:0.0784
+tempo:95.141

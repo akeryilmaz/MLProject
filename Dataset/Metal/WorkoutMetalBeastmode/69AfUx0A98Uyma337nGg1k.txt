@@ -1,0 +1,12 @@
+name:Bottled Insanity
+release_year:2017
+danceability:0.456
+energy:0.975
+loudness:-5.374
+mode:1
+speechiness:0.113
+acousticness:3.59e-06
+instrumentalness:0.262
+liveness:0.108
+valence:0.228
+tempo:127.487

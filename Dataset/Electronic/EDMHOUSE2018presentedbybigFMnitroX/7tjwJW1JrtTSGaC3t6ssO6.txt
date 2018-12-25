@@ -1,0 +1,12 @@
+name:101
+release_year:2018
+danceability:0.634
+energy:0.724
+loudness:-7.448
+mode:0
+speechiness:0.0936
+acousticness:0.0569
+instrumentalness:1.4e-06
+liveness:0.0854
+valence:0.443
+tempo:96.141

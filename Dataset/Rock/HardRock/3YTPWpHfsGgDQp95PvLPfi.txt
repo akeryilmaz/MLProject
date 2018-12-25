@@ -1,0 +1,12 @@
+name:Got Me Rockin'
+release_year:2018
+danceability:0.368
+energy:0.91
+loudness:-3.521
+mode:1
+speechiness:0.146
+acousticness:0.00171
+instrumentalness:0.228
+liveness:0.128
+valence:0.613
+tempo:182.582

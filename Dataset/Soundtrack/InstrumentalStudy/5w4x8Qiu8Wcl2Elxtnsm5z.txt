@@ -1,0 +1,12 @@
+name:Dedication - Piano Version
+release_year:2018
+danceability:0.539
+energy:0.0218
+loudness:-23.669
+mode:1
+speechiness:0.0845
+acousticness:0.995
+instrumentalness:0.964
+liveness:0.107
+valence:0.438
+tempo:134.762

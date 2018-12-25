@@ -1,0 +1,12 @@
+name:If I'm Lyin, I'm Flyin
+release_year:2018
+danceability:0.715
+energy:0.617
+loudness:-5.558
+mode:0
+speechiness:0.242
+acousticness:0.1
+instrumentalness:3.62e-06
+liveness:0.186
+valence:0.289
+tempo:176.108

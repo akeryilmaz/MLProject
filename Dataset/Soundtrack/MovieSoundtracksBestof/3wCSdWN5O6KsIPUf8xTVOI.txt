@@ -1,0 +1,12 @@
+name:Night At The Museum
+release_year:2006
+danceability:0.193
+energy:0.275
+loudness:-16.929
+mode:1
+speechiness:0.0354
+acousticness:0.847
+instrumentalness:0.682
+liveness:0.209
+valence:0.0585
+tempo:105.278

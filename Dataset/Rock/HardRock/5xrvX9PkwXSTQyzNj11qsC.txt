@@ -1,0 +1,12 @@
+name:Quake
+release_year:2018
+danceability:0.499
+energy:0.711
+loudness:-5.522
+mode:0
+speechiness:0.0374
+acousticness:0.00116
+instrumentalness:0.00119
+liveness:0.0725
+valence:0.596
+tempo:104.976

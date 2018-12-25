@@ -1,0 +1,12 @@
+name:Keep on Loving You - Remastered
+release_year:1980
+danceability:0.306
+energy:0.722
+loudness:-5.963
+mode:1
+speechiness:0.034
+acousticness:0.0519
+instrumentalness:0
+liveness:0.117
+valence:0.41
+tempo:174.732

@@ -1,0 +1,12 @@
+name:Never Back Down
+release_year:2015
+danceability:0.547
+energy:0.711
+loudness:-6.824
+mode:0
+speechiness:0.0347
+acousticness:0.458
+instrumentalness:0.928
+liveness:0.119
+valence:0.193
+tempo:115.041

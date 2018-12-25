@@ -1,0 +1,12 @@
+name:Lights Out
+release_year:2018
+danceability:0.513
+energy:0.9
+loudness:-6.008
+mode:1
+speechiness:0.0589
+acousticness:0.0179
+instrumentalness:0
+liveness:0.0369
+valence:0.539
+tempo:139.915

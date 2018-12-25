@@ -1,0 +1,12 @@
+name:Show Me
+release_year:2018
+danceability:0.855
+energy:0.609
+loudness:-6.326
+mode:0
+speechiness:0.185
+acousticness:0.774
+instrumentalness:3.82e-05
+liveness:0.216
+valence:0.563
+tempo:108.018

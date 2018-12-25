@@ -1,0 +1,12 @@
+name:Goodbye Pork Pie Hat
+release_year:1959
+danceability:0.356
+energy:0.0937
+loudness:-16.64
+mode:0
+speechiness:0.0353
+acousticness:0.957
+instrumentalness:0.096
+liveness:0.209
+valence:0.278
+tempo:86.669

@@ -1,0 +1,12 @@
+name:Rebel Rebel - 1999 Remastered Version
+release_year:1974
+danceability:0.676
+energy:0.92
+loudness:-7.96
+mode:1
+speechiness:0.0435
+acousticness:0.00101
+instrumentalness:8.65e-06
+liveness:0.248
+valence:0.624
+tempo:126.341

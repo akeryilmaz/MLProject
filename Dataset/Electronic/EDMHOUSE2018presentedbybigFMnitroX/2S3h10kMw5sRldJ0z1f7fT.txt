@@ -1,0 +1,12 @@
+name:Think About It
+release_year:2018
+danceability:0.676
+energy:0.47
+loudness:-11.434
+mode:0
+speechiness:0.0571
+acousticness:0.127
+instrumentalness:0.00312
+liveness:0.117
+valence:0.592
+tempo:149.991

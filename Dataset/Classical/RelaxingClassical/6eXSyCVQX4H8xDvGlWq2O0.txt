@@ -1,0 +1,12 @@
+name:The Four Seasons: 'Winter' [Concerto in F minor op. 8 no.4]: Largo
+release_year:1998
+danceability:0.255
+energy:0.0478
+loudness:-29.99
+mode:1
+speechiness:0.0469
+acousticness:0.227
+instrumentalness:0.000566
+liveness:0.0587
+valence:0.194
+tempo:78.298

@@ -1,0 +1,12 @@
+name:Shattered Dreams
+release_year:2018
+danceability:0.377
+energy:0.506
+loudness:-4.773
+mode:0
+speechiness:0.157
+acousticness:0.00889
+instrumentalness:1.15e-06
+liveness:0.482
+valence:0.787
+tempo:145.254

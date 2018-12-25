@@ -1,0 +1,12 @@
+name:They Don't Care About Us (feat. Maverick Sabre & YEBBA)
+release_year:2018
+danceability:0.424
+energy:0.482
+loudness:-7.293
+mode:1
+speechiness:0.0676
+acousticness:0.0454
+instrumentalness:1.7e-05
+liveness:0.067
+valence:0.406
+tempo:180.034

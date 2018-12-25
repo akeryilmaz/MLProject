@@ -1,0 +1,12 @@
+name:In My Head
+release_year:2018
+danceability:0.499
+energy:0.181
+loudness:-15.359
+mode:0
+speechiness:0.0429
+acousticness:0.745
+instrumentalness:0.00123
+liveness:0.106
+valence:0.0747
+tempo:111.956

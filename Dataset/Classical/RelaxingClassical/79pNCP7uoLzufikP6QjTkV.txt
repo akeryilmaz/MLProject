@@ -1,0 +1,12 @@
+name:Divertimento I, K.136: Andante
+release_year:1998
+danceability:0.218
+energy:0.0474
+loudness:-27.844
+mode:1
+speechiness:0.0403
+acousticness:0.926
+instrumentalness:0.785
+liveness:0.138
+valence:0.152
+tempo:113.551

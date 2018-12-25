@@ -1,0 +1,12 @@
+name:Scars
+release_year:2016
+danceability:0.506
+energy:0.965
+loudness:-3.665
+mode:1
+speechiness:0.0723
+acousticness:0.000123
+instrumentalness:9.87e-06
+liveness:0.0978
+valence:0.588
+tempo:138.035

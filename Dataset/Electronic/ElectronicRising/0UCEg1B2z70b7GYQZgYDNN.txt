@@ -1,0 +1,12 @@
+name:Can't Sing
+release_year:2018
+danceability:0.673
+energy:0.767
+loudness:-9.763
+mode:0
+speechiness:0.0358
+acousticness:0.00213
+instrumentalness:0.873
+liveness:0.159
+valence:0.247
+tempo:119.996

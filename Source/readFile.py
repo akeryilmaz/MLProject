@@ -6,10 +6,10 @@ def readFile(path):
     songFile = open(path,"r")
     result = []
     for line in songFile:
-        if line.split(':')[0] == "release_date_precision":
+        if line.split(':')[0] == "name":
             continue
-        elif line.split(':')[0] == "release_date":
-            result.append((float(line.split(':')[1][:-1].split("-")[0])-1900)/119)
+        elif line.split(':')[0] == "release_year":
+            result.append((float(line.split(':')[1][:-1])-1900)/119)
             continue
         elif line.split(':')[0] == "loudness":
             result.append((float(line.split(':')[1][:-1])+60)/60)

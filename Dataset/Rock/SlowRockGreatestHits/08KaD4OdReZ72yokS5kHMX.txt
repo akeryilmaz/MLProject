@@ -1,0 +1,12 @@
+name:Carrie
+release_year:1983
+danceability:0.45
+energy:0.548
+loudness:-4.491
+mode:1
+speechiness:0.0269
+acousticness:0.108
+instrumentalness:3.01e-06
+liveness:0.339
+valence:0.143
+tempo:136.482

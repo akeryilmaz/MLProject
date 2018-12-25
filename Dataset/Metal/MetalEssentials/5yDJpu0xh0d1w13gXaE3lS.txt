@@ -1,0 +1,12 @@
+name:The Heart From Your Hate
+release_year:2017
+danceability:0.582
+energy:0.928
+loudness:-4.659
+mode:0
+speechiness:0.0635
+acousticness:0.00876
+instrumentalness:5.03e-06
+liveness:0.297
+valence:0.565
+tempo:113.043

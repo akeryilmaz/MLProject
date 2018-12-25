@@ -1,0 +1,12 @@
+name:Go the Distance (Instrumental) [From "Hercules"]
+release_year:2012
+danceability:0.246
+energy:0.183
+loudness:-15.182
+mode:1
+speechiness:0.0355
+acousticness:0.74
+instrumentalness:0.457
+liveness:0.0974
+valence:0.151
+tempo:90.117

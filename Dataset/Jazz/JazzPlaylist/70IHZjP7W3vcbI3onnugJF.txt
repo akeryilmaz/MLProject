@@ -1,0 +1,12 @@
+name:A Thousand Kisses Deep
+release_year:2017
+danceability:0.644
+energy:0.124
+loudness:-17.873
+mode:0
+speechiness:0.0624
+acousticness:0.975
+instrumentalness:0.888
+liveness:0.106
+valence:0.26
+tempo:79.469

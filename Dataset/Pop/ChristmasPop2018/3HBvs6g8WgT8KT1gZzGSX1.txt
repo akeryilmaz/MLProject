@@ -1,0 +1,12 @@
+name:Christmas (Baby Please Come Home)
+release_year:1987
+danceability:0.297
+energy:0.812
+loudness:-9.284
+mode:1
+speechiness:0.0544
+acousticness:0.0278
+instrumentalness:0.00147
+liveness:0.435
+valence:0.524
+tempo:140.188

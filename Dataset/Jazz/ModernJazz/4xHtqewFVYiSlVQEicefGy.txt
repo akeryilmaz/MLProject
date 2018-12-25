@@ -1,0 +1,12 @@
+name:Chase
+release_year:2011
+danceability:0.664
+energy:0.44
+loudness:-14.747
+mode:1
+speechiness:0.0339
+acousticness:0.557
+instrumentalness:0.795
+liveness:0.0913
+valence:0.682
+tempo:107.934

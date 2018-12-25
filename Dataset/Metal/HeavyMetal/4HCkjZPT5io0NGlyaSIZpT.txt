@@ -1,0 +1,12 @@
+name:Punish You
+release_year:2018
+danceability:0.434
+energy:0.951
+loudness:-5.186
+mode:1
+speechiness:0.0881
+acousticness:2.13e-05
+instrumentalness:0.0281
+liveness:0.143
+valence:0.307
+tempo:99.432

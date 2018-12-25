@@ -1,0 +1,12 @@
+name:No. 24, A Minor: Tema quasi presto - 11 Variatone - Finale - Studio
+release_year:2005
+danceability:0.415
+energy:0.173
+loudness:-15.774
+mode:0
+speechiness:0.122
+acousticness:0.971
+instrumentalness:0.0376
+liveness:0.65
+valence:0.408
+tempo:90.588

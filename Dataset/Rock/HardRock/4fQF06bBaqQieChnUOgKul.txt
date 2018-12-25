@@ -1,0 +1,12 @@
+name:Stoned To Death, Doomed To Die
+release_year:2017
+danceability:0.196
+energy:0.817
+loudness:-10.078
+mode:1
+speechiness:0.0527
+acousticness:1.62e-05
+instrumentalness:0.0133
+liveness:0.179
+valence:0.292
+tempo:187.383

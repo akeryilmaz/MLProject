@@ -1,0 +1,12 @@
+name:Walking The Circle
+release_year:1994
+danceability:0.216
+energy:0.301
+loudness:-20.008
+mode:1
+speechiness:0.0391
+acousticness:0.685
+instrumentalness:0.86
+liveness:0.0961
+valence:0.359
+tempo:180.234

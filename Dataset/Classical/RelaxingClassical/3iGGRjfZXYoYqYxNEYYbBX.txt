@@ -1,0 +1,12 @@
+name:Deux Arabesques: No. 1
+release_year:1995
+danceability:0.281
+energy:0.0131
+loudness:-28.85
+mode:1
+speechiness:0.0361
+acousticness:0.99
+instrumentalness:0.921
+liveness:0.0875
+valence:0.0741
+tempo:72.744

@@ -1,0 +1,12 @@
+name:My tribe
+release_year:2018
+danceability:0.819
+energy:0.963
+loudness:-6.301
+mode:0
+speechiness:0.0545
+acousticness:0.00258
+instrumentalness:0.764
+liveness:0.133
+valence:0.342
+tempo:125.015

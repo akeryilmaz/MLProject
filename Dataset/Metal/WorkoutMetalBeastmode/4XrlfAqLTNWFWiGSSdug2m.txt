@@ -1,0 +1,12 @@
+name:Rise of Mankind
+release_year:2016
+danceability:0.183
+energy:0.992
+loudness:-1.204
+mode:0
+speechiness:0.27
+acousticness:2.81e-05
+instrumentalness:0.00433
+liveness:0.314
+valence:0.0525
+tempo:159.755

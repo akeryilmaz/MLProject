@@ -1,0 +1,12 @@
+name:Praise You - Purple Disco Machine Remix
+release_year:2018
+danceability:0.813
+energy:0.781
+loudness:-5.764
+mode:1
+speechiness:0.0341
+acousticness:0.048
+instrumentalness:0.284
+liveness:0.0577
+valence:0.811
+tempo:120.99

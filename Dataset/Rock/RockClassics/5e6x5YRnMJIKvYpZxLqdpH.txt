@@ -1,0 +1,12 @@
+name:Fortunate Son
+release_year:2005
+danceability:0.636
+energy:0.746
+loudness:-3.785
+mode:1
+speechiness:0.0393
+acousticness:0.0648
+instrumentalness:0.29
+liveness:0.173
+valence:0.432
+tempo:132.31

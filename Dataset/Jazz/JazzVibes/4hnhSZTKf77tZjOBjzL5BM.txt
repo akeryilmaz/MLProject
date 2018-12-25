@@ -1,0 +1,12 @@
+name:Both of Us
+release_year:2017
+danceability:0.66
+energy:0.528
+loudness:-8.139
+mode:1
+speechiness:0.109
+acousticness:0.187
+instrumentalness:0.943
+liveness:0.174
+valence:0.532
+tempo:84.938

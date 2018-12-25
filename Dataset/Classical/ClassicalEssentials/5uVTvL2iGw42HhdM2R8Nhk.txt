@@ -1,0 +1,12 @@
+name:Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro
+release_year:1966
+danceability:0.233
+energy:0.168
+loudness:-21.091
+mode:1
+speechiness:0.0341
+acousticness:0.976
+instrumentalness:0.9
+liveness:0.105
+valence:0.0635
+tempo:69.013

@@ -1,0 +1,12 @@
+name:So Close
+release_year:2018
+danceability:0.7
+energy:0.872
+loudness:-5.896
+mode:1
+speechiness:0.0666
+acousticness:0.121
+instrumentalness:7.08e-06
+liveness:0.103
+valence:0.761
+tempo:125.03

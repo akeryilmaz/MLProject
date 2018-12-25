@@ -1,0 +1,12 @@
+name:There for You
+release_year:2018
+danceability:0.636
+energy:0.779
+loudness:-3.312
+mode:0
+speechiness:0.0701
+acousticness:0.213
+instrumentalness:0
+liveness:0.115
+valence:0.497
+tempo:122.244

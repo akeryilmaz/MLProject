@@ -1,0 +1,12 @@
+name:Hey Mister
+release_year:2012
+danceability:0.384
+energy:0.992
+loudness:-3.249
+mode:0
+speechiness:0.125
+acousticness:3.36e-05
+instrumentalness:7.79e-05
+liveness:0.565
+valence:0.0988
+tempo:160.038

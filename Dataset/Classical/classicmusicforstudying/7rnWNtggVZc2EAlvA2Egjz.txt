@@ -1,0 +1,12 @@
+name:Mazurka in C sharp minor, Op. 50/3
+release_year:2001
+danceability:0.25
+energy:0.0154
+loudness:-28.869
+mode:0
+speechiness:0.0387
+acousticness:0.994
+instrumentalness:0.926
+liveness:0.074
+valence:0.163
+tempo:75.284

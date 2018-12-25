@@ -1,0 +1,12 @@
+name:Rise
+release_year:2012
+danceability:0.121
+energy:0.319
+loudness:-16.991
+mode:0
+speechiness:0.0372
+acousticness:0.528
+instrumentalness:0.862
+liveness:0.0932
+valence:0.0399
+tempo:94.89

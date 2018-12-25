@@ -1,0 +1,12 @@
+name:Schumann: Children Scenes Op 15 From Foreign Lands And People
+release_year:2008
+danceability:0.259
+energy:0.0262
+loudness:-25.148
+mode:1
+speechiness:0.0533
+acousticness:0.993
+instrumentalness:0.922
+liveness:0.101
+valence:0.23
+tempo:72.105

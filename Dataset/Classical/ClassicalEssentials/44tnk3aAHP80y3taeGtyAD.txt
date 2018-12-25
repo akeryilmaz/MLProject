@@ -1,0 +1,12 @@
+name:The Planets, Op.32/H.125: Jupiter, the Bringer of Jollity (Allegro giouoso)
+release_year:2002
+danceability:0.322
+energy:0.264
+loudness:-13.969
+mode:1
+speechiness:0.0388
+acousticness:0.947
+instrumentalness:0.863
+liveness:0.0928
+valence:0.176
+tempo:132.463

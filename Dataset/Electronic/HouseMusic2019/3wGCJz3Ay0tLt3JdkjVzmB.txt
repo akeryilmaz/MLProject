@@ -1,0 +1,12 @@
+name:Push Pull
+release_year:2018
+danceability:0.82
+energy:0.745
+loudness:-4.921
+mode:1
+speechiness:0.0717
+acousticness:0.034
+instrumentalness:0.317
+liveness:0.291
+valence:0.579
+tempo:124.992

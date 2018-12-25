@@ -1,0 +1,12 @@
+name:Girls, Girls, Girls
+release_year:1987
+danceability:0.601
+energy:0.928
+loudness:-4.903
+mode:1
+speechiness:0.0703
+acousticness:0.0319
+instrumentalness:0.000116
+liveness:0.401
+valence:0.564
+tempo:140.11

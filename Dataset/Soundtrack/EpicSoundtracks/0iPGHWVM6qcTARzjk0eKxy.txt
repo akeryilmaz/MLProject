@@ -1,0 +1,12 @@
+name:My Name Is Lincoln
+release_year:2005
+danceability:0.17
+energy:0.395
+loudness:-17.928
+mode:1
+speechiness:0.0462
+acousticness:0.0742
+instrumentalness:0.959
+liveness:0.106
+valence:0.115
+tempo:130.767

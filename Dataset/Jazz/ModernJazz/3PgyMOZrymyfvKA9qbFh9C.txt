@@ -1,0 +1,12 @@
+name:Licence To Live
+release_year:2011
+danceability:0.544
+energy:0.507
+loudness:-16.663
+mode:0
+speechiness:0.045
+acousticness:0.407
+instrumentalness:0.904
+liveness:0.0396
+valence:0.658
+tempo:130.66

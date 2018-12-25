@@ -1,0 +1,12 @@
+name:The Frog Galliard (P 23a)
+release_year:2014
+danceability:0.349
+energy:0.0817
+loudness:-30.501
+mode:1
+speechiness:0.0487
+acousticness:0.97
+instrumentalness:0.872
+liveness:0.101
+valence:0.612
+tempo:105.606

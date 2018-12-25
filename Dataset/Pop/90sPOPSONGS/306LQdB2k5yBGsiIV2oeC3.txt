@@ -1,0 +1,12 @@
+name:When You Say Nothing At All
+release_year:2000
+danceability:0.567
+energy:0.452
+loudness:-10.647
+mode:1
+speechiness:0.023
+acousticness:0.166
+instrumentalness:1.2e-06
+liveness:0.0869
+valence:0.352
+tempo:86.969

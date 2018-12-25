@@ -1,0 +1,12 @@
+name:Iladnasanwakan
+release_year:2018
+danceability:0.853
+energy:0.615
+loudness:-9.102
+mode:0
+speechiness:0.0887
+acousticness:0.561
+instrumentalness:0.00156
+liveness:0.193
+valence:0.461
+tempo:117.972

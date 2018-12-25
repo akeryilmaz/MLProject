@@ -1,0 +1,12 @@
+name:Nocturne in C-Sharp Minor, B. 49
+release_year:1995
+danceability:0.315
+energy:0.0146
+loudness:-31.689
+mode:0
+speechiness:0.0447
+acousticness:0.991
+instrumentalness:0.859
+liveness:0.0776
+valence:0.112
+tempo:130.274

@@ -1,0 +1,12 @@
+name:Who Wants To Be Lonely
+release_year:1985
+danceability:0.518
+energy:0.989
+loudness:-6.274
+mode:0
+speechiness:0.187
+acousticness:0.0673
+instrumentalness:0.0198
+liveness:0.53
+valence:0.0572
+tempo:105.614

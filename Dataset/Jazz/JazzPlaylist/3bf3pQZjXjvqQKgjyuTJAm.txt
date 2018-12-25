@@ -1,0 +1,12 @@
+name:Mood Indigo
+release_year:1991
+danceability:0.601
+energy:0.00966
+loudness:-26.438
+mode:1
+speechiness:0.0424
+acousticness:0.991
+instrumentalness:0.108
+liveness:0.0884
+valence:0.346
+tempo:88.685

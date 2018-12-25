@@ -1,0 +1,12 @@
+name:Expectations
+release_year:2018
+danceability:0.576
+energy:0.443
+loudness:-7.477
+mode:0
+speechiness:0.0754
+acousticness:0.00923
+instrumentalness:1.88e-06
+liveness:0.124
+valence:0.452
+tempo:180.08

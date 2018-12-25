@@ -1,0 +1,12 @@
+name:First Day
+release_year:2003
+danceability:0.719
+energy:0.248
+loudness:-17.951
+mode:1
+speechiness:0.0409
+acousticness:0.972
+instrumentalness:0.665
+liveness:0.358
+valence:0.259
+tempo:114.121

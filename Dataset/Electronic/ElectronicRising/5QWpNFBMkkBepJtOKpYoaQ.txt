@@ -1,0 +1,12 @@
+name:Just Getting Warm
+release_year:2018
+danceability:0.722
+energy:0.923
+loudness:-6.373
+mode:0
+speechiness:0.0359
+acousticness:8.77e-05
+instrumentalness:0.83
+liveness:0.18
+valence:0.582
+tempo:124.004

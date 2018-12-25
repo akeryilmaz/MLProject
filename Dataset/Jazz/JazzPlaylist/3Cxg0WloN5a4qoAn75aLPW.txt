@@ -1,0 +1,12 @@
+name:I Got It Bad (And That Ain't Good) - Live
+release_year:1956
+danceability:0.339
+energy:0.117
+loudness:-19.002
+mode:0
+speechiness:0.0328
+acousticness:0.893
+instrumentalness:0.211
+liveness:0.986
+valence:0.307
+tempo:77.797

@@ -1,0 +1,12 @@
+name:Speciaal
+release_year:2018
+danceability:0.717
+energy:0.537
+loudness:-7.413
+mode:0
+speechiness:0.158
+acousticness:0.37
+instrumentalness:0.00121
+liveness:0.172
+valence:0.569
+tempo:195.782

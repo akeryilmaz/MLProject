@@ -1,0 +1,12 @@
+name:Talk Dirty To Me
+release_year:1986
+danceability:0.507
+energy:0.804
+loudness:-13.267
+mode:1
+speechiness:0.044
+acousticness:0.0211
+instrumentalness:0.00248
+liveness:0.381
+valence:0.708
+tempo:157.996

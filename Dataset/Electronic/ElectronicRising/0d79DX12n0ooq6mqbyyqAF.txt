@@ -1,0 +1,12 @@
+name:Filter
+release_year:2018
+danceability:0.802
+energy:0.785
+loudness:-7.435
+mode:1
+speechiness:0.0477
+acousticness:0.006
+instrumentalness:0.899
+liveness:0.0741
+valence:0.136
+tempo:125.003

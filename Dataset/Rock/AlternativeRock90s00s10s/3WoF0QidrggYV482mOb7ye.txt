@@ -1,0 +1,12 @@
+name:Glycerine
+release_year:1994
+danceability:0.43
+energy:0.282
+loudness:-14.22
+mode:1
+speechiness:0.0342
+acousticness:0.0581
+instrumentalness:0.00426
+liveness:0.0959
+valence:0.0868
+tempo:114.136

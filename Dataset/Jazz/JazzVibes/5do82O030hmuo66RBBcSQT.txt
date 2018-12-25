@@ -1,0 +1,12 @@
+name:empathy
+release_year:2018
+danceability:0.439
+energy:0.081
+loudness:-13.018
+mode:0
+speechiness:0.0543
+acousticness:0.699
+instrumentalness:0.898
+liveness:0.124
+valence:0.16
+tempo:159.737

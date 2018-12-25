@@ -1,0 +1,12 @@
+name:Calisi
+release_year:2018
+danceability:0.748
+energy:0.711
+loudness:-10.659
+mode:0
+speechiness:0.04
+acousticness:0.00745
+instrumentalness:0.651
+liveness:0.095
+valence:0.368
+tempo:122.012

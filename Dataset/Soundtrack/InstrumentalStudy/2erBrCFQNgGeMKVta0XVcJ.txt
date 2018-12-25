@@ -1,0 +1,12 @@
+name:Crossing Over
+release_year:2018
+danceability:0.6
+energy:0.124
+loudness:-19.945
+mode:1
+speechiness:0.0417
+acousticness:0.962
+instrumentalness:0.929
+liveness:0.0997
+valence:0.0877
+tempo:139.893

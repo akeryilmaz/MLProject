@@ -1,0 +1,12 @@
+name:I'll Make Love To You
+release_year:1994
+danceability:0.557
+energy:0.509
+loudness:-7.928
+mode:1
+speechiness:0.0243
+acousticness:0.119
+instrumentalness:0
+liveness:0.0794
+valence:0.244
+tempo:142.408

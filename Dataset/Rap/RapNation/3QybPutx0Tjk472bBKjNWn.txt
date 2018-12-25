@@ -1,0 +1,12 @@
+name:Mo Bamba
+release_year:2017
+danceability:0.738
+energy:0.629
+loudness:-4.882
+mode:0
+speechiness:0.0495
+acousticness:0.268
+instrumentalness:0.00114
+liveness:0.163
+valence:0.319
+tempo:146.067

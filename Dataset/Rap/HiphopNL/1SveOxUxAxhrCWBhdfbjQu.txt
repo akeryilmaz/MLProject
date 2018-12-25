@@ -1,0 +1,12 @@
+name:Fallin'
+release_year:2018
+danceability:0.854
+energy:0.529
+loudness:-7.454
+mode:0
+speechiness:0.0541
+acousticness:0.176
+instrumentalness:0.00474
+liveness:0.0765
+valence:0.831
+tempo:106.998

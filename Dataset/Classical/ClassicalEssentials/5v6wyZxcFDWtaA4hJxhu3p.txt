@@ -1,0 +1,12 @@
+name:Harmonium (for large orchestra and chorus): Part 1 - Negative Love
+release_year:1984
+danceability:0.219
+energy:0.0937
+loudness:-25.246
+mode:0
+speechiness:0.0434
+acousticness:0.974
+instrumentalness:0.897
+liveness:0.278
+valence:0.0347
+tempo:124.612

@@ -1,0 +1,12 @@
+name:MPC Jazz
+release_year:2018
+danceability:0.757
+energy:0.502
+loudness:-7.501
+mode:0
+speechiness:0.078
+acousticness:0.069
+instrumentalness:0.895
+liveness:0.0878
+valence:0.382
+tempo:82.033

@@ -1,0 +1,12 @@
+name:Etude No. 2
+release_year:2001
+danceability:0.235
+energy:0.166
+loudness:-19.632
+mode:1
+speechiness:0.0347
+acousticness:0.992
+instrumentalness:0.87
+liveness:0.101
+valence:0.0356
+tempo:101.182

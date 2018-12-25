@@ -1,0 +1,12 @@
+name:Deathwish
+release_year:2017
+danceability:0.358
+energy:0.965
+loudness:-3.943
+mode:1
+speechiness:0.177
+acousticness:0.000122
+instrumentalness:1.7e-06
+liveness:0.0961
+valence:0.0963
+tempo:103.789

@@ -1,0 +1,12 @@
+name:Hogwarts' March
+release_year:2005
+danceability:0.782
+energy:0.173
+loudness:-18.543
+mode:1
+speechiness:0.0471
+acousticness:0.986
+instrumentalness:0.899
+liveness:0.0753
+valence:0.861
+tempo:123.683

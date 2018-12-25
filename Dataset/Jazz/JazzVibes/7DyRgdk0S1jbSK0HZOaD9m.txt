@@ -1,0 +1,12 @@
+name:Night Bus
+release_year:2018
+danceability:0.612
+energy:0.0937
+loudness:-14.014
+mode:1
+speechiness:0.156
+acousticness:0.195
+instrumentalness:0.882
+liveness:0.0999
+valence:0.205
+tempo:83.738

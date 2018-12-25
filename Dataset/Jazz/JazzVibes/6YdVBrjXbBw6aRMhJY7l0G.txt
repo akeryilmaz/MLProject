@@ -1,0 +1,12 @@
+name:Feather
+release_year:2018
+danceability:0.652
+energy:0.756
+loudness:-6.566
+mode:0
+speechiness:0.0441
+acousticness:0.00719
+instrumentalness:0.869
+liveness:0.495
+valence:0.217
+tempo:93.543

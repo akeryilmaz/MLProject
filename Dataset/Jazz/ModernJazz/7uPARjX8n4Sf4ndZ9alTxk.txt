@@ -1,0 +1,12 @@
+name:Dreaming
+release_year:2011
+danceability:0.275
+energy:0.449
+loudness:-13.81
+mode:1
+speechiness:0.0336
+acousticness:0.636
+instrumentalness:0.872
+liveness:0.11
+valence:0.351
+tempo:113.281

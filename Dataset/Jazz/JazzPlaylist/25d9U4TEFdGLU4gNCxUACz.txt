@@ -1,0 +1,12 @@
+name:Fran Dance - Live from Konserthuset, Stockholm
+release_year:2017
+danceability:0.538
+energy:0.235
+loudness:-16.713
+mode:1
+speechiness:0.0483
+acousticness:0.716
+instrumentalness:0.102
+liveness:0.668
+valence:0.292
+tempo:113.463

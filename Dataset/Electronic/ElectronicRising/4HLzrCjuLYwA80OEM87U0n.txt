@@ -1,0 +1,12 @@
+name:Pandora
+release_year:2018
+danceability:0.745
+energy:0.949
+loudness:-6.017
+mode:0
+speechiness:0.0412
+acousticness:6.39e-05
+instrumentalness:0.908
+liveness:0.075
+valence:0.284
+tempo:123.005

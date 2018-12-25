@@ -1,0 +1,12 @@
+name:Fire
+release_year:2017
+danceability:0.341
+energy:0.953
+loudness:-2.609
+mode:0
+speechiness:0.119
+acousticness:0.000157
+instrumentalness:1.52e-05
+liveness:0.325
+valence:0.151
+tempo:143.918

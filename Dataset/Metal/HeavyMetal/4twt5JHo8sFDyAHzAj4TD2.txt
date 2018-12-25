@@ -1,0 +1,12 @@
+name:Dracula
+release_year:2018
+danceability:0.305
+energy:0.913
+loudness:-8.223
+mode:0
+speechiness:0.0879
+acousticness:0.000453
+instrumentalness:0.231
+liveness:0.0665
+valence:0.125
+tempo:114.655

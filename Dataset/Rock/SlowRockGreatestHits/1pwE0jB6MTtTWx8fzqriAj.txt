@@ -1,0 +1,12 @@
+name:Bohemian Rhapsody - 2011 Remaster
+release_year:1981
+danceability:0.392
+energy:0.398
+loudness:-9.973
+mode:0
+speechiness:0.0515
+acousticness:0.256
+instrumentalness:0
+liveness:0.195
+valence:0.236
+tempo:143.587

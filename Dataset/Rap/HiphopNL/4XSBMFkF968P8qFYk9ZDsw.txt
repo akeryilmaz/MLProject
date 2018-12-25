@@ -1,0 +1,12 @@
+name:Kapitein
+release_year:2018
+danceability:0.696
+energy:0.718
+loudness:-8.147
+mode:1
+speechiness:0.482
+acousticness:0.578
+instrumentalness:8.72e-05
+liveness:0.0995
+valence:0.588
+tempo:190.026

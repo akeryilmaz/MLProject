@@ -1,0 +1,12 @@
+name:Slowlee
+release_year:2018
+danceability:0.876
+energy:0.35
+loudness:-10.246
+mode:1
+speechiness:0.404
+acousticness:0.764
+instrumentalness:0.892
+liveness:0.109
+valence:0.301
+tempo:91.975

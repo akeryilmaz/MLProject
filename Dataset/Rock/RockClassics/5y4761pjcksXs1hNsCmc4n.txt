@@ -1,0 +1,12 @@
+name:Sunshine Of Your Love
+release_year:1967
+danceability:0.691
+energy:0.592
+loudness:-8.089
+mode:1
+speechiness:0.0366
+acousticness:0.389
+instrumentalness:3.29e-05
+liveness:0.124
+valence:0.736
+tempo:115.152

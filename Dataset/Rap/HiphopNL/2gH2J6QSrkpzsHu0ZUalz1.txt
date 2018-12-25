@@ -1,0 +1,12 @@
+name:Streets
+release_year:2018
+danceability:0.771
+energy:0.7
+loudness:-6.318
+mode:1
+speechiness:0.258
+acousticness:0.103
+instrumentalness:0
+liveness:0.0912
+valence:0.51
+tempo:103.971

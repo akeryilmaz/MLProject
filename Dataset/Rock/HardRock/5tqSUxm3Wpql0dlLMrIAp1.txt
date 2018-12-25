@@ -1,0 +1,12 @@
+name:Shadow Of Your Love
+release_year:2018
+danceability:0.416
+energy:0.995
+loudness:-5.376
+mode:0
+speechiness:0.119
+acousticness:0.000164
+instrumentalness:0.0902
+liveness:0.34
+valence:0.33
+tempo:112.014

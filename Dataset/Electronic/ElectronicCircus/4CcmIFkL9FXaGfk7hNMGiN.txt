@@ -1,0 +1,12 @@
+name:Who You Are - Edit
+release_year:2018
+danceability:0.692
+energy:0.956
+loudness:-6.204
+mode:0
+speechiness:0.0673
+acousticness:0.000857
+instrumentalness:0.857
+liveness:0.167
+valence:0.601
+tempo:125.982

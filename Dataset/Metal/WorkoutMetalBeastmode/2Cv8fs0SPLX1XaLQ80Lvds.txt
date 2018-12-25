@@ -1,0 +1,12 @@
+name:Don't Need You - Edit
+release_year:2016
+danceability:0.212
+energy:0.97
+loudness:-4.68
+mode:1
+speechiness:0.132
+acousticness:3.01e-05
+instrumentalness:2.83e-06
+liveness:0.0682
+valence:0.349
+tempo:152.577

@@ -1,0 +1,12 @@
+name:Walk This Way
+release_year:1980
+danceability:0.629
+energy:0.785
+loudness:-10.761
+mode:1
+speechiness:0.0471
+acousticness:0.0249
+instrumentalness:9.45e-06
+liveness:0.0522
+valence:0.869
+tempo:108.531

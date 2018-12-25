@@ -1,0 +1,12 @@
+name:Venice
+release_year:2018
+danceability:0.881
+energy:0.561
+loudness:-7.351
+mode:1
+speechiness:0.139
+acousticness:0.333
+instrumentalness:0.88
+liveness:0.148
+valence:0.801
+tempo:95.011

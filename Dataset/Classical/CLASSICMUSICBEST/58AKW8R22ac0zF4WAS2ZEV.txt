@@ -1,0 +1,12 @@
+name:Toreador's Song from 'Carmen'
+release_year:2009
+danceability:0.368
+energy:0.323
+loudness:-14.912
+mode:1
+speechiness:0.0365
+acousticness:0.576
+instrumentalness:0.000366
+liveness:0.194
+valence:0.61
+tempo:124.262

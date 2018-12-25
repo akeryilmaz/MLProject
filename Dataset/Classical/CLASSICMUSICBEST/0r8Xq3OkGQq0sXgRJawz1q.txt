@@ -1,0 +1,12 @@
+name:O Mio Bambino Caro (Gianni Schicchi)
+release_year:2006
+danceability:0.305
+energy:0.117
+loudness:-15.474
+mode:1
+speechiness:0.0391
+acousticness:0.98
+instrumentalness:0.168
+liveness:0.112
+valence:0.0824
+tempo:78.106

@@ -1,0 +1,12 @@
+name:River Flows in You
+release_year:2018
+danceability:0.223
+energy:0.183
+loudness:-20.917
+mode:1
+speechiness:0.0491
+acousticness:0.988
+instrumentalness:0.918
+liveness:0.103
+valence:0.186
+tempo:71.934

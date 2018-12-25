@@ -1,0 +1,12 @@
+name:Assassins Creed Theme
+release_year:2011
+danceability:0.152
+energy:0.409
+loudness:-14.528
+mode:0
+speechiness:0.0582
+acousticness:0.7
+instrumentalness:0.813
+liveness:0.14
+valence:0.0373
+tempo:99.952

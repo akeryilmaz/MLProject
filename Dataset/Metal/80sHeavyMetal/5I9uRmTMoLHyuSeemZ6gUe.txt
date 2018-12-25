@@ -1,0 +1,12 @@
+name:We're Not Gonna Take It
+release_year:2004
+danceability:0.465
+energy:0.912
+loudness:-4.642
+mode:1
+speechiness:0.107
+acousticness:0.000853
+instrumentalness:0.00551
+liveness:0.0754
+valence:0.63
+tempo:147.931

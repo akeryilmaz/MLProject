@@ -1,0 +1,12 @@
+name:Born To Be Wild
+release_year:1968
+danceability:0.438
+energy:0.71
+loudness:-12.412
+mode:1
+speechiness:0.0919
+acousticness:0.262
+instrumentalness:0.537
+liveness:0.221
+valence:0.53
+tempo:145.928

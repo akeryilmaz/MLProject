@@ -1,0 +1,12 @@
+name:Sultans Of Swing
+release_year:1978
+danceability:0.73
+energy:0.868
+loudness:-7.325
+mode:1
+speechiness:0.0288
+acousticness:0.0632
+instrumentalness:0.0661
+liveness:0.318
+valence:0.923
+tempo:148.217

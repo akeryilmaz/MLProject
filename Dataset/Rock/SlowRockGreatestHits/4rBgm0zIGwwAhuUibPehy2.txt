@@ -1,0 +1,12 @@
+name:Send Me An Angel
+release_year:1990
+danceability:0.231
+energy:0.43
+loudness:-11.601
+mode:1
+speechiness:0.0301
+acousticness:0.448
+instrumentalness:0.00141
+liveness:0.229
+valence:0.155
+tempo:104.668

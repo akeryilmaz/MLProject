@@ -1,0 +1,12 @@
+name:Burberry
+release_year:2018
+danceability:0.825
+energy:0.591
+loudness:-11.708
+mode:0
+speechiness:0.0598
+acousticness:0.106
+instrumentalness:0.793
+liveness:0.0995
+valence:0.657
+tempo:85.052

@@ -1,0 +1,12 @@
+name:Beat The System - Beat The System Album Version
+release_year:2006
+danceability:0.573
+energy:0.961
+loudness:-3.022
+mode:0
+speechiness:0.0391
+acousticness:0.0656
+instrumentalness:1.34e-06
+liveness:0.318
+valence:0.825
+tempo:163.995

@@ -1,0 +1,12 @@
+name:The Hanging Tree
+release_year:2014
+danceability:0.255
+energy:0.085
+loudness:-17.969
+mode:0
+speechiness:0.0359
+acousticness:0.329
+instrumentalness:6.83e-05
+liveness:0.201
+valence:0.109
+tempo:94.26

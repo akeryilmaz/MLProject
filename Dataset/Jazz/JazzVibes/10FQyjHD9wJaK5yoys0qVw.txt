@@ -1,0 +1,12 @@
+name:Cruising.
+release_year:2018
+danceability:0.693
+energy:0.347
+loudness:-12.982
+mode:1
+speechiness:0.0334
+acousticness:0.263
+instrumentalness:0.852
+liveness:0.516
+valence:0.473
+tempo:83.004

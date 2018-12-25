@@ -1,0 +1,12 @@
+name:For The Love Of A Princess
+release_year:1995
+danceability:0.187
+energy:0.0602
+loudness:-25.767
+mode:0
+speechiness:0.0464
+acousticness:0.408
+instrumentalness:0.922
+liveness:0.122
+valence:0.0362
+tempo:68.751

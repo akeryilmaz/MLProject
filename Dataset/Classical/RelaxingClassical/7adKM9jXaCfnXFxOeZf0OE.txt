@@ -1,0 +1,12 @@
+name:Clarinet Concerto in A Major, K.622: II. Adagio
+release_year:2007
+danceability:0.118
+energy:0.0191
+loudness:-23.86
+mode:1
+speechiness:0.0452
+acousticness:0.988
+instrumentalness:0.8
+liveness:0.0927
+valence:0.0766
+tempo:90.678

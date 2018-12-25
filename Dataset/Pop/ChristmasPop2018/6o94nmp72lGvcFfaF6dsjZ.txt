@@ -1,0 +1,12 @@
+name:O Come, All Ye Faithful
+release_year:2016
+danceability:0.717
+energy:0.604
+loudness:-5.7
+mode:1
+speechiness:0.0594
+acousticness:0.132
+instrumentalness:0
+liveness:0.0632
+valence:0.826
+tempo:111.008

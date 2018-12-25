@@ -1,0 +1,12 @@
+name:Born in the U.S.A.
+release_year:1984
+danceability:0.398
+energy:0.952
+loudness:-6.042
+mode:1
+speechiness:0.061
+acousticness:0.000373
+instrumentalness:7.75e-05
+liveness:0.1
+valence:0.584
+tempo:122.093

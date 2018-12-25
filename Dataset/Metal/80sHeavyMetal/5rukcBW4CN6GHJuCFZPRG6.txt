@@ -1,0 +1,12 @@
+name:Bye Bye Johnny
+release_year:2008
+danceability:0.507
+energy:0.834
+loudness:-5.355
+mode:0
+speechiness:0.0417
+acousticness:0.5
+instrumentalness:0
+liveness:0.0406
+valence:0.447
+tempo:80.053

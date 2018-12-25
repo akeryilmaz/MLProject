@@ -1,0 +1,12 @@
+name:Solomon Vandy
+release_year:2006
+danceability:0.204
+energy:0.232
+loudness:-14.112
+mode:0
+speechiness:0.0344
+acousticness:0.0484
+instrumentalness:0.709
+liveness:0.0834
+valence:0.0304
+tempo:79.04

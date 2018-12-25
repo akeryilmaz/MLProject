@@ -1,0 +1,12 @@
+name:Symphony No. 9 in D Major: IV. Adagio - Sehr langsam und noch zuruckhaltend
+release_year:2009
+danceability:0.137
+energy:0.0292
+loudness:-25.755
+mode:1
+speechiness:0.0425
+acousticness:0.805
+instrumentalness:0.298
+liveness:0.0651
+valence:0.0309
+tempo:81.113

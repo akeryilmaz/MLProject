@@ -1,0 +1,12 @@
+name:The Nutcracker, Op. 71: Act II Tableau 3: Variation 2: Dance of the Sugar-Plum Fairy
+release_year:2011
+danceability:0.323
+energy:0.0114
+loudness:-38.855
+mode:0
+speechiness:0.0343
+acousticness:0.893
+instrumentalness:0.652
+liveness:0.171
+valence:0.134
+tempo:112.378

@@ -1,0 +1,12 @@
+name:Right Now
+release_year:2018
+danceability:0.818
+energy:0.666
+loudness:-7.659
+mode:1
+speechiness:0.0617
+acousticness:0.191
+instrumentalness:5.72e-06
+liveness:0.0978
+valence:0.485
+tempo:122.939

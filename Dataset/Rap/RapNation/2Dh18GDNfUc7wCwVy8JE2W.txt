@@ -1,0 +1,12 @@
+name:Elastic
+release_year:2018
+danceability:0.968
+energy:0.434
+loudness:-4.968
+mode:1
+speechiness:0.0785
+acousticness:0.0514
+instrumentalness:0.176
+liveness:0.0368
+valence:0.584
+tempo:111.05

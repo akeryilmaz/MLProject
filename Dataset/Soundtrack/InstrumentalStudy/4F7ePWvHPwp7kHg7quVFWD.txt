@@ -1,0 +1,12 @@
+name:La Fille Sans Larmes
+release_year:2018
+danceability:0.393
+energy:0.042
+loudness:-20.542
+mode:1
+speechiness:0.039
+acousticness:0.993
+instrumentalness:0.901
+liveness:0.0979
+valence:0.201
+tempo:142.814

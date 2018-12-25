@@ -1,0 +1,12 @@
+name:Blood and Thunder
+release_year:2004
+danceability:0.364
+energy:0.935
+loudness:-6.548
+mode:1
+speechiness:0.0724
+acousticness:8.58e-06
+instrumentalness:0.729
+liveness:0.0317
+valence:0.478
+tempo:92.717

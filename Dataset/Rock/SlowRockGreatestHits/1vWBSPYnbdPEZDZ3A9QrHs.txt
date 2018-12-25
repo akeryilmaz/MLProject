@@ -1,0 +1,12 @@
+name:RIDE
+release_year:2018
+danceability:0.691
+energy:0.592
+loudness:-7.804
+mode:1
+speechiness:0.0578
+acousticness:0.0975
+instrumentalness:0.000132
+liveness:0.0837
+valence:0.423
+tempo:89.958

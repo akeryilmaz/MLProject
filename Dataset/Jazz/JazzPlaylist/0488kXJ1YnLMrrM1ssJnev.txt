@@ -1,0 +1,12 @@
+name:Monk's Dream - Take 8
+release_year:1963
+danceability:0.698
+energy:0.278
+loudness:-15.425
+mode:1
+speechiness:0.0508
+acousticness:0.572
+instrumentalness:0.0233
+liveness:0.105
+valence:0.77
+tempo:81.079
