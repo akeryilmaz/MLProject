@@ -1,5 +1,4 @@
 import os
-
 def readFile(path, genreTag):
     '''reads a song file of given path(string), returns the feateures and genre tag in a list where the first element is tag
     CAUTION!!! It maps year, loudness and tempo to 0-1 range'''
