@@ -2,7 +2,8 @@
 import sys
 import os
 import hashlib
-
+from readFile import *
+from scipy.spatial import distance
 
 def chunk_reader(fobj, chunk_size=1024):
     """Generator that reads a file in chunks of bytes"""
@@ -81,17 +82,38 @@ def check_for_duplicates(paths, hash=hashlib.sha1):
             else:
                 hashes_full[full_hash] = filename
     # Writing to the file.
-    mfile = open('/home/kenjataimu/Desktop/CENG/CENG-9th_Semester/CEng499/Project/MLProject/Docs/duplicates.txt',
+    mfile = open('../Docs/duplicates.txt',
                   mode='w')
     for row in duplicates:
         mfile.write("Duplicate found: %s and %s \n" % (row[0], row[1]))
     mfile.close()
+
     # Deleting duplicates.
+    means = []
+    for i in range (1,9):
+        means.append(findMean(i))
+    genres = {"Metal": 1,"Rock": 2,"Jazz":3,"Rap":4,"Electronic":5,"Pop":6,"Soundtrack":7,"Classical":8}
     for row in duplicates:
+        dup1genre = row[0].split("/")[-3]
+        dup2genre = row[1].split("/")[-3]
+        song = readFile(row[0], 0)
+        distance1 = distance.euclidean(song[1:],means[genres[dup1genre]-1])
+        distance2 = distance.euclidean(song[1:],means[genres[dup2genre]-1])
+        if distance1 > distance2:
+            if os.path.isfile(row[0]):
+                os.remove(row[0])
+            else:
+                os.remove(row[1])
+        else:
+            if os.path.isfile(row[1]):
+                os.remove(row[1])
+            else:
+                os.remove(row[0])
+    '''for row in duplicates:
         if os.path.isfile(row[1]):
             os.remove(row[1])
         else:
-            os.remove(row[0])
+            os.remove(row[0])'''
 
 
 if sys.argv[1:]:
