@@ -2,7 +2,7 @@
 import sys
 import os
 import hashlib
-from readFile import *
+from Source.readFile import *
 from scipy.spatial import distance
 
 def chunk_reader(fobj, chunk_size=1024):
