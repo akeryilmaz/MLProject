@@ -58,4 +58,4 @@ if __name__ == "__main__":
                     minYear = year
                 if year > maxYear:
                     maxYear = year
-    print minYear, maxYear
+    print(minYear, maxYear)

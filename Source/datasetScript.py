@@ -20,14 +20,14 @@ for line in playlistFile:
     else:
         username = line.split(':')[2]
         playlist_id = line.split(':')[4][:-1]
-        print username, playlist_id
+        print(username, playlist_id)
         playlistInfo = sp.user_playlist(username, playlist_id)
         songs = playlistInfo["tracks"]["items"]
         deletePuncs = {ord(char): None for char in string.punctuation}
         playlistName = playlistInfo["name"].translate(deletePuncs)
         playlistName = playlistName.replace(" ", "")
         for i in range(len(songs)):
-            print i
+            print(i)
             try:
                 id = str(songs[i]["track"]["id"])
                 track = sp.track(id)
@@ -39,7 +39,7 @@ for line in playlistFile:
                 if not os.path.exists(directory):
                     os.makedirs(directory)
                 outputFile = open(path , "w")
-                print "File created"
+                print("File created")
                 outputFile.write("name:" + name + "\n")
                 outputFile.write("release_year:" + str(track["album"]["release_date"]).split("-")[0] + "\n")
                 outputFile.write("danceability:" + str(features[0]["danceability"])+ "\n")
@@ -54,5 +54,5 @@ for line in playlistFile:
                 outputFile.write("tempo:" + str(features[0]["tempo"])+ "\n")
                 outputFile.close()
             except:
-                print "Something went wrong!"
+                print("Something went wrong!")
 playlistFile.close()
