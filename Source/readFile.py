@@ -1,4 +1,6 @@
 import os
+import numpy
+
 def readFile(path, genreTag):
     '''reads a song file of given path(string), returns the feateures and genre tag in a list where the first element is tag
     CAUTION!!! It maps year, loudness and tempo to 0-1 range'''
@@ -40,21 +42,42 @@ def readGenreDirectory(path):
             result.append(readPlaylistDirectory(path + "/" + subDirectory, tag))
     return result
 
-if __name__ == "__main__":
-    '''Find the minimum and maximum year of the songs'''
-    minYear = 9999999
-    maxYear = -999999
-    allFeatures = []
+def findMean(tag):
+    ''' Returns the mean values of the features in a given genre '''
+    genres = {1: "Metal",2: "Rock",3:"Jazz",4:"Rap",5:"Electronic",6:"Pop",7:"Soundtrack",8:"Classical"}
     for root, subDirectories, files in os.walk(os.path.abspath("../Dataset")):
         for subDirectory in subDirectories:
-            allFeatures.append(readGenreDirectory("../Dataset/" + subDirectory))
+            if subDirectory == genres[tag]:
+                result = readGenreDirectory("../Dataset/" + subDirectory)
         break
-    for genre in allFeatures:
-        for playlist in genre:
-            for song in playlist:
-                year = song[1]
-                if year < minYear:
-                    minYear = year
-                if year > maxYear:
-                    maxYear = year
-    print(minYear, maxYear)
+    totals = [0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.]
+    count = 0
+    for playlist in result:
+        for song in playlist:
+            count += 1
+            for i, feature in enumerate(song[1:]):
+                totals[i] += feature
+    return [feature/count for feature in totals]
+
+def getNearest(lst):
+        dstDict = {lst[i][0]: [] for i in range(len(lst))}
+        ind = 0
+        for ftrs in lst:
+            for otherIndex, otherftrs in enumerate(lst):
+                dst = 0
+                if ftrs[1] == otherftrs[1]:
+                    continue
+                for i in range(1, len(otherftrs[1])):
+                    dst += (otherftrs[1][i] - ftrs[1][i]) ** 2
+                dstDict[ftrs[0]].append({otherftrs[0] : dst})
+            ind += 1
+
+        return dstDict
+if __name__ == "__main__":
+    '''Find the means'''
+    lst = []
+    genres = {1: "Metal",2: "Rock",3:"Jazz",4:"Rap",5:"Electronic",6:"Pop",7:"Soundtrack",8:"Classical"}
+
+    for i in range (1,9):
+        lst.append((genres[i],findMean(i)))
+    getNearest(lst)
