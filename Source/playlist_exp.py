@@ -35,11 +35,10 @@ def trainModel():
         res = clf.predict(test)
         score = 0
         testLabels = numpy.array(testLabels)
-        print res
         for i in  range(len(res)):
             if res[i] == testLabels[i]:
                 score+=1
-        print score / len(test)
+        print(score / len(test))
         #Plots the data - To be worked on
         plot_decision_regions(X=X,
                             y=Y,
