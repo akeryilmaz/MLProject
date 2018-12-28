@@ -24,7 +24,9 @@ def trainModel():
         labels += [0]* len(A)
         test = B[:]
         testLabels = [1]*len(B)
-        clf = svm.SVC(gamma='scale',kernel='rbf', C=100.0)
+        test += random.sample(songs, len(B))
+        testLabels += [0]*len(B)
+        clf = svm.SVC(gamma='scale',kernel='rbf', C=1.0)
         value = 1
         width = 1
         X = numpy.array(train)
@@ -33,8 +35,8 @@ def trainModel():
         res = clf.predict(test)
         score = 0
         testLabels = numpy.array(testLabels)
+        print res
         for i in  range(len(res)):
-            print res[i], testLabels[i]
             if res[i] == testLabels[i]:
                 score+=1
         print score / len(test)
