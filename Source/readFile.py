@@ -1,6 +1,4 @@
 import os
-import numpy
-
 def readFile(path, genreTag):
     '''reads a song file of given path(string), returns the feateures and genre tag in a list where the first element is tag
     CAUTION!!! It maps year, loudness and tempo to 0-1 range'''
@@ -59,19 +57,22 @@ def findMean(tag):
                 totals[i] += feature
     return [feature/count for feature in totals]
 
+# Gets the closest genres according to mean values of the songs in it
 def getNearest(lst):
         dstDict = {lst[i][0]: [] for i in range(len(lst))}
         ind = 0
         for ftrs in lst:
+            dstList = []
             for otherIndex, otherftrs in enumerate(lst):
                 dst = 0
                 if ftrs[1] == otherftrs[1]:
                     continue
                 for i in range(1, len(otherftrs[1])):
                     dst += (otherftrs[1][i] - ftrs[1][i]) ** 2
-                dstDict[ftrs[0]].append({otherftrs[0] : dst})
+                dstList.append((otherftrs[0],dst))
+            dstList.sort(key=lambda tup: tup[1])
+            dstDict[ftrs[0]] = dstList[:2]
             ind += 1
-
         return dstDict
 if __name__ == "__main__":
     '''Find the means'''
