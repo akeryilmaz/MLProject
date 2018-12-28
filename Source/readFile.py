@@ -4,7 +4,7 @@ def readFile(path, genreTag):
     CAUTION!!! It maps year, loudness and tempo to 0-1 range'''
     songFile = open(path,"r")
     result = []
-    result.append(genreTag)
+    #result.append(genreTag)
     for line in songFile:
         if line.split(':')[0] == "name":
             continue

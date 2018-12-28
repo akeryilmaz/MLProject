@@ -11,28 +11,38 @@ def getData():
     train = []
     test= []
     labels = []
-    for i in range(1,9):
+    testLabels = []
+    for i in range(1,3):
         A,B = split_list(readGenreDirectory("../Dataset/"+ genres[i]))
         A = flatten(A)
         train.append(A)
         labels+= [i]* len(A)
+        testLabels += [i]*len(flatten(B))
         test.append(flatten(B))
-    return (flatten(train),flatten(test),labels)
+    return (flatten(train),flatten(test),labels,testLabels)
 # Trains the model using SciKit Learn SVC
 def trainModel():
     playlists = getData()
-    clf = svm.SVC(gamma='scale')
+    clf = svm.SVC(gamma='scale',kernel='rbf')
     value = 1
     width = 1
     X = numpy.array(playlists[0])
     Y = numpy.array(playlists[2])
     clf.fit(X,Y)
+    res = clf.predict(playlists[1])
+    score = 0
+    for i in  range(len(res)):
+        if res[i] == playlists[3][i]:
+            score+=1
+    pass
+
+    print(score / len(playlists[1]))
     #Plots the data - To be worked on
     plot_decision_regions(X=X,
                           y=Y,
                           clf=clf,
-                          filler_feature_values={2: value, 3: value, 4: value ,5 : value , 6:value,7:value, 8:value,9:value,10:value,11:value},
-                          filler_feature_ranges={2: width, 3: width, 4: width,5 : width , 6:width,7:width, 8:width,9:width,10:width,11:width},
+                          filler_feature_values={2: value, 3: value, 4: value ,5 : value , 6:value,7:value, 8:value,9:value,10:value},
+                          filler_feature_ranges={2: width, 3: width, 4: width,5 : width , 6:width,7:width, 8:width,9:width,10:width,},
                           legend=2)
     plt.show()
 #Utility function
