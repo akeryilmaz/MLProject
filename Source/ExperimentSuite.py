@@ -2,6 +2,7 @@ import numpy
 import matplotlib.pyplot as plt
 from mlxtend.plotting import plot_decision_regions
 from sklearn import svm
+from sklearn.decomposition import TruncatedSVD
 import math
 import random
 # Change this to 'from readFile import *' if you are using Python 2.*
@@ -14,25 +15,22 @@ def trainModel(train,labels,test,testLabels):
     width = 1
     X = numpy.array(train)
     Y = numpy.array(labels)
-    clf.fit(X, Y)
-    res = clf.predict(test)
+    svdX = TruncatedSVD().fit_transform(X)
+    svdTest = TruncatedSVD().fit_transform(numpy.array(test))
+    clf.fit(svdX, Y)
+    res = clf.predict(svdTest)
     score = 0
     testLabels = numpy.array(testLabels)
     for i in range(len(res)):
         if res[i] == testLabels[i]:
             score += 1
     # Plots the data - To be worked on
-    '''
-    plot_decision_regions(X=X,
+    plot_decision_regions(X=svdX,
                           y=Y,
                           clf=clf,
-                          filler_feature_values={2: value, 3: value, 4: value, 5: value, 6: value, 7: value, 8: value,
-                                                 9: value, 10: value},
-                          filler_feature_ranges={2: width, 3: width, 4: width, 5: width, 6: width, 7: width, 8: width,
-                                                 9: width, 10: width},
-                          legend=2)
+                         legend=2)
     plt.show()
-    '''
+
     return (score/len(test))
 #Utility function
 def split_list(a_list):
@@ -125,7 +123,6 @@ if __name__ == "__main__":
     for i in range(1, 9):
         allData += readGenreDirectory("../Dataset/" + genres[i])
     songs = flatten(allData)
-    '''
     #Experiment 1: Randomize
     accTotal = 0
     cnt = 0
@@ -182,7 +179,6 @@ if __name__ == "__main__":
         accTotal += acc
         cnt += 1
     print("Experiment done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    '''
     # Experiment 4: Get farthest distances
     accTotal = 0
     cnt = 0
