@@ -58,21 +58,21 @@ def findMean(tag):
 
 # Gets the closest genres according to mean values of the songs in it
 def getNearest(lst):
-        dstDict = {lst[i][0]: [] for i in range(len(lst))}
-        ind = 0
-        for ftrs in lst:
-            dstList = []
-            for otherIndex, otherftrs in enumerate(lst):
-                dst = 0
-                if ftrs[1] == otherftrs[1]:
-                    continue
-                for i in range(1, len(otherftrs[1])):
-                    dst += (otherftrs[1][i] - ftrs[1][i]) ** 2
-                dstList.append((otherftrs[0],dst))
-            dstList.sort(key=lambda tup: tup[1])
-            dstDict[ftrs[0]] = dstList[:2]
-            ind += 1
-        return dstDict
+    dstDict = {lst[i][0]: [] for i in range(len(lst))}
+    ind = 0
+    for ftrs in lst:
+        dstList = []
+        for otherIndex, otherftrs in enumerate(lst):
+            dst = 0
+            if ftrs[1] == otherftrs[1]:
+                continue
+            for i in range(1, len(otherftrs[1])):
+                dst += (otherftrs[1][i] - ftrs[1][i]) ** 2
+            dstList.append((otherftrs[0],dst))
+        dstList.sort(key=lambda tup: tup[1])
+        dstDict[ftrs[0]] = dstList[:2]
+        ind += 1
+    return dstDict
 if __name__ == "__main__":
     '''Find the means'''
     lst = []
