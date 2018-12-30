@@ -1,10 +1,9 @@
 import os
-def readFile(path, genreTag):
-    '''reads a song file of given path(string), returns the feateures and genre tag in a list where the first element is tag
+def readFile(path):
+    '''reads a song file of given path(string), returns the features 
     CAUTION!!! It maps year, loudness and tempo to 0-1 range'''
     songFile = open(path,"r")
     result = []
-    #result.append(genreTag)
     for line in songFile:
         if line.split(':')[0] == "name":
             continue
@@ -20,24 +19,23 @@ def readFile(path, genreTag):
         result.append(float(line.split(':')[1][:-1]))
     return result
 
-def readPlaylistDirectory(path, genreTag):
-    '''reads song files in the playlist folder of given path(string), returns the song feature lists in a list'''
+def readPlaylistDirectory(path, genre):
+    '''reads song files in the playlist folder of given path(string), returns the song feature lists in a list and genrename tag in a list where the first element is tag'''
     result = []
+    result.append(genre)
     for root, subDirectories, files in os.walk(path):
         for songFile in files:
-            result.append(readFile(path + "/" +  songFile, genreTag))
+            result.append(readFile(path + "/" +  songFile))
     return result
 
 
 def readGenreDirectory(path):
     '''reads song files in the genre folder of given path(string), tags the songs returns the song feature lists in a list of list'''
     result = []
-    genres = {"Metal": 1,"Rock": 2,"Jazz":3,"Rap":4,"Electronic":5,"Pop":6,"Soundtrack":7,"Classical":8}
     currentGenre = path.split("/")[-1]
-    tag = genres[currentGenre]
     for root, subDirectories, files in os.walk(path):
         for subDirectory in subDirectories:
-            result.append(readPlaylistDirectory(path + "/" + subDirectory, tag))
+            result.append(readPlaylistDirectory(path + "/" + subDirectory, currentGenre))
     return result
 
 def findMean(tag):
@@ -51,6 +49,7 @@ def findMean(tag):
     totals = [0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.]
     count = 0
     for playlist in result:
+        playlist = playlist[1:]
         for song in playlist:
             count += 1
             for i, feature in enumerate(song[1:]):
@@ -81,4 +80,4 @@ if __name__ == "__main__":
 
     for i in range (1,9):
         lst.append((genres[i],findMean(i)))
-    getNearest(lst)
+    print getNearest(lst)

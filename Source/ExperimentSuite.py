@@ -33,19 +33,22 @@ def trainModel(train,labels,test,testLabels):
                           legend=2)
     plt.show()
     '''
-    return (score/len(test))
+    return (float(score)/len(test))
 #Utility function
 def split_list(a_list):
     half = len(a_list)//2
     return a_list[:half], a_list[half:]
 def randomNForGenre(number):
     genres = {1: "Metal", 2: "Rock", 3: "Jazz", 4: "Rap", 5: "Electronic", 6: "Pop", 7: "Soundtrack", 8: "Classical"}
-    flatten = lambda l: [item for sublist in l for item in sublist]
-    sampleNum = math.floor(number / len(genres.keys()))
+    flatten = lambda l: [sublist for sublist in l]
+    sampleNum = int(math.floor(number / len(genres.keys())))
     sampledGenre = []
     for i in range(1, 9):
         number -= sampleNum
-        flat = flatten(readGenreDirectory("../Dataset/" + genres[i]))
+        genre = readGenreDirectory("../Dataset/" + genres[i])
+        flat = []
+        for playlist in genre:
+            flat += flatten(playlist[1:])
         if(i == 8 and number != 0):
             sampledGenre += random.sample(flat,sampleNum+number)
         else:
@@ -96,11 +99,11 @@ def exp3Dist(allData,playlist):
     for i in range(0,7):
         initNum -= math.floor(nSongs)
         if i== 6 and initNum != 0:
-            sampledSongs += getSongsInRange(distRange,math.floor(nSongs)+math.floor(initNum),allData,meanV)
+            sampledSongs += getSongsInRange(distRange, int(math.floor(nSongs)+math.floor(initNum)),allData,meanV)
             incrDel = (8 -i)*delta
             distRange = (distRange[0] + incrDel, distRange[1] + incrDel)
         else:
-            sampledSongs += getSongsInRange(distRange, math.floor(nSongs), allData, meanV)
+            sampledSongs += getSongsInRange(distRange, int(math.floor(nSongs)), allData, meanV)
             distRange = (distRange[0]+delta,distRange[1]+delta)
 
     return sampledSongs
@@ -116,29 +119,47 @@ def exp4Dist(allData,playlist):
             minDist =dst
     delta = (maxDist-minDist)/2
     distRange = (delta,maxDist)
-    sampledSongs = getSongsInRange(distRange,math.floor(len(playlist)),allData,meanV)
+    sampledSongs = getSongsInRange(distRange,int(math.floor(len(playlist))),allData,meanV)
     return sampledSongs
 if __name__ == "__main__":
     genres = {1: "Metal", 2: "Rock", 3: "Jazz", 4: "Rap", 5: "Electronic", 6: "Pop", 7: "Soundtrack", 8: "Classical"}
-    flatten = lambda l: [item for sublist in l for item in sublist]
+    flatten = lambda l: [sublist for sublist in l]
     allData = []
     for i in range(1, 9):
         allData += readGenreDirectory("../Dataset/" + genres[i])
-    songs = flatten(allData)
-    '''
     #Experiment 1: Randomize
     accTotal = 0
     cnt = 0
-    for playlist in allData:
-        A, B = split_list(playlist)
+    for i, playlist in enumerate(allData):
+        A, B = split_list(playlist[1:])
         findMeanInPlaylist(A)
         train = A[:]
         labels = [1] * len(A)
-        train += random.sample(songs, len(A))
+        songs = []
+        for j, playlist1 in enumerate(allData):
+            if j != i:
+                songs += flatten(playlist1[1:])
+        trainSelected = []
+        for i in range (0,len(A)):
+            while True:
+                newSong = random.randint(0,len(songs)-1)
+                if newSong not in trainSelected:
+                    trainSelected.append(newSong)
+                    break
+        for selectedSong in trainSelected:
+            train.append(songs[selectedSong])
         labels += [0] * len(A)
         test = B[:]
         testLabels = [1] * len(B)
-        test += random.sample(songs, len(B))
+        testSelected = []
+        for i in range (0,len(B)):
+            while True:
+                newSong = random.randint(0,len(songs)-1)
+                if newSong not in testSelected and newSong not in trainSelected :
+                    testSelected.append(newSong)
+                    break
+        for selectedSong in testSelected:
+            test.append(songs[selectedSong])
         testLabels += [0] * len(B)
         acc = trainModel(train,labels,test,testLabels)
         print("Playlist read. Accuracy: ", acc * 100, "%")
@@ -149,7 +170,7 @@ if __name__ == "__main__":
     accTotal = 0
     cnt = 0
     for playlist in allData:
-        A, B = split_list(playlist)
+        A, B = split_list(playlist[1:])
         train = A[:]
         labels = [1] * len(A)
         train += randomNForGenre(len(A))
@@ -168,7 +189,7 @@ if __name__ == "__main__":
     accTotal = 0
     cnt = 0
     for playlist in allData:
-        A, B = split_list(playlist)
+        A, B = split_list(playlist[1:])
         train = A[:]
         labels = [1] * len(A)
         train += exp3Dist(songs,A)
@@ -182,12 +203,12 @@ if __name__ == "__main__":
         accTotal += acc
         cnt += 1
     print("Experiment done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    '''
+    
     # Experiment 4: Get farthest distances
     accTotal = 0
     cnt = 0
     for playlist in allData:
-        A, B = split_list(playlist)
+        A, B = split_list(playlist[1:])
         train = A[:]
         labels = [1] * len(A)
         train += exp4Dist(songs, A)
@@ -200,4 +221,56 @@ if __name__ == "__main__":
         print("Playlist read. Accuracy: ", acc * 100, "%")
         accTotal += acc
         cnt += 1
+    print("Experiment done. Overall accuracy: ", 100 * accTotal / cnt, '%')
+    lst = []
+    for i in range (1,9):
+        lst.append((genres[i],findMean(i)))
+    genreDistanceDict = getNearest(lst)
+    # Experiment 5: select train data randmly from nearest 3 genres
+    accTotal = 0
+    cnt = 0
+    for i, playlist in enumerate(allData):
+        currentGenre = playlist[0]
+        A, B = split_list(playlist[1:])
+        train = A[:]
+        labels = [1] * len(A)
+        top3GenresPlaylists = []
+        for otherGenre, distance in genreDistanceDict[currentGenre]:
+            top3GenresPlaylists += readGenreDirectory("../Dataset/"+otherGenre)
+        top3genreSongs = []
+        for j, playlist1 in enumerate(allData):
+            if j != i and currentGenre == playlist1[0]:
+                top3genreSongs += flatten(playlist1[1:])
+        for playlist1 in top3GenresPlaylists:
+            top3genreSongs += flatten(playlist1[1:])
+        trainSelected = []
+        for i in range (0,len(A)):
+            while True:
+                newSong = random.randint(0,len(top3genreSongs)-1)
+                if newSong not in trainSelected:
+                    trainSelected.append(newSong)
+                    break
+        for selectedSong in trainSelected:
+            train.append(top3genreSongs[selectedSong])
+        labels += [0] * len(A)
+        test = B[:]
+        testLabels = [1] * len(B)
+        allSongs = []
+        for j, playlist1 in enumerate(allData):
+            if j != i:
+                allSongs += flatten(playlist1[1:])
+        testSelected = []
+        for i in range (0,len(B)):
+            while True:
+                newSong = random.randint(0,len(allSongs)-1)
+                if newSong not in testSelected:
+                    testSelected.append(newSong)
+                    break
+        for selectedSong in testSelected:
+            test.append(allSongs[selectedSong])
+        testLabels += [0] * len(B)
+        acc = trainModel(train,labels,test,testLabels)
+        print("Playlist read. Accuracy: ", acc * 100, "%")
+        accTotal +=acc
+        cnt+=1
     print("Experiment done. Overall accuracy: ", 100 * accTotal / cnt, '%')
