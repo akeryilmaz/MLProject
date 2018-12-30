@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from mlxtend.plotting import plot_decision_regions
 from sklearn import svm
 # Change this to 'from readFile import *' if you are using Python 2.*
-from Source.readFile import *
+from readFile import *
 # Returns the train and test data as well as labels for train data.
 def getData():
     genres = {1: "Metal", 2: "Rock", 3: "Jazz", 4: "Rap", 5: "Electronic", 6: "Pop", 7: "Soundtrack", 8: "Classical"}
