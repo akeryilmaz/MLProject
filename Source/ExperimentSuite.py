@@ -11,13 +11,11 @@ from sklearn.model_selection import cross_val_score
 from readFile import *
 
 results = []
-scores = []
-
 
 # Returns the train and test data as well as labels for train data.
 # Trains the model using SciKit Learn SVC
-def trainModel(train, labels, test, testLabels):
-    clf = svm.SVC(gamma='scale', kernel='rbf', C=1.0)
+def trainModel(train, labels, test, testLabels, penalty=1.0):
+    clf = svm.SVC(gamma='scale', kernel='rbf', C=penalty)
     value = 1
     width = 1
     X = numpy.array(train)
@@ -42,13 +40,13 @@ def trainModel(train, labels, test, testLabels):
                           legend=2)
     plt.show()
     '''
-    if (float(score) / len(test)) * 100 > 90:
-        kFoldCrossValidation(clf, X, Y, 8)
-    return (float(score) / len(test))
+    return kFoldCrossValidation(clf, X, Y, 8)
 
 
 def kFoldCrossValidation(clf, X, y, cv):
+    scores = []
     scores.append(cross_val_score(estimator=clf, X=X, y=y, cv=cv))
+    return numpy.mean(scores)
 
 
 # Utility function
@@ -72,7 +70,6 @@ def randomNForGenre(number):
             sampledGenre += random.sample(flat, sampleNum + number)
         else:
             sampledGenre += random.sample(flat, sampleNum)
-
     return sampledGenre
 
 
@@ -201,345 +198,334 @@ if __name__ == "__main__":
     allData = []
     for i in range(1, 9):
         allData += readGenreDirectory("../Dataset/" + genres[i])
-    # Experiment 1: Randomize
-    accTotal = 0
-    cnt = 0
-    for i, playlist in enumerate(allData):
-        A, B = split_list(playlist[1:])
-        findMeanInPlaylist(A)
-        train = A[:]
-        labels = [1] * len(A)
-        songs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i:
-                songs += flatten(playlist1[1:])
-        trainSelected = []
-        for k in range(0, len(A)):
-            while True:
-                newSong = random.randint(0, len(songs) - 1)
-                if newSong not in trainSelected:
-                    trainSelected.append(newSong)
-                    break
-        for selectedSong in trainSelected:
-            train.append(songs[selectedSong])
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train, labels, test, testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal += acc
-        cnt += 1
-    print("Experiment 1 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
-    # Experiment 2: Equal for each genre
-    accTotal = 0
-    cnt = 0
-    for playlist in allData:
-        songs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i:
-                songs += flatten(playlist1[1:])
-        A, B = split_list(playlist[1:])
-        train = A[:]
-        labels = [1] * len(A)
-        train += randomNForGenre(len(A))
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train, labels, test, testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal += acc
-        cnt += 1
-    print("Experiment 2 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
-    # Experiment 3: Select train data by distance
-    accTotal = 0
-    cnt = 0
-    for playlist in allData:
-        songs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i:
-                songs += flatten(playlist1[1:])
-        A, B = split_list(playlist[1:])
-        train = A[:]
-        labels = [1] * len(A)
-        train += exp3Dist(songs, A)
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train, labels, test, testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal += acc
-        cnt += 1
-    print("Experiment 3 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
+    for penalty in [0.000001, 0.1, 0.2, 0.5, 1, 2, 3, 4, 5, 10]:
+        '''
+        # Experiment 1: Randomize
+        accTotal = 0
+        cnt = 0
+        for i, playlist in enumerate(allData):
+            A, B = split_list(playlist[1:])
+            findMeanInPlaylist(A)
+            train = A[:]
+            labels = [1] * len(A)
+            songs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i:
+                    songs += flatten(playlist1[1:])
+            trainSelected = []
+            for k in range(0, len(A)):
+                while True:
+                    newSong = random.randint(0, len(songs) - 1)
+                    if newSong not in trainSelected:
+                        trainSelected.append(newSong)
+                        break
+            for selectedSong in trainSelected:
+                train.append(songs[selectedSong])
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal += acc
+            cnt += 1
+        print ("Experiment 1 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
+        # Experiment 2: Equal for each genre
+        accTotal = 0
+        cnt = 0
+        for playlist in allData:
+            songs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i:
+                    songs += flatten(playlist1[1:])
+            A, B = split_list(playlist[1:])
+            train = A[:]
+            labels = [1] * len(A)
+            train += randomNForGenre(len(A))
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal += acc
+            cnt += 1
+        print ("Experiment 2 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
+        # Experiment 3: Select train data by distance
+        accTotal = 0
+        cnt = 0
+        for playlist in allData:
+            songs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i:
+                    songs += flatten(playlist1[1:])
+            A, B = split_list(playlist[1:])
+            train = A[:]
+            labels = [1] * len(A)
+            train += exp3Dist(songs, A)
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal += acc
+            cnt += 1
+        print ("Experiment 3 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
+        '''
+        # Experiment 4: Get farthest distances
+        accTotal = 0
+        cnt = 0
+        for playlist in allData:
+            songs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i:
+                    songs += flatten(playlist1[1:])
+            A, B = split_list(playlist[1:])
+            train = A[:]
+            labels = [1] * len(A)
+            train += exp4Dist(songs, A)
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal += acc
+            cnt += 1
+        print ("Experiment 4 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
 
-    # Experiment 4: Get farthest distances
-    accTotal = 0
-    cnt = 0
-    for playlist in allData:
-        songs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i:
-                songs += flatten(playlist1[1:])
-        A, B = split_list(playlist[1:])
-        train = A[:]
-        labels = [1] * len(A)
-        train += exp4Dist(songs, A)
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train, labels, test, testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal += acc
-        cnt += 1
-    print("Experiment 4 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
-
-    lst = []
-    for i in range(1, 9):
-        lst.append((genres[i], findMean(i)))
-    genreDistanceDict = getNearest(lst)
-
-    # Experiment 5: select train data randmly from nearest 3 genres
-    accTotal = 0
-    cnt = 0
-    for i, playlist in enumerate(allData):
-        currentGenre = playlist[0]
-        A, B = split_list(playlist[1:])
-        train = A[:]
-        labels = [1] * len(A)
-        top3GenresPlaylists = []
-        for otherGenre, genreDistance in genreDistanceDict[currentGenre]:
-            top3GenresPlaylists += readGenreDirectory("../Dataset/" + otherGenre)
-        top3genreSongs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i and currentGenre == playlist1[0]:
+        lst = []
+        for i in range(1, 9):
+            lst.append((genres[i], findMean(i)))
+        genreDistanceDict = getNearest(lst)
+        '''
+        # Experiment 5: select train data randmly from nearest 3 genres
+        accTotal = 0
+        cnt = 0
+        for i, playlist in enumerate(allData):
+            currentGenre = playlist[0]
+            A, B = split_list(playlist[1:])
+            train = A[:]
+            labels = [1] * len(A)
+            top3GenresPlaylists = []
+            for otherGenre, genreDistance in genreDistanceDict[currentGenre]:
+                top3GenresPlaylists += readGenreDirectory("../Dataset/" + otherGenre)
+            top3genreSongs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i and currentGenre == playlist1[0]:
+                    top3genreSongs += flatten(playlist1[1:])
+            for playlist1 in top3GenresPlaylists:
                 top3genreSongs += flatten(playlist1[1:])
-        for playlist1 in top3GenresPlaylists:
-            top3genreSongs += flatten(playlist1[1:])
-        trainSelected = []
-        for k in range(0, len(A)):
-            while True:
-                newSong = random.randint(0, len(top3genreSongs) - 1)
-                if newSong not in trainSelected:
-                    trainSelected.append(newSong)
-                    break
-        for selectedSong in trainSelected:
-            train.append(top3genreSongs[selectedSong])
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train, labels, test, testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal += acc
-        cnt += 1
-    print("Experiment 5 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
+            trainSelected = []
+            for k in range(0, len(A)):
+                while True:
+                    newSong = random.randint(0, len(top3genreSongs) - 1)
+                    if newSong not in trainSelected:
+                        trainSelected.append(newSong)
+                        break
+            for selectedSong in trainSelected:
+                train.append(top3genreSongs[selectedSong])
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal += acc
+            cnt += 1
+        print ("Experiment 5 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
 
-    '''
-    # Experiment 6: select train data closest outside of the average distance
-    accTotal = 0
-    cnt = 0
-    for i, playlist in enumerate(allData):
-        A, B = split_list(playlist[1:])
-        findMeanInPlaylist(A)
-        train = A[:]
-        labels = [1] * len(A)
-        songs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i:
-                songs += flatten(playlist1[1:])
-        average = averageDistanceInPlaylist(playlist[1:])
-        songDistances = []
-        outSongs = []
-        for song in songs:
-            songDistance = averageDistance(song, playlist[1:])
-            if songDistance > average:
-                songDistances.append(songDistance)
-                outSongs.append(song)
-        trainSelected = []
-        for k in range (0,len(A)):
-            currentMin = min(songDistances)
-            currentIndex = songDistances.index(currentMin)
-            train.append(outSongs[currentIndex])
-            del songDistances[currentIndex]
-            del outSongs[currentIndex]
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train,labels,test,testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal +=acc
-        cnt+=1
-    print("Experiment 6 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
-    '''
-
-    # Experiment 7: select train data closest outside of the centroid and average distance to centroid
-    accTotal = 0
-    cnt = 0
-    for i, playlist in enumerate(allData):
-        A, B = split_list(playlist[1:])
-        findMeanInPlaylist(A)
-        train = A[:]
-        labels = [1] * len(A)
-        songs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i:
-                songs += flatten(playlist1[1:])
-        centroid = findCentroid(playlist[1:])
-        average = averageDistanceCentroid(playlist[1:], centroid)
-        songDistances = []
-        outSongs = []
-        for song in songs:
-            songDistance = distance.euclidean(song, centroid)
-            if songDistance > average:
-                songDistances.append(songDistance)
-                outSongs.append(song)
-        trainSelected = []
-        for k in range(0, len(A)):
-            currentMin = min(songDistances)
-            currentIndex = songDistances.index(currentMin)
-            train.append(outSongs[currentIndex])
-            del songDistances[currentIndex]
-            del outSongs[currentIndex]
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train, labels, test, testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal += acc
-        cnt += 1
-    print("Experiment 7 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
-
-    # Experiment 8: select train data closest outside of the centroid and max distance to centroid
-    accTotal = 0
-    cnt = 0
-    for i, playlist in enumerate(allData):
-        A, B = split_list(playlist[1:])
-        findMeanInPlaylist(A)
-        train = A[:]
-        labels = [1] * len(A)
-        songs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i:
-                songs += flatten(playlist1[1:])
-        centroid = findCentroid(playlist[1:])
-        maxDistance = maxDistanceCentroid(playlist[1:], centroid)
-        songDistances = []
-        outSongs = []
-        for song in songs:
-            songDistance = distance.euclidean(song, centroid)
-            if songDistance > maxDistance:
-                songDistances.append(songDistance)
-                outSongs.append(song)
-        trainSelected = []
-        try:
+        # Experiment 6: select train data closest outside of the average distance
+        accTotal = 0
+        cnt = 0
+        for i, playlist in enumerate(allData):
+            A, B = split_list(playlist[1:])
+            findMeanInPlaylist(A)
+            train = A[:]
+            labels = [1] * len(A)
+            songs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i:
+                    songs += flatten(playlist1[1:])
+            average = averageDistanceInPlaylist(playlist[1:])
+            songDistances = []
+            outSongs = []
+            for song in songs:
+                songDistance = averageDistance(song, playlist[1:])
+                if songDistance > average:
+                    songDistances.append(songDistance)
+                    outSongs.append(song)
+            trainSelected = []
+            for k in range (0,len(A)):
+                currentMin = min(songDistances)
+                currentIndex = songDistances.index(currentMin)
+                train.append(outSongs[currentIndex])
+                del songDistances[currentIndex]
+                del outSongs[currentIndex]
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal +=acc
+            cnt+=1
+        print ("Experiment 6 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
+        # Experiment 7: select train data closest outside of the centroid and average distance to centroid
+        accTotal = 0
+        cnt = 0
+        for i, playlist in enumerate(allData):
+            A, B = split_list(playlist[1:])
+            findMeanInPlaylist(A)
+            train = A[:]
+            labels = [1] * len(A)
+            songs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i:
+                    songs += flatten(playlist1[1:])
+            centroid = findCentroid(playlist[1:])
+            average = averageDistanceCentroid(playlist[1:], centroid)
+            songDistances = []
+            outSongs = []
+            for song in songs:
+                songDistance = distance.euclidean(song, centroid)
+                if songDistance > average:
+                    songDistances.append(songDistance)
+                    outSongs.append(song)
+            trainSelected = []
             for k in range(0, len(A)):
                 currentMin = min(songDistances)
                 currentIndex = songDistances.index(currentMin)
                 train.append(outSongs[currentIndex])
                 del songDistances[currentIndex]
                 del outSongs[currentIndex]
-        except:
-            continue
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train, labels, test, testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal += acc
-        cnt += 1
-    print("Experiment 8 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal += acc
+            cnt += 1
+        print ("Experiment 7 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
+        '''
+        # Experiment 8: select train data closest outside of the centroid and max distance to centroid
+        accTotal = 0
+        cnt = 0
+        for i, playlist in enumerate(allData):
+            A, B = split_list(playlist[1:])
+            findMeanInPlaylist(A)
+            train = A[:]
+            labels = [1] * len(A)
+            songs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i:
+                    songs += flatten(playlist1[1:])
+            centroid = findCentroid(playlist[1:])
+            maxDistance = maxDistanceCentroid(playlist[1:], centroid)
+            songDistances = []
+            outSongs = []
+            for song in songs:
+                songDistance = distance.euclidean(song, centroid)
+                if songDistance > maxDistance:
+                    songDistances.append(songDistance)
+                    outSongs.append(song)
+            trainSelected = []
+            try:
+                for k in range(0, len(A)):
+                    currentMin = min(songDistances)
+                    currentIndex = songDistances.index(currentMin)
+                    train.append(outSongs[currentIndex])
+                    del songDistances[currentIndex]
+                    del outSongs[currentIndex]
+            except:
+                continue
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal += acc
+            cnt += 1
+        print ("Experiment 8 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
 
-    # Experiment 9: select train data randomly outside of the centroid
-    accTotal = 0
-    cnt = 0
-    for i, playlist in enumerate(allData):
-        A, B = split_list(playlist[1:])
-        findMeanInPlaylist(A)
-        train = A[:]
-        labels = [1] * len(A)
-        songs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i:
-                songs += flatten(playlist1[1:])
-        centroid = findCentroid(playlist[1:])
-        maxDistance = maxDistanceCentroid(playlist[1:], centroid)
-        songDistances = []
-        outSongs = []
-        for song in songs:
-            songDistance = distance.euclidean(song, centroid)
-            if songDistance > maxDistance:
-                songDistances.append(songDistance)
-                outSongs.append(song)
-        trainSelected = []
-        for k in range(0, len(A)):
-            for j in range(0, len(outSongs)):
-                newSong = random.randint(0, len(outSongs) - 1)
-                if newSong not in trainSelected:
-                    trainSelected.append(newSong)
-                    break
-        if j == len(outSongs) - 1:
-            continue
-        for selectedSong in trainSelected:
-            train.append(outSongs[selectedSong])
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train, labels, test, testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal += acc
-        cnt += 1
-    print("Experiment 9 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
-
-    # Experiment 10: select train data randomly outside of the centroid with average distance to centroid
-    accTotal = 0
-    cnt = 0
-    for i, playlist in enumerate(allData):
-        A, B = split_list(playlist[1:])
-        findMeanInPlaylist(A)
-        train = A[:]
-        labels = [1] * len(A)
-        songs = []
-        for j, playlist1 in enumerate(allData):
-            if j != i:
-                songs += flatten(playlist1[1:])
-        centroid = findCentroid(playlist[1:])
-        average = averageDistanceCentroid(playlist[1:], centroid)
-        songDistances = []
-        outSongs = []
-        for song in songs:
-            songDistance = distance.euclidean(song, centroid)
-            if songDistance > average:
-                songDistances.append(songDistance)
-                outSongs.append(song)
-        trainSelected = []
-        for k in range(0, len(A)):
-            for j in range(0, len(outSongs)):
-                newSong = random.randint(0, len(outSongs) - 1)
-                if newSong not in trainSelected:
-                    trainSelected.append(newSong)
-                    break
-        if j == len(outSongs) - 1:
-            continue
-        for selectedSong in trainSelected:
-            train.append(outSongs[selectedSong])
-        labels += [0] * len(A)
-        test = B[:]
-        testLabels = [1] * len(B)
-        acc = trainModel(train, labels, test, testLabels)
-        print("Playlist read. Accuracy: ", acc * 100, "%")
-        accTotal += acc
-        cnt += 1
-    print("Experiment 10 done. Overall accuracy: ", 100 * accTotal / cnt, '%')
-    results.append(100 * accTotal / cnt)
+        # Experiment 9: select train data randomly outside of the centroid
+        accTotal = 0
+        cnt = 0
+        for i, playlist in enumerate(allData):
+            A, B = split_list(playlist[1:])
+            findMeanInPlaylist(A)
+            train = A[:]
+            labels = [1] * len(A)
+            songs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i:
+                    songs += flatten(playlist1[1:])
+            centroid = findCentroid(playlist[1:])
+            maxDistance = maxDistanceCentroid(playlist[1:], centroid)
+            songDistances = []
+            outSongs = []
+            for song in songs:
+                songDistance = distance.euclidean(song, centroid)
+                if songDistance > maxDistance:
+                    songDistances.append(songDistance)
+                    outSongs.append(song)
+            trainSelected = []
+            for k in range(0, len(A)):
+                for j in range(0, len(outSongs)):
+                    newSong = random.randint(0, len(outSongs) - 1)
+                    if newSong not in trainSelected:
+                        trainSelected.append(newSong)
+                        break
+            if j == len(outSongs) - 1:
+                continue
+            for selectedSong in trainSelected:
+                train.append(outSongs[selectedSong])
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal += acc
+            cnt += 1
+        print ("Experiment 9 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
+        '''
+        # Experiment 10: select train data randomly outside of the centroid with average distance to centroid
+        accTotal = 0
+        cnt = 0
+        for i, playlist in enumerate(allData):
+            A, B = split_list(playlist[1:])
+            findMeanInPlaylist(A)
+            train = A[:]
+            labels = [1] * len(A)
+            songs = []
+            for j, playlist1 in enumerate(allData):
+                if j != i:
+                    songs += flatten(playlist1[1:])
+            centroid = findCentroid(playlist[1:])
+            average = averageDistanceCentroid(playlist[1:], centroid)
+            songDistances = []
+            outSongs = []
+            for song in songs:
+                songDistance = distance.euclidean(song, centroid)
+                if songDistance > average:
+                    songDistances.append(songDistance)
+                    outSongs.append(song)
+            trainSelected = []
+            for k in range(0, len(A)):
+                for j in range(0, len(outSongs)):
+                    newSong = random.randint(0, len(outSongs) - 1)
+                    if newSong not in trainSelected:
+                        trainSelected.append(newSong)
+                        break
+            if j == len(outSongs) - 1:
+                continue
+            for selectedSong in trainSelected:
+                train.append(outSongs[selectedSong])
+            labels += [0] * len(A)
+            test = B[:]
+            testLabels = [1] * len(B)
+            acc = trainModel(train, labels, test, testLabels, penalty)
+            accTotal += acc
+            cnt += 1
+        print ("Experiment 10 done with C=", penalty, ". Overall accuracy: ", 100 * accTotal / cnt, '%')
+        results.append(100 * accTotal / cnt)
+        '''
     # IF A PLAYLIST ACC ABOVE 90%, THAT GOES INTO 8-FOLD CV.
-    print("OVERALL AVG of 8-FOLD CV=", numpy.mean(scores))
     print("MAX ACCURACY: ", max(results))
     print("MIN ACCURACY: ", min(results))
     print("AVG ACCURACY: ", numpy.mean(results))
