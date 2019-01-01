@@ -62,7 +62,7 @@ def randomNForGenre(number):
     sampledGenre = []
     for i in range(1, 9):
         number -= sampleNum
-        genre = readGenreDirectory("../Dataset/" + genres[i])
+        genre = readGenreDirectory("../Dataset/" + genres[i])[0]
         flat = []
         for playlist in genre:
             flat += flatten(playlist[1:])
@@ -197,7 +197,8 @@ if __name__ == "__main__":
     flatten = lambda l: [sublist for sublist in l]
     allData = []
     for i in range(1, 9):
-        allData += readGenreDirectory("../Dataset/" + genres[i])
+
+        allData += readGenreDirectory("../Dataset/" + genres[i])[0]
     for penalty in [0.000001, 0.1, 0.2, 0.5, 1, 2, 3, 4, 5, 10]:
         '''
         # Experiment 1: Randomize
@@ -306,7 +307,7 @@ if __name__ == "__main__":
             labels = [1] * len(A)
             top3GenresPlaylists = []
             for otherGenre, genreDistance in genreDistanceDict[currentGenre]:
-                top3GenresPlaylists += readGenreDirectory("../Dataset/" + otherGenre)
+                top3GenresPlaylists += readGenreDirectory("../Dataset/" + otherGenre)[0]
             top3genreSongs = []
             for j, playlist1 in enumerate(allData):
                 if j != i and currentGenre == playlist1[0]:
