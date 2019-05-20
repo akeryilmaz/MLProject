@@ -1,3 +1,3 @@
 # MLProject
-METU Ceng499 Machine Learning Project: 
+METU Ceng499 Introduction to Machine Learning Project: 
 Automated Playlist Generation using SVM
